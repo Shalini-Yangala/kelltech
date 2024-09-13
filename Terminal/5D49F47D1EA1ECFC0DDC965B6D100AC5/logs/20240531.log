@@ -1,0 +1,573 @@
+1	09:43:28.724	MQL5.community: authorization failed
+0	09:43:34.733	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:43:37.340	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:43:40.625	'66686155': previous successful authorization performed from 103.213.202.61
+0	09:43:45.326	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 223.58 ms)
+0	09:43:46.285	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.58 ms)
+0	09:43:48.299	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.58 ms)
+0	09:43:49.425	'66686155': previous successful authorization performed from 103.213.202.61
+2	09:53:44.751	Expert Pennant EURUSD,H1: loaded successfully
+0	09:56:08.431	'66686155': modify order #248117117 sell 0.10 EURUSD at 1.08191 sl: 0.00000 tp: 1.08090 -> sl: 1.08231 tp: 1.08090
+0	09:56:08.884	'66686155': order #248117117 sell 0.10 EURUSD at 1.08191 was modified -> sl: 1.08231 tp: 1.08090
+0	09:56:15.711	'66686155': close order #248117117 sell 0.10 EURUSD at 1.08191 sl: 1.08231 tp: 1.08090 at price 0.00000
+0	09:56:16.086	'66686155': order #248117117 sell 0.10 EURUSD at 1.08191 sl: 1.08231 tp: 1.08090 closed at price 1.08172
+0	09:56:21.371	'66686155': close order #248117120 sell 0.10 EURUSD at 1.08191 sl: 0.00000 tp: 1.08091 at price 0.00000
+0	09:56:21.747	'66686155': order #248117120 sell 0.10 EURUSD at 1.08191 sl: 0.00000 tp: 1.08091 closed at price 1.08171
+2	09:57:01.130	Expert Pennant EURUSD,H1: removed
+2	09:57:01.146	Expert Pennant EURUSD,H1: loaded successfully
+2	09:57:13.161	Expert Pennant EURUSD,H1: loaded successfully
+0	09:57:54.283	Sources recompilation started
+2	09:59:11.712	Expert Pennant EURUSD,H1: removed
+2	09:59:11.743	Expert Pennant EURUSD,H1: loaded successfully
+2	09:59:11.743	Expert Pennant EURUSD,H1: removed
+2	09:59:11.759	Expert Pennant EURUSD,H1: loaded successfully
+2	10:00:05.772	Expert Pennant EURUSD,H1: removed
+2	10:00:05.788	Expert Pennant EURUSD,H1: loaded successfully
+2	10:00:05.788	Expert Pennant EURUSD,H1: removed
+2	10:00:05.819	Expert Pennant EURUSD,H1: loaded successfully
+2	10:00:54.433	Expert Double Top and Bottom AUDCHF,H1: removed
+2	10:00:57.854	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:01:01.432	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:01:03.822	Custom indicator FXPT_DBLtopbottom EURUSD,H1: removed
+2	10:01:06.274	Custom indicator double_top EURUSD,H1: removed
+2	10:01:08.665	Expert Pennant EURUSD,H1: removed
+2	10:01:16.850	Expert Pennant EURUSD,H1: removed
+2	10:01:36.940	Expert Pennant EURUSD,H1: loaded successfully
+2	10:06:48.921	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:08:24.724	Expert Pennant EURUSD,H1: removed
+2	10:08:33.441	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:08:34.983	Expert Pennant EURUSD,H1: loaded successfully
+2	10:09:43.895	Custom indicator FXPT_DBLtopbottom EURUSD,H1: loaded successfully
+2	10:11:02.437	Expert Pennant EURUSD,H1: removed
+2	10:11:02.453	Expert Pennant EURUSD,H1: loaded successfully
+2	10:11:21.175	Expert Pennant EURUSD,H1: loaded successfully
+2	10:12:14.819	Expert Pennant EURUSD,H1: removed
+2	10:12:14.929	Expert Pennant EURUSD,H1: loaded successfully
+2	10:12:14.929	Expert Pennant EURUSD,H1: removed
+2	10:12:14.944	Expert Pennant EURUSD,H1: loaded successfully
+2	10:12:25.688	Custom indicator FXPT_DBLtopbottom EURUSD,H1: removed
+2	10:12:28.777	Expert Pennant EURUSD,H1: removed
+2	10:12:39.616	Expert Pennant EURUSD,H1: removed
+2	10:12:59.669	Expert Pennant EURUSD,H1: loaded successfully
+1	10:14:49.781	'66686155': ping failed
+1	10:14:49.781	'66686155': datacenter connecting failed [6]
+1	10:14:50.480	'66686155': connect failed [No connection]
+0	10:15:55.430	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:15:58.003	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:15:59.089	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:16:05.917	'66686155': ping to current access point HK_DC_D06 is 313.22 ms
+1	10:16:18.092	'66686155': ping failed
+1	10:16:18.095	'66686155': datacenter connecting failed [6]
+1	10:16:18.334	'66686155': connect failed [No connection]
+0	10:16:24.318	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:16:26.637	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:16:27.746	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:16:34.523	'66686155': ping to current access point HK_DC_D06 is 311.71 ms
+2	10:17:01.501	Expert Pennant EURUSD,H1: removed
+2	10:17:01.525	Expert Pennant EURUSD,H1: loaded successfully
+2	10:18:04.609	Expert Pennant EURUSD,H1: removed
+2	10:18:04.636	Expert Pennant EURUSD,H1: loaded successfully
+2	10:18:12.410	Expert Pennant EURUSD,H1: loaded successfully
+1	10:19:38.738	'66686155': connect failed [No connection]
+2	10:20:04.540	Expert Pennant EURUSD,H1: removed
+2	10:20:04.564	Expert Pennant EURUSD,H1: loaded successfully
+2	10:20:04.568	Expert Pennant EURUSD,H1: removed
+2	10:20:04.587	Expert Pennant EURUSD,H1: loaded successfully
+2	10:20:09.991	Expert Pennant EURUSD,H1: removed
+2	10:20:10.014	Expert Pennant EURUSD,H1: loaded successfully
+2	10:20:10.018	Expert Pennant EURUSD,H1: removed
+2	10:20:10.038	Expert Pennant EURUSD,H1: loaded successfully
+0	10:20:52.380	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.71 ms)
+0	10:20:54.762	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.71 ms)
+0	10:20:55.775	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:20:56.062	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:26:10.839	Expert Double Top and Bottom AUDCHF,H1: loaded successfully
+2	10:26:35.528	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:27:42.108	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:27:42.134	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:27:42.138	Expert Double Top and Bottom AUDCHF,H1: removed
+2	10:27:42.157	Expert Double Top and Bottom AUDCHF,H1: loaded successfully
+2	10:27:42.161	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:27:42.186	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:29:26.290	Expert Double Top and Bottom AUDCHF,H1: removed
+2	10:29:30.092	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:29:34.124	Expert Pennant EURUSD,H1: removed
+2	10:29:36.671	Expert Pennant EURUSD,H1: removed
+2	10:29:45.010	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:30:45.883	Expert Pennant EURUSD,H1: loaded successfully
+2	10:33:03.574	Expert Pennant EURUSD,H1: removed
+2	10:33:03.603	Expert Pennant EURUSD,H1: loaded successfully
+2	10:33:15.552	Expert Pennant EURUSD,H1: loaded successfully
+2	10:34:39.201	Expert Pennant EURUSD,H1: removed
+2	10:34:39.229	Expert Pennant EURUSD,H1: loaded successfully
+2	10:34:39.233	Expert Pennant EURUSD,H1: removed
+2	10:34:39.250	Expert Pennant EURUSD,H1: loaded successfully
+2	10:34:50.858	Expert Pennant EURUSD,H1: loaded successfully
+2	10:35:40.403	Expert Pennant EURUSD,H1: removed
+2	10:35:40.424	Expert Pennant EURUSD,H1: loaded successfully
+2	10:35:40.428	Expert Pennant EURUSD,H1: removed
+2	10:35:40.448	Expert Pennant EURUSD,H1: loaded successfully
+2	10:35:40.452	Expert Pennant EURUSD,H1: removed
+2	10:35:40.471	Expert Pennant EURUSD,H1: loaded successfully
+2	10:35:55.332	Expert Pennant EURUSD,H1: loaded successfully
+2	10:36:41.124	Expert Pennant EURUSD,H1: removed
+2	10:36:41.148	Expert Pennant EURUSD,H1: loaded successfully
+2	10:36:41.152	Expert Pennant EURUSD,H1: removed
+2	10:36:41.170	Expert Pennant EURUSD,H1: loaded successfully
+2	10:36:41.174	Expert Pennant EURUSD,H1: removed
+2	10:36:41.195	Expert Pennant EURUSD,H1: loaded successfully
+2	10:36:41.203	Expert Pennant EURUSD,H1: removed
+2	10:36:41.221	Expert Pennant EURUSD,H1: loaded successfully
+2	10:36:49.918	Expert Pennant EURUSD,H1: loaded successfully
+2	10:37:27.925	Expert Pennant EURUSD,H1: removed
+2	10:37:27.945	Expert Pennant EURUSD,H1: loaded successfully
+2	10:37:27.949	Expert Pennant EURUSD,H1: removed
+2	10:37:27.969	Expert Pennant EURUSD,H1: loaded successfully
+2	10:37:27.973	Expert Pennant EURUSD,H1: removed
+2	10:37:27.990	Expert Pennant EURUSD,H1: loaded successfully
+2	10:37:27.994	Expert Pennant EURUSD,H1: removed
+2	10:37:28.015	Expert Pennant EURUSD,H1: loaded successfully
+2	10:37:28.020	Expert Pennant EURUSD,H1: removed
+2	10:37:28.038	Expert Pennant EURUSD,H1: loaded successfully
+2	10:37:39.378	Expert Pennant EURUSD,H1: loaded successfully
+2	10:38:20.516	Expert Pennant EURUSD,H1: removed
+2	10:38:20.541	Expert Pennant EURUSD,H1: loaded successfully
+2	10:38:20.545	Expert Pennant EURUSD,H1: removed
+2	10:38:20.564	Expert Pennant EURUSD,H1: loaded successfully
+2	10:38:20.568	Expert Pennant EURUSD,H1: removed
+2	10:38:20.587	Expert Pennant EURUSD,H1: loaded successfully
+2	10:38:20.591	Expert Pennant EURUSD,H1: removed
+2	10:38:20.616	Expert Pennant EURUSD,H1: loaded successfully
+2	10:38:20.620	Expert Pennant EURUSD,H1: removed
+2	10:38:20.637	Expert Pennant EURUSD,H1: loaded successfully
+2	10:38:20.643	Expert Pennant EURUSD,H1: removed
+2	10:38:20.660	Expert Pennant EURUSD,H1: loaded successfully
+2	10:40:37.666	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:51:33.567	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	10:52:08.707	Expert Pennant EURUSD,H1: removed
+2	10:52:11.167	Expert Pennant EURUSD,H1: removed
+2	10:52:16.266	Expert Pennant EURUSD,H1: removed
+2	10:52:18.956	Expert Pennant EURUSD,H1: removed
+2	10:52:23.058	Expert Pennant EURUSD,H1: removed
+2	10:52:25.392	Expert Pennant EURUSD,H1: removed
+2	11:13:52.148	Expert Triple Top and Bottom EURUSD,H1: removed
+2	11:13:52.176	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	11:14:04.853	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	11:15:36.910	Expert Triple Top and Bottom EURUSD,H1: removed
+2	11:29:00.636	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+1	12:20:51.355	'66686155': connect failed [No connection]
+0	12:22:10.340	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.71 ms)
+0	12:22:13.140	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.71 ms)
+0	12:22:14.201	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:22:28.451	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 233.06 ms)
+0	12:22:29.263	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	12:22:32.631	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	12:22:33.596	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:27:23.532	Expert Double Top and Bottom GBPUSD,H1: removed
+2	12:27:23.564	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	12:27:23.564	Expert Double Top and Bottom EURUSD,H1: removed
+2	12:27:23.579	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	12:27:41.398	Expert TW pattern EURUSD,H1: loaded successfully
+1	12:30:49.365	'66686155': connect failed [No connection]
+0	12:32:03.013	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	12:32:06.087	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	12:32:07.028	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:33:03.566	Expert TW pattern EURUSD,H1: removed
+2	12:33:03.597	Expert TW pattern EURUSD,H1: loaded successfully
+2	12:33:15.128	Expert TW pattern EURUSD,H1: loaded successfully
+2	12:42:17.943	Expert Wedges EURUSD,H1: loaded successfully
+2	12:44:10.892	Expert Wedges EURUSD,H1: removed
+2	12:44:10.908	Expert Wedges EURUSD,H1: loaded successfully
+2	12:47:33.885	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	12:52:54.295	Expert Triangle Pattern EURUSD,H1: removed
+2	12:52:54.327	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	12:53:07.875	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	12:53:47.295	Expert Triangle Pattern EURUSD,H1: removed
+2	12:53:47.326	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	12:53:47.326	Expert Triangle Pattern EURUSD,H1: removed
+2	12:53:47.342	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	13:11:23.282	Expert TW pattern EURUSD,H1: removed
+2	13:11:23.313	Expert TW pattern EURUSD,H1: loaded successfully
+2	13:11:23.328	Expert TW pattern EURUSD,H1: removed
+2	13:11:23.344	Expert TW pattern EURUSD,H1: loaded successfully
+2	13:11:31.640	Expert TW pattern EURUSD,H1: loaded successfully
+2	13:19:52.130	Expert TW pattern EURUSD,H1: removed
+2	13:19:52.161	Expert TW pattern EURUSD,H1: loaded successfully
+2	13:19:52.161	Expert TW pattern EURUSD,H1: removed
+2	13:19:52.177	Expert TW pattern EURUSD,H1: loaded successfully
+2	13:19:52.192	Expert TW pattern EURUSD,H1: removed
+2	13:19:52.208	Expert TW pattern EURUSD,H1: loaded successfully
+2	13:20:01.399	Expert TW pattern EURUSD,H1: loaded successfully
+0	14:08:35.915	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	14:08:37.172	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	14:08:39.466	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.06 ms)
+0	14:08:41.720	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:08:47.998	'66686155': ping to current access point LD_DC_D06 is 233.82 ms
+2	14:10:04.895	Expert TW pattern EURUSD,H1: removed
+2	14:10:04.918	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:10:04.929	Expert TW pattern EURUSD,H1: removed
+2	14:10:04.948	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:10:04.953	Expert TW pattern EURUSD,H1: removed
+2	14:10:04.971	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:10:04.975	Expert TW pattern EURUSD,H1: removed
+2	14:10:04.995	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:10:23.293	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:13:16.033	Expert TW pattern EURUSD,H1: removed
+2	14:13:16.064	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:13:16.064	Expert TW pattern EURUSD,H1: removed
+2	14:13:16.079	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:13:16.079	Expert TW pattern EURUSD,H1: removed
+2	14:13:16.095	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:13:16.111	Expert TW pattern EURUSD,H1: removed
+2	14:13:16.126	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:13:16.126	Expert TW pattern EURUSD,H1: removed
+2	14:13:16.142	Expert TW pattern EURUSD,H1: loaded successfully
+2	14:38:37.042	Expert Wedges EURUSD,H1: removed
+2	14:38:37.073	Expert Wedges EURUSD,H1: loaded successfully
+2	14:38:44.810	Expert Wedges EURUSD,H1: loaded successfully
+2	14:43:06.593	Expert Wedges EURUSD,H1: removed
+2	14:43:06.608	Expert Wedges EURUSD,H1: loaded successfully
+2	14:43:06.608	Expert Wedges EURUSD,H1: removed
+2	14:43:06.640	Expert Wedges EURUSD,H1: loaded successfully
+2	14:43:15.386	Expert Wedges EURUSD,H1: loaded successfully
+2	14:47:14.708	Expert Triangle Pattern EURUSD,H1: removed
+2	14:47:19.010	Expert Triple Top and Bottom EURUSD,H1: removed
+2	14:47:23.958	Expert Double Top and Bottom GBPUSD,H1: removed
+2	14:47:30.400	Expert TW pattern EURUSD,H1: removed
+2	14:47:36.376	Expert Wedges EURUSD,H1: removed
+2	14:47:39.044	Expert Triangle Pattern EURUSD,H1: removed
+2	14:47:42.700	Expert TW pattern EURUSD,H1: removed
+2	14:47:46.780	Expert TW pattern EURUSD,H1: removed
+2	14:47:50.226	Expert Wedges EURUSD,H1: removed
+2	14:47:54.328	Expert TW pattern EURUSD,H1: removed
+2	14:49:51.462	Expert Wedges EURUSD,H1: removed
+2	14:49:51.493	Expert Wedges EURUSD,H1: loaded successfully
+2	14:49:59.769	Expert Wedges EURUSD,H1: loaded successfully
+2	14:50:50.793	Expert Wedges EURUSD,H1: removed
+2	14:50:50.808	Expert Wedges EURUSD,H1: loaded successfully
+2	14:50:50.808	Expert Wedges EURUSD,H1: removed
+2	14:50:50.840	Expert Wedges EURUSD,H1: loaded successfully
+2	14:54:37.863	Expert Wedges EURUSD,H1: removed
+2	14:54:37.895	Expert Wedges EURUSD,H1: loaded successfully
+2	14:54:37.895	Expert Wedges EURUSD,H1: removed
+2	14:54:37.926	Expert Wedges EURUSD,H1: loaded successfully
+2	14:54:42.363	Expert Wedges EURUSD,H1: removed
+2	14:54:45.785	Expert Wedges EURUSD,H1: removed
+2	14:54:48.863	Expert TW pattern EURUSD,H1: removed
+2	14:54:58.440	Expert Wedges EURUSD,H1: loaded successfully
+2	14:55:46.162	Expert Double Top and Bottom EURUSD,H1: removed
+2	14:57:14.217	Expert Wedges EURUSD,H1: removed
+2	14:57:14.248	Expert Wedges EURUSD,H1: loaded successfully
+2	14:57:25.341	Expert Wedges EURUSD,H1: removed
+2	14:57:25.357	Expert Wedges EURUSD,H1: loaded successfully
+2	14:57:33.764	Expert Wedges EURUSD,H1: loaded successfully
+2	14:59:02.065	Expert Wedges EURUSD,H1: removed
+2	14:59:02.081	Expert Wedges EURUSD,H1: loaded successfully
+2	14:59:02.096	Expert Wedges EURUSD,H1: removed
+2	14:59:02.112	Expert Wedges EURUSD,H1: loaded successfully
+2	14:59:11.039	Expert Wedges EURUSD,H1: loaded successfully
+2	14:59:20.007	Expert Wedges EURUSD,H1: removed
+2	14:59:20.038	Expert Wedges EURUSD,H1: loaded successfully
+2	14:59:20.038	Expert Wedges EURUSD,H1: removed
+2	14:59:20.054	Expert Wedges EURUSD,H1: loaded successfully
+2	14:59:20.054	Expert Wedges EURUSD,H1: removed
+2	14:59:20.085	Expert Wedges EURUSD,H1: loaded successfully
+2	15:00:24.537	Expert Wedges EURUSD,H1: removed
+2	15:00:24.553	Expert Wedges EURUSD,H1: loaded successfully
+2	15:00:24.553	Expert Wedges EURUSD,H1: removed
+2	15:00:24.584	Expert Wedges EURUSD,H1: loaded successfully
+2	15:00:24.584	Expert Wedges EURUSD,H1: removed
+2	15:00:24.599	Expert Wedges EURUSD,H1: loaded successfully
+2	15:01:44.011	Expert Wedges EURUSD,H1: removed
+2	15:01:44.026	Expert Wedges EURUSD,H1: loaded successfully
+2	15:01:44.042	Expert Wedges EURUSD,H1: removed
+2	15:01:44.058	Expert Wedges EURUSD,H1: loaded successfully
+2	15:01:44.058	Expert Wedges EURUSD,H1: removed
+2	15:01:44.073	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:45.013	Expert Wedges EURUSD,H1: removed
+2	15:07:45.200	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:45.200	Expert Wedges EURUSD,H1: removed
+2	15:07:45.216	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:45.231	Expert Wedges EURUSD,H1: removed
+2	15:07:45.247	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:45.669	Expert Wedges EURUSD,H1: removed
+2	15:07:45.747	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:45.747	Expert Wedges EURUSD,H1: removed
+2	15:07:45.763	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:45.778	Expert Wedges EURUSD,H1: removed
+2	15:07:45.794	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:52.324	Expert Wedges EURUSD,H1: removed
+2	15:07:52.418	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:52.418	Expert Wedges EURUSD,H1: removed
+2	15:07:52.434	Expert Wedges EURUSD,H1: loaded successfully
+2	15:07:52.449	Expert Wedges EURUSD,H1: removed
+2	15:07:52.465	Expert Wedges EURUSD,H1: loaded successfully
+2	15:11:15.335	Expert Wedges EURUSD,H1: removed
+2	15:11:15.445	Expert Wedges EURUSD,H1: loaded successfully
+2	15:11:15.445	Expert Wedges EURUSD,H1: removed
+2	15:11:15.460	Expert Wedges EURUSD,H1: loaded successfully
+2	15:11:15.476	Expert Wedges EURUSD,H1: removed
+2	15:11:15.492	Expert Wedges EURUSD,H1: loaded successfully
+2	15:14:49.075	Expert Wedges EURUSD,H1: removed
+2	15:14:49.825	Expert Wedges EURUSD,H1: loaded successfully
+2	15:14:49.856	Expert Wedges EURUSD,H1: removed
+2	15:14:50.023	Expert Wedges EURUSD,H1: loaded successfully
+2	15:14:50.027	Expert Wedges EURUSD,H1: removed
+2	15:14:50.064	Expert Wedges EURUSD,H1: loaded successfully
+2	15:14:57.735	Expert Wedges EURUSD,H1: loaded successfully
+2	15:19:32.593	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:20:23.902	Expert Triangle Pattern EURUSD,H1: removed
+2	15:20:23.932	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:21:37.758	Expert Triangle Pattern EURUSD,H1: removed
+2	15:21:37.847	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:21:45.816	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:23:33.656	Expert Triangle Pattern EURUSD,H1: removed
+2	15:23:33.794	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:23:33.797	Expert Triangle Pattern EURUSD,H1: removed
+2	15:23:33.815	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:26:46.998	Expert Triangle Pattern EURUSD,H1: removed
+2	15:26:47.035	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:26:47.039	Expert Triangle Pattern EURUSD,H1: removed
+2	15:26:47.060	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:27:26.582	Expert Triangle Pattern EURUSD,H1: removed
+2	15:27:26.611	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:27:26.614	Expert Triangle Pattern EURUSD,H1: removed
+2	15:27:26.639	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:27:54.076	Expert Triangle Pattern EURUSD,H1: removed
+2	15:27:54.100	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:27:54.103	Expert Triangle Pattern EURUSD,H1: removed
+2	15:27:54.123	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:29:00.557	Expert Triangle Pattern EURUSD,H1: removed
+2	15:29:00.584	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:29:00.588	Expert Triangle Pattern EURUSD,H1: removed
+2	15:29:00.613	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:29:20.440	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:30:28.516	Expert Triangle Pattern EURUSD,H1: removed
+2	15:30:28.544	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:30:28.549	Expert Triangle Pattern EURUSD,H1: removed
+2	15:30:28.577	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:30:28.581	Expert Triangle Pattern EURUSD,H1: removed
+2	15:30:28.603	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:30:43.517	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:32:36.868	Expert Triangle Pattern EURUSD,H1: removed
+2	15:32:36.909	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:32:36.913	Expert Triangle Pattern EURUSD,H1: removed
+2	15:32:36.936	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:32:36.940	Expert Triangle Pattern EURUSD,H1: removed
+2	15:32:36.962	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:32:36.967	Expert Triangle Pattern EURUSD,H1: removed
+2	15:32:36.989	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:32:46.391	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:39:30.405	Expert TW pattern EURUSD,H1: loaded successfully
+2	15:41:30.640	Expert Wedges EURUSD,H1: removed
+2	15:41:33.256	Expert Wedges EURUSD,H1: removed
+2	15:41:35.725	Expert Wedges EURUSD,H1: removed
+2	15:41:38.084	Expert Wedges EURUSD,H1: removed
+2	15:41:40.234	Expert Triangle Pattern EURUSD,H1: removed
+2	15:41:42.484	Expert Triangle Pattern EURUSD,H1: removed
+2	15:41:44.803	Expert Triangle Pattern EURUSD,H1: removed
+2	15:41:47.769	Expert Triangle Pattern EURUSD,H1: removed
+2	15:41:50.694	Expert Triangle Pattern EURUSD,H1: removed
+2	15:41:59.064	Expert Pennant EURUSD,H1: loaded successfully
+2	15:44:02.495	Expert Pennant EURUSD,H1: removed
+2	15:44:02.529	Expert Pennant EURUSD,H1: loaded successfully
+2	15:46:42.868	Expert Pennant EURUSD,H1: removed
+2	15:46:42.898	Expert Pennant EURUSD,H1: loaded successfully
+2	15:47:01.294	Expert Pennant EURUSD,H1: loaded successfully
+2	15:49:02.015	Expert Pennant EURUSD,H1: removed
+2	15:49:02.044	Expert Pennant EURUSD,H1: loaded successfully
+2	15:49:02.044	Expert Pennant EURUSD,H1: removed
+2	15:49:02.064	Expert Pennant EURUSD,H1: loaded successfully
+2	15:50:32.996	Expert Pennant EURUSD,H1: removed
+2	15:50:33.018	Expert Pennant EURUSD,H1: loaded successfully
+2	15:50:33.018	Expert Pennant EURUSD,H1: removed
+2	15:50:33.038	Expert Pennant EURUSD,H1: loaded successfully
+2	15:50:49.763	Expert Pennant EURUSD,H1: loaded successfully
+2	15:56:34.956	Expert Pennant EURUSD,H1: removed
+2	15:56:34.984	Expert Pennant EURUSD,H1: loaded successfully
+2	15:56:34.984	Expert Pennant EURUSD,H1: removed
+2	15:56:35.005	Expert Pennant EURUSD,H1: loaded successfully
+2	15:56:35.013	Expert Pennant EURUSD,H1: removed
+2	15:56:35.033	Expert Pennant EURUSD,H1: loaded successfully
+2	15:56:45.377	Expert Pennant GBPUSD,H1: loaded successfully
+2	16:04:31.628	Expert Pennant GBPUSD,H1: removed
+2	16:04:34.058	Expert Pennant EURUSD,H1: removed
+2	16:04:37.448	Expert Pennant EURUSD,H1: removed
+2	16:04:43.828	Expert Pennant EURUSD,H1: removed
+2	16:04:59.109	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:06:27.491	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:07:21.583	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:07:23.689	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:07:48.968	Expert TW pattern EURUSD,H1: removed
+2	16:07:59.598	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:08:56.518	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:08:56.548	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:09:21.558	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:09:21.588	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:10:10.962	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:10:10.980	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:10:23.079	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:21:15.088	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:21:15.108	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:21:15.108	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:21:15.128	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:21:28.488	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:23:16.129	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:23:16.153	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:23:16.160	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:23:16.181	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:23:16.182	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:23:16.203	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:23:40.058	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:27:17.009	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:27:17.033	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:27:17.038	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:27:17.059	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:27:17.059	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:27:17.079	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:27:17.079	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:27:17.102	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:27:35.728	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:30:02.614	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:30:02.655	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:30:02.664	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:30:02.686	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:30:02.691	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:30:02.713	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:30:02.717	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:30:02.737	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:30:02.742	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:30:02.762	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:36:25.804	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:36:25.831	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:36:25.835	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:36:25.856	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:36:25.860	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:36:25.883	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:36:25.887	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:36:25.908	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:36:25.912	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:36:25.931	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:36:32.408	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:45:13.077	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:45:13.108	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:45:13.108	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:45:13.133	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:45:13.137	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:45:13.162	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:45:13.167	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:45:13.177	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:45:13.187	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:45:13.207	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:45:13.215	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:45:13.229	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:59:46.007	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:59:46.058	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:59:46.067	Expert Double Top and Bottom GBPUSD,H1: removed
+2	16:59:46.091	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	16:59:46.091	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:59:46.112	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:59:46.118	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:59:46.137	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:59:46.137	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:59:46.157	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:59:46.162	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:59:46.179	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:59:59.017	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:04:41.387	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:04:41.407	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:04:41.407	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:04:41.434	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:04:41.436	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:04:41.456	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:04:41.456	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:04:41.482	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:04:41.487	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:04:41.502	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:04:41.507	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:04:41.518	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:04:41.526	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:04:41.537	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:04:58.187	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:06:10.196	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:06:10.227	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:06:10.231	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:06:10.252	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:06:10.257	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:06:10.277	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:06:10.286	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:06:10.307	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:06:10.312	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:06:10.337	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:06:10.337	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:06:10.362	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:06:10.367	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:06:10.388	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:06:10.388	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:06:10.408	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:21:06.559	Expert All Patterns EURUSD,H1: loaded successfully
+2	17:23:05.129	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:23:05.149	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:23:05.149	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:23:05.182	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:23:05.182	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:23:05.199	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:23:05.199	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:23:05.224	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:23:05.224	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:23:05.244	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:23:05.249	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:23:05.269	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:23:05.269	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:23:05.289	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:23:05.289	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:23:05.309	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:23:20.674	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:25:26.889	Expert All Patterns EURUSD,H1: loaded successfully
+2	17:44:00.446	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:44:00.462	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:44:00.470	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:44:00.491	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:44:00.491	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.511	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:00.521	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.541	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:00.541	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.561	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:00.566	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.581	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:00.591	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.604	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:00.611	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.632	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:00.632	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:00.653	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:31.943	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:44:31.971	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:44:31.981	Expert Double Top and Bottom GBPUSD,H1: removed
+2	17:44:32.004	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	17:44:32.007	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.022	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:32.030	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.051	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:32.051	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.076	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:32.081	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.101	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:32.103	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.124	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:32.131	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.151	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:32.151	Expert Double Top and Bottom EURUSD,H1: removed
+2	17:44:32.173	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	17:44:39.311	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+1	20:58:31.578	'66686155': ping failed
+1	20:58:33.197	'66686155': connect failed [No connection]
+1	20:58:36.105	MQL5.community: authorization failed
+0	20:58:40.653	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	21:44:08.403	'66686155': login datacenter on ICMarketsSC-Demo06
+0	21:44:17.854	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 255.88 ms)
+1	21:44:18.853	'66686155': connect failed [No connection]
+0	21:44:24.705	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 255.88 ms)
+0	21:44:26.896	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 255.88 ms)
+0	21:44:28.019	'66686155': previous successful authorization performed from 205.254.168.234

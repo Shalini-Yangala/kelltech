@@ -1,0 +1,213 @@
+0	10:41:39.931	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:41:39.931	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3169 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	10:41:39.931	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:41:46.040	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+0	10:41:47.987	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.74 ms)
+0	10:41:51.411	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.74 ms)
+0	10:41:53.520	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:42:12.655	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+0	10:42:13.543	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 261.91 ms)
+0	10:42:14.497	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 261.91 ms)
+0	10:42:16.624	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 261.91 ms)
+0	10:42:17.600	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:06:39.575	'66686155': ping failed
+0	14:06:41.569	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 265.52 ms)
+0	14:06:43.604	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 265.52 ms)
+0	14:06:45.144	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:07:01.225	'66686155': ping to current access point LD_DC_D06 is 226.08 ms
+2	14:26:07.420	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:27:11.115	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:27:20.918	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:30:20.338	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:30:20.353	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:30:42.543	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:30:55.060	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:33:08.650	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:33:08.666	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:33:24.260	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:33:24.275	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:38:20.004	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:38:20.019	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:38:36.354	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:38:36.369	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:42:37.590	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:42:37.598	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:42:48.777	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:43:03.200	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:46:59.255	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:46:59.271	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:47:18.455	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:47:26.530	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:48:19.831	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:48:19.846	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:48:39.881	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:48:45.047	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:48:47.322	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:48:56.222	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:49:40.386	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:49:40.402	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	14:50:59.230	Custom indicator LevelAlerts EURUSD,H1: removed
+2	14:50:59.246	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:00:13.374	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:09:11.765	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:12:34.097	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:15:50.921	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:16:38.880	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:20:45.988	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:23:36.181	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:23:36.197	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:23:44.952	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:23:55.618	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+1	15:28:02.063	Mail: error connecting to lokesh@kelltechdigital.com
+1	15:28:11.230	Mail: error connecting to lokesh@kelltechdigital.com
+1	15:33:02.874	Mail: error connecting to lokesh@kelltechdigital.com
+1	15:33:09.708	Mail: error connecting to lokesh@kelltechdigital.com
+1	15:33:31.304	Mail: login to smtp.gmail.com failed
+1	15:33:58.042	Mail: login to smtp.gmail.com failed
+1	15:34:27.655	'66686155': datacenter connecting failed [6]
+0	15:34:28.617	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.08 ms)
+0	15:34:30.594	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.08 ms)
+0	15:34:32.001	'66686155': previous successful authorization performed from 103.213.202.61
+1	15:34:33.920	Mail: login to smtp.gmail.com failed
+0	15:34:48.340	'66686155': ping to current access point LD_DC_D06 is 232.60 ms
+2	15:41:49.286	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:41:49.302	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:41:51.121	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:41:51.137	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:41:51.329	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:41:58.613	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:41:58.692	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:42:19.850	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+1	15:42:38.438	Mail: login to smtp.gmail.com failed
+1	15:46:32.457	Mail: login to smtp.gmail.com failed
+1	15:46:43.883	Mail: login to smtp.gmail.com failed
+1	15:47:11.078	Mail: invalid SMTP settings (Tools->Options->Email)
+1	15:47:32.682	Mail: invalid SMTP settings (Tools->Options->Email)
+1	15:47:44.818	Mail: login to smtp.gmail.com failed
+1	15:48:40.611	Mail: login to smtp.gmail.com failed
+1	15:48:44.027	Mail: login to smtp.gmail.com failed
+1	15:48:50.408	Mail: login to smtp.gmail.com:587 failed
+1	15:49:03.833	Mail: login to smtp.gmail.com:587 failed
+1	15:49:11.600	Mail: login to smtp.gmail.com:587 failed
+1	15:49:53.793	Mail: login to smtp.gmail.com:587 failed
+1	15:49:57.782	Mail: login to smtp.gmail.com:587 failed
+1	15:50:02.009	Mail: login to smtp.gmail.com:587 failed
+1	15:51:12.913	Mail: login to smtp.gmail.com:587 failed
+1	15:51:24.617	Mail: login to smtp.gmail.com:587 failed
+1	15:51:49.251	Mail: login to smtp.gmail.com:587 failed
+1	15:51:51.783	Mail: login to smtp.gmail.com:587 failed
+1	15:52:22.771	Mail: login to smtp.gmail.com:587 failed
+1	15:52:25.605	Mail: login to smtp.gmail.com:587 failed
+1	15:52:31.949	Mail: login to smtp.gmail.com:587 failed
+1	15:52:34.971	Mail: login to smtp.gmail.com:587 failed
+1	15:52:37.683	Mail: login to smtp.gmail.com:587 failed
+2	15:53:27.517	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:53:27.532	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+2	15:53:51.995	Custom indicator LevelAlerts EURUSD,H1: removed
+2	15:54:03.374	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+1	15:54:34.253	Mail: login to smtp.gmail.com:587 failed
+0	16:16:08.944	Mail: 'Test message' has been sent
+0	16:16:10.790	Mail: 'Test message' has been sent
+0	16:16:12.677	Mail: 'Level Alert' has been sent
+0	16:16:14.428	Mail: 'Level Alert' has been sent
+0	16:16:16.218	Mail: 'Test message' has been sent
+0	16:16:18.046	Mail: 'Level Alert' has been sent
+0	16:16:19.796	Mail: 'Level Alert' has been sent
+0	16:16:21.616	Mail: 'Level Alert' has been sent
+0	16:16:23.429	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:25.224	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:27.093	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:28.965	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:30.874	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:32.667	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:34.443	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:36.222	Mail: 'Test message' has been sent
+0	16:16:38.069	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:39.986	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:41.830	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:43.604	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:45.446	Mail: 'Test message' has been sent
+0	16:16:47.368	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:49.143	Mail: 'Test message' has been sent
+0	16:16:50.981	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:52.750	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:16:54.636	Mail: 'Test message' has been sent
+0	16:16:56.438	Mail: 'Test message' has been sent
+0	16:16:58.281	Mail: 'Test message' has been sent
+0	16:17:00.063	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:01.850	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:03.669	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:05.577	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:07.392	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:09.183	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:11.071	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:12.905	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:14.656	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:16.433	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:18.186	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:19.960	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:21.824	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:23.559	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:25.361	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:27.306	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:29.156	Mail: 'Test message' has been sent
+0	16:17:30.997	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:32.858	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:34.663	Mail: 'shalini.yangala@kelltechdigital.com' has been sent
+0	16:17:36.452	Mail: 'Test message' has been sent
+0	16:17:38.305	Mail: 'Test message' has been sent
+0	16:17:40.145	Mail: 'Test message' has been sent
+2	16:17:43.867	Custom indicator LevelAlerts EURUSD,H1: removed
+2	16:20:08.442	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+0	16:21:37.966	Mail: 'Test message' has been sent
+0	16:23:53.755	Mail: 'Test message' has been sent
+1	16:24:46.608	Mail: login to smtp.gmail.com:587 failed
+0	16:25:05.177	Mail: 'Test message' has been sent
+0	16:25:07.031	Mail: 'Test message' has been sent
+0	16:26:40.705	Mail: 'lokeshkumar788860@gmail.com' has been sent
+0	16:26:42.518	Mail: 'Test message' has been sent
+0	16:27:26.916	Mail: 'Test message' has been sent
+0	16:27:49.777	Mail: 'Test message' has been sent
+0	16:28:10.892	Mail: 'Test message' has been sent
+0	16:57:27.615	Mail: 'lokeshkumar788860@gmail.com' has been sent
+0	16:58:48.416	Mail: 'lokeshkumar788860@gmail.com' has been sent
+2	17:06:41.602	Custom indicator LevelAlerts EURUSD,H1: removed
+2	17:08:27.701	Custom indicator LevelAlerts EURUSD,H1: loaded successfully
+0	17:08:56.603	Mail: 'abc@gmail.com' has been sent
+0	17:09:18.975	Mail: 'abc@gmail.com' has been sent
+0	17:09:20.821	Mail: 'abc@gmail.com' has been sent
+0	17:09:22.631	Mail: 'abc@gmail.com' has been sent
+0	17:09:24.469	Mail: 'abc@gmail.com' has been sent
+0	17:11:23.350	Mail: 'abc@gmail.com' has been sent
+0	17:11:33.798	Mail: 'abc@gmail.com' has been sent
+0	17:11:35.681	Mail: 'abc@gmail.com' has been sent
+0	17:11:37.489	Mail: 'abc@gmail.com' has been sent
+0	17:11:39.294	Mail: 'abc@gmail.com' has been sent
+0	17:11:41.145	Mail: 'abc@gmail.com' has been sent
+0	17:11:42.992	Mail: 'abc@gmail.com' has been sent
+0	17:11:44.904	Mail: 'abc@gmail.com' has been sent
+0	17:11:46.756	Mail: 'abc@gmail.com' has been sent
+0	17:11:48.677	Mail: 'abc@gmail.com' has been sent
+0	17:11:51.722	Mail: 'abc@gmail.com' has been sent
+0	17:11:53.614	Mail: 'abc@gmail.com' has been sent
+0	17:11:57.871	Mail: 'abc@gmail.com' has been sent
+0	17:11:59.708	Mail: 'abc@gmail.com' has been sent
+0	17:12:01.705	Mail: 'abc@gmail.com' has been sent
+0	17:12:03.506	Mail: 'abc@gmail.com' has been sent
+0	17:12:05.357	Mail: 'abc@gmail.com' has been sent
+0	17:12:07.335	Mail: 'abc@gmail.com' has been sent
+0	17:12:09.187	Mail: 'abc@gmail.com' has been sent
+0	17:12:11.068	Mail: 'abc@gmail.com' has been sent
+0	17:12:13.068	Mail: 'abc@gmail.com' has been sent
+0	17:12:14.967	Mail: 'abc@gmail.com' has been sent
+0	17:12:16.803	Mail: 'abc@gmail.com' has been sent
+0	17:12:18.594	Mail: 'abc@gmail.com' has been sent
+0	17:12:20.496	Mail: 'abc@gmail.com' has been sent
+0	17:13:11.335	Mail: 'abc@gmail.com' has been sent
+0	17:13:17.840	Mail: 'abc@gmail.com' has been sent
+0	17:14:45.441	Mail: 'abc@gmail.com' has been sent
+0	17:14:47.274	Mail: 'abc@gmail.com' has been sent
+0	17:19:20.166	Mail: 'abc@gmail.com' has been sent
+0	17:19:22.068	Mail: 'abc@gmail.com' has been sent
+2	17:19:26.372	Custom indicator LevelAlerts EURUSD,H1: removed
+0	17:44:54.378	IC Markets (SC) MT4 build 1420 stopped

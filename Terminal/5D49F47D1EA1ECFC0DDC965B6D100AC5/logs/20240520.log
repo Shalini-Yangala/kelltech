@@ -1,0 +1,311 @@
+1	10:00:41.280	MQL5.community: authorization failed
+1	10:00:46.095	'66686155': connect failed [No connection]
+0	10:00:52.633	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:00:55.269	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:00:56.566	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:01:03.405	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 236.36 ms)
+0	10:01:04.230	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.36 ms)
+0	10:01:06.110	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.36 ms)
+0	10:01:07.025	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:05:29.907	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	10:10:25.721	Expert lokeshgan EURUSD,H1: loaded successfully
+2	10:13:02.617	Expert lokeshgan EURUSD,Daily: removed
+3	10:17:36.931	'Anusha' is not expert and cannot be executed
+3	10:17:38.659	'Anusha' is not expert and cannot be executed
+3	10:17:42.520	'Anusha' is not expert and cannot be executed
+0	10:28:40.437	System to be shutdown, request for close IC Markets (SC) MT4
+0	10:28:41.252	IC Markets (SC) MT4 build 1415 stopped because system shutdown
+0	10:49:01.130	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	10:49:01.130	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3980 / 8067 Mb, Disk: 9 / 53 Gb, GMT+5
+0	10:49:01.130	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:49:04.185	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	10:49:04.310	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	10:49:04.410	Expert ShalluGannBox EURUSD,H4: loaded successfully
+0	10:49:06.405	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.36 ms)
+0	10:49:08.565	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.36 ms)
+0	10:49:09.636	'66686155': previous successful authorization performed from 103.213.202.61
+2	11:27:15.010	Expert ShalluGannBox EURUSD,H1: removed
+2	11:27:15.042	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	11:27:19.713	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	11:27:22.338	Expert ShalluGannFan EURUSD,H1: removed
+2	11:27:31.181	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	11:28:06.763	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	11:29:22.093	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	11:29:25.679	Expert ShalluGannBox EURUSD,H1: removed
+2	11:29:39.428	Expert ShalluGannBox EURUSD,M1: removed
+2	11:30:04.860	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	11:57:18.977	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	12:04:55.931	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	12:04:55.962	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	12:05:05.220	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	12:07:17.600	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	12:07:17.616	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	12:07:17.647	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	12:07:17.662	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	12:26:46.183	Expert ShalluGannBox EURUSD,H1: removed
+2	12:26:46.199	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	12:26:51.730	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	12:26:54.840	Expert ShalluGannBox EURUSD,H1: removed
+2	12:27:10.953	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	12:27:23.985	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	12:27:56.742	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	12:28:19.578	Expert ShalluGannFan EURUSD,H1: loaded successfully
+0	12:29:14.497	Sources recompilation started
+2	12:29:29.153	Custom indicator Anusha GannBox EURUSD,H1: loaded successfully
+2	12:30:31.880	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+1	12:44:56.767	'66686155': datacenter connecting failed [6]
+1	12:44:57.443	'66686155': connect failed [No connection]
+0	12:47:12.239	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.36 ms)
+0	12:47:14.290	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.36 ms)
+0	12:47:15.170	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:47:22.948	'66686155': ping to current access point LD_DC_D06 is 224.71 ms
+0	13:26:21.962	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	13:26:21.962	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 4877 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	13:26:21.962	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	13:26:28.989	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	13:26:29.120	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	13:26:29.290	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	13:26:29.381	Custom indicator Anusha GannBox EURUSD,H1: loaded successfully
+2	13:26:29.609	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	13:26:29.783	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+0	13:37:05.646	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	13:37:05.646	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3261 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	13:37:05.646	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	13:37:07.937	Expert ShalluGannBox EURUSD,H1: loaded successfully
+2	13:37:08.031	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+3	13:37:08.031	Expert 'ShalluGannCurves': is an indicator and will be removed
+2	13:37:08.031	Expert ShalluGannCurves EURUSD,H1: removed
+2	13:37:08.078	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	13:37:08.140	Custom indicator Anusha GannBox EURUSD,H1: loaded successfully
+2	13:37:08.234	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	13:37:08.296	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+0	13:37:09.895	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.71 ms)
+0	13:37:12.301	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.71 ms)
+0	13:37:13.231	'66686155': previous successful authorization performed from 103.213.202.61
+3	13:37:18.380	'ShalluGannCurves' is not expert and cannot be executed
+3	13:37:20.505	'ShalluGannCurves' is not expert and cannot be executed
+3	13:37:23.942	'ShalluGannCurves' is not expert and cannot be executed
+3	13:37:28.864	'ShalluGannCurves' is not expert and cannot be executed
+3	13:37:31.520	'ShalluGannCurves' is not expert and cannot be executed
+3	13:37:34.832	'ShalluGannCurves' is not expert and cannot be executed
+3	13:37:44.994	'ShalluGannCurves' is not expert and cannot be executed
+1	14:11:26.593	'66686155': ping failed
+0	14:11:28.679	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 240.23 ms)
+0	14:11:30.616	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 240.23 ms)
+0	14:11:31.987	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:11:39.151	'66686155': ping to current access point NVir_DC_D05 is 234.95 ms
+3	14:19:47.668	'ShalluGannCurves' is not expert and cannot be executed
+3	14:19:50.974	'ShalluGannCurves' is not expert and cannot be executed
+2	14:21:55.674	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	14:22:51.506	Custom indicator KuttyGannBox EURUSD,H1: removed
+1	14:24:11.447	'66686155': ping failed
+1	14:24:11.447	'66686155': datacenter connecting failed [6]
+1	14:24:12.094	'66686155': connect failed [No connection]
+0	14:25:40.871	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	14:25:43.266	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	14:25:44.430	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:25:51.616	'66686155': ping to current access point HK_DC_D06 is 444.02 ms
+2	14:31:30.701	Custom indicator GannBox1 EURUSD,H1: loaded successfully
+2	14:32:18.089	Custom indicator GannBox1 EURUSD,H1: loaded successfully
+2	14:34:51.485	Custom indicator GannBox1 EURUSD,H1: removed
+2	14:34:54.964	Custom indicator GannBox1 EURUSD,H1: removed
+2	14:35:32.118	Custom indicator GannBox EURUSD,H1: loaded successfully
+0	15:04:18.885	Sources recompilation started
+2	15:05:33.241	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	15:06:09.843	Custom indicator LokeshGann EURUSD,H1: removed
+2	15:06:09.864	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	15:06:16.670	Custom indicator LokeshGann EURUSD,H1: removed
+2	15:06:23.171	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	15:15:56.595	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:20:06.766	Custom indicator Anusha GannBox EURUSD,H1: loaded successfully
+2	15:21:34.759	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:28:42.735	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:28:42.735	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:28:42.766	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:28:42.782	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:28:58.732	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:34:24.684	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:34:24.699	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:34:24.715	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:34:24.730	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:34:24.762	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:34:24.777	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:34:34.015	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:35:18.528	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:18.544	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:35:18.590	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:18.606	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:35:18.637	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:18.653	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:35:18.700	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:18.715	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:35:30.321	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:33.371	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:36.705	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:40.273	Custom indicator Anusha GannBox EURUSD,H1: removed
+2	15:35:45.869	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:35:49.325	Custom indicator LokeshGann EURUSD,Weekly: removed
+2	15:35:52.655	Custom indicator GannBox EURUSD,Daily: removed
+2	15:36:13.960	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:37:15.093	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:37:15.109	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:40:28.557	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:40:28.572	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:40:34.436	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:40:39.946	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:42:19.222	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:42:19.237	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:42:27.641	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:44:36.660	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:44:36.675	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:44:36.691	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:44:36.707	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:44:42.950	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:44:48.779	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:44:56.008	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	15:49:09.895	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	15:50:36.737	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	16:18:21.692	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	16:18:21.707	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	16:22:58.962	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	16:22:58.978	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+1	16:46:26.568	'66686155': datacenter connecting failed [6]
+0	16:46:27.768	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 444.02 ms)
+0	16:46:30.449	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 444.02 ms)
+0	16:46:31.435	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:46:41.328	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 230.00 ms)
+0	16:46:42.218	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.00 ms)
+0	16:46:44.141	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.00 ms)
+0	16:46:45.103	'66686155': previous successful authorization performed from 103.213.202.61
+2	17:04:01.378	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:04:01.394	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+2	17:04:08.036	Custom indicator kkkkkkkkkkk EURUSD,H1: loaded successfully
+2	17:09:46.198	Custom indicator ShalluGan EURUSD,H1: removed
+2	17:09:46.198	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	17:10:03.930	Custom indicator ShalluGan EURUSD,H1: removed
+2	17:10:03.946	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	17:10:23.447	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	17:11:02.983	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:11:07.403	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:20:41.611	Custom indicator GannBox EURUSD,H1: loaded successfully
+2	17:20:44.431	Custom indicator GannBox EURUSD,H1: removed
+2	17:20:49.318	Custom indicator GannBox EURUSD,H1: loaded successfully
+2	17:21:40.134	Custom indicator ShalluGan EURUSD,H1: removed
+2	17:21:40.165	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	17:21:40.197	Custom indicator ShalluGan EURUSD,H1: removed
+2	17:21:40.212	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	17:22:07.426	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	17:49:01.174	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:01.190	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	17:49:01.190	Expert 'KuttyGannBox': it is not a custom indicator and will be removed
+2	17:49:01.205	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:07.969	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	17:49:07.969	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	17:49:07.969	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:09.399	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	17:49:09.399	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	17:49:09.399	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:11.685	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	17:49:11.685	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	17:49:11.685	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:13.491	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	17:49:13.491	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	17:49:13.491	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:15.827	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	17:49:15.827	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	17:49:15.827	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	17:49:19.615	Custom indicator Anusha GannBox EURUSD,H1: removed
+2	17:49:22.887	Custom indicator ShalluGan EURUSD,H1: removed
+2	17:49:25.783	Expert ShalluGannFan EURUSD,H1: removed
+2	17:49:28.606	Expert ShalluGannBox EURUSD,H1: removed
+2	17:49:31.597	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	17:49:37.723	Custom indicator kkkkkkkkkkk EURUSD,Monthly: removed
+2	17:50:40.276	Custom indicator ShalluGan EURUSD,H1: removed
+2	17:51:08.956	Custom indicator GannBox EURUSD,H1: removed
+2	17:51:12.778	Custom indicator ShalluGan EURUSD,H1: removed
+0	17:51:17.987	IC Markets (SC) MT4 build 1415 stopped
+0	21:43:01.615	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	21:43:01.615	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3058 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	21:43:01.615	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	21:43:05.455	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.00 ms)
+0	21:43:07.830	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.00 ms)
+0	21:43:08.781	'66686155': previous successful authorization performed from 103.213.202.61
+2	21:43:09.451	Custom indicator Shahini EURUSD,H1: loaded successfully
+0	21:43:16.243	'66686155': ping to current access point LD_DC_D06 is 227.06 ms
+2	21:43:51.747	Custom indicator Shahini EURUSD,H1: removed
+2	21:45:55.091	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:45:55.091	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:45:55.106	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:45:58.262	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:45:58.262	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:45:58.262	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:46:00.012	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:46:00.012	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:46:00.012	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:46:01.653	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:46:01.653	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:46:01.653	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:46:05.081	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	21:46:17.455	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:46:17.455	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:46:17.455	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:46:19.424	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:46:19.424	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:46:19.424	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:46:26.704	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:46:26.704	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:46:26.704	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:46:28.407	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	21:46:28.407	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	21:46:28.407	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	21:52:04.209	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:03:00.904	Custom indicator Zillerman’s Gann EURUSD,Monthly: removed
+2	22:03:00.920	Custom indicator Zillerman’s Gann EURUSD,Monthly: loaded successfully
+2	22:03:07.447	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:06:18.323	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:06:18.338	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:06:18.370	Custom indicator Zillerman’s Gann EURUSD,Monthly: removed
+2	22:06:18.385	Custom indicator Zillerman’s Gann EURUSD,Monthly: loaded successfully
+2	22:10:02.333	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:10:02.349	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:10:02.373	Custom indicator Zillerman’s Gann EURUSD,Monthly: removed
+2	22:10:02.389	Custom indicator Zillerman’s Gann EURUSD,Monthly: loaded successfully
+2	22:10:12.831	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:13:05.252	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:13:05.267	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:13:05.298	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:13:05.314	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:13:05.345	Custom indicator Zillerman’s Gann EURUSD,Monthly: removed
+2	22:13:05.361	Custom indicator Zillerman’s Gann EURUSD,Monthly: loaded successfully
+2	22:40:02.040	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:40:02.056	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+3	22:40:02.056	Expert 'Zillerman’s Gann': it is not a custom indicator and will be removed
+2	22:40:02.056	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:40:02.056	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:40:02.071	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+3	22:40:02.071	Expert 'Zillerman’s Gann': it is not a custom indicator and will be removed
+2	22:40:02.071	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:40:02.087	Custom indicator Zillerman’s Gann EURUSD,Monthly: removed
+2	22:40:02.103	Custom indicator Zillerman’s Gann EURUSD,Monthly: loaded successfully
+3	22:40:02.103	Expert 'Zillerman’s Gann': it is not a custom indicator and will be removed
+2	22:40:02.103	Custom indicator Zillerman’s Gann EURUSD,Monthly: removed
+2	22:40:10.949	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+3	22:40:10.949	Expert 'Zillerman’s Gann' is not custom indicator and will be removed
+2	22:40:10.949	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:40:14.577	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+3	22:40:14.577	Expert 'Zillerman’s Gann' is not custom indicator and will be removed
+2	22:40:14.577	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	22:41:24.752	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	22:42:08.563	Custom indicator GannBox EURUSD,H1: loaded successfully
+2	23:28:38.294	Custom indicator GannBox EURUSD,Daily: removed
+2	23:28:38.310	Custom indicator GannBox EURUSD,Daily: loaded successfully
+3	23:28:38.310	Expert 'GannBox': it is not a custom indicator and will be removed
+2	23:28:38.325	Custom indicator GannBox EURUSD,Daily: removed
+2	23:29:01.293	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	23:29:01.293	Expert 'GannBox' is not custom indicator and will be removed
+2	23:29:01.293	Custom indicator GannBox EURUSD,H1: removed
+2	23:29:28.352	Custom indicator GannBox EURUSD,M1: loaded successfully
+3	23:29:28.352	Expert 'GannBox' is not custom indicator and will be removed
+2	23:29:28.352	Custom indicator GannBox EURUSD,M1: removed
+0	23:36:15.937	System to be shutdown, request for close IC Markets (SC) MT4
+0	23:36:16.530	IC Markets (SC) MT4 build 1415 stopped because system shutdown

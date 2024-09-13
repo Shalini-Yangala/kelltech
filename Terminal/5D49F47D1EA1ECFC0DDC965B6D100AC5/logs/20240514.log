@@ -1,0 +1,247 @@
+0	17:29:35.799	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	17:29:35.799	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2011 / 8067 Mb, Disk: 0 / 53 Gb, GMT+5
+0	17:29:35.799	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	17:29:38.490	Custom indicator Trend Market Sentiment EURUSD,H1: loaded successfully
+0	17:29:40.144	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.22 ms)
+0	17:29:42.704	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.22 ms)
+0	17:29:43.744	'66686155': previous successful authorization performed from 103.213.202.61
+0	17:29:52.332	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 232.41 ms)
+0	17:29:53.187	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.41 ms)
+0	17:29:55.115	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.41 ms)
+0	17:29:56.012	'66686155': previous successful authorization performed from 103.213.202.61
+2	17:30:00.478	Custom indicator Trend Market Sentiment EURUSD,H1: removed
+2	17:30:20.214	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:33:47.934	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:33:47.950	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:34:19.131	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:34:19.147	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:34:28.239	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:38:28.735	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:38:28.751	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:38:28.782	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:38:28.798	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:39:48.689	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:39:48.704	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:39:48.751	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:39:48.758	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:40:02.269	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:40:51.121	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:40:51.136	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:40:51.151	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:40:51.167	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:40:51.198	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:40:51.214	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:42:35.659	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:42:35.681	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:42:35.697	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:42:35.712	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:42:35.744	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:42:35.759	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:42:47.483	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:43:39.798	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:39.814	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:43:39.830	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:39.845	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:43:39.867	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:39.883	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:43:39.914	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:39.930	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:43:47.203	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:49.818	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:52.487	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:43:59.386	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:46:55.293	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:46:55.308	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:46:55.340	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:46:55.355	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:47:05.373	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:03.209	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:03.225	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:03.256	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:03.276	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:03.292	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:03.307	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:12.755	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:23.166	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:23.181	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:23.197	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:23.212	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:23.235	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:23.250	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:48:23.281	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:48:23.297	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:19.749	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:19.764	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:19.796	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:19.811	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:19.833	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:19.849	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:19.880	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:19.896	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:50.045	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:50.045	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:50.076	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:50.092	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:50.114	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:50.130	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:50.161	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:49:50.177	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:49:58.900	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:50:23.564	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:50:23.580	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:50:23.610	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:50:23.626	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:50:23.657	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:50:23.675	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:50:23.711	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:50:23.726	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:50:23.758	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:50:23.773	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:52:05.497	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:05.513	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:52:05.535	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:05.564	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:52:05.593	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:05.597	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:52:05.635	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:05.651	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:52:05.666	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:05.682	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:52:12.005	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:14.694	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:17.311	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:20.060	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:52:25.314	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:53:57.028	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:53:57.043	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:53:57.075	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:53:57.075	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:54:04.765	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:07.697	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:07.712	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:07.728	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:07.744	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:07.775	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:07.797	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:20.510	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:34.067	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:34.083	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:34.098	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:34.114	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:34.145	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:34.161	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:34.183	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:55:34.198	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:55:41.718	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:22.900	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:22.915	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:22.946	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:22.946	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:22.962	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:22.993	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:23.000	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:23.000	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:23.031	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:23.031	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:23.047	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:23.078	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:23.078	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:23.100	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:23.116	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:56:31.423	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:56:33.245	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:57:17.457	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:57:42.942	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:57:42.957	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:57:49.860	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:58:36.720	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:58:36.726	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:58:36.758	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:58:36.776	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:58:43.946	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:59:44.217	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:59:44.217	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:59:44.248	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:59:44.264	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:59:44.295	Custom indicator Anusha_Code EURUSD,H1: removed
+2	17:59:44.295	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	17:59:52.555	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:00:19.827	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:19.827	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:00:19.858	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:19.873	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:00:19.905	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:19.911	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:00:19.943	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:19.943	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:00:27.462	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:30.584	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:34.392	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:00:58.991	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:01:04.627	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:04:32.508	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:04:32.524	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:04:40.382	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:08:05.892	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:08:05.908	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:08:05.924	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:08:05.924	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:08:05.939	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:08:05.971	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:08:21.317	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:08:29.328	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:09:27.558	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:10:40.764	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:10:40.780	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:12:05.763	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:12:05.779	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:12:10.112	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:12:19.566	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:12:29.208	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:12:29.211	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:14:13.648	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:14:13.663	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:14:13.695	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:15:03.585	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:15:06.824	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:16:18.322	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:16:21.567	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:17:19.737	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:24:45.408	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:24:45.436	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:46:18.811	Custom indicator Anusha_Code EURUSD,H1: removed
+2	18:46:18.828	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:46:26.676	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	18:56:17.949	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	18:56:58.430	Custom indicator Trend Market Sentiment EURUSD,H1: loaded successfully
+1	19:22:58.342	'66686155': datacenter connecting failed [6]
+1	20:52:16.560	'66686155': connect failed [No connection]
+0	20:52:24.337	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	20:52:26.306	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	20:52:30.136	'66686155': previous successful authorization performed from 103.213.202.61
+0	20:52:34.015	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 229.68 ms)
+0	20:52:34.931	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 229.68 ms)
+0	20:52:36.639	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 229.68 ms)
+0	20:52:38.297	'66686155': previous successful authorization performed from 205.254.168.233
+2	20:52:50.544	Custom indicator Trend Market Sentiment EURUSD,H1: removed
+1	21:52:01.380	'66686155': ping failed
+1	21:56:44.503	'66686155': connect failed [No connection]
+0	21:56:51.896	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	21:56:53.958	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	21:56:57.820	'66686155': previous successful authorization performed from 205.254.168.255
+0	21:57:04.951	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 232.01 ms)
+0	21:57:06.013	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.01 ms)
+0	21:57:07.936	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.01 ms)
+0	21:57:09.184	'66686155': previous successful authorization performed from 205.254.168.233
+1	23:09:29.599	'66686155': connect failed [No connection]
+0	23:09:37.407	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	23:09:39.428	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	23:09:43.143	'66686155': previous successful authorization performed from 205.254.168.255
+0	23:09:47.671	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 235.25 ms)
+0	23:09:48.493	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 235.25 ms)
+0	23:09:50.904	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 235.25 ms)
+0	23:09:52.079	'66686155': previous successful authorization performed from 205.254.168.233
+2	23:09:53.404	Custom indicator Anusha_Code EURUSD,H1: removed
+2	23:09:53.419	Custom indicator Anusha_Code EURUSD,H1: removed
+2	23:09:53.450	Custom indicator Trend_Line EURUSD,H1: removed
+0	23:09:54.382	IC Markets (SC) MT4 build 1415 stopped

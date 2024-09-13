@@ -1,0 +1,477 @@
+0	08:01:20.627	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	08:01:20.642	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3706 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	08:01:20.642	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	08:01:23.814	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	08:01:23.923	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	08:01:23.986	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	08:01:24.048	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	08:01:24.127	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	08:01:24.220	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	08:01:24.220	Expert 'GannBox': it is not a custom indicator and will be removed
+2	08:01:24.220	Custom indicator GannBox EURUSD,H1: removed
+0	08:01:26.033	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.06 ms)
+0	08:01:28.213	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.06 ms)
+0	08:01:29.264	'66686155': previous successful authorization performed from 205.254.168.151
+0	08:01:36.755	'66686155': ping to current access point LD_DC_D06 is 230.79 ms
+2	08:01:40.771	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	08:01:40.771	Expert 'GannBox' is not custom indicator and will be removed
+2	08:01:40.771	Custom indicator GannBox EURUSD,H1: removed
+2	08:01:43.296	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	08:01:43.296	Expert 'GannBox' is not custom indicator and will be removed
+2	08:01:43.296	Custom indicator GannBox EURUSD,H1: removed
+2	08:01:44.499	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	08:01:44.499	Expert 'GannBox' is not custom indicator and will be removed
+2	08:01:44.499	Custom indicator GannBox EURUSD,H1: removed
+2	08:01:46.417	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	08:01:46.417	Expert 'GannBox' is not custom indicator and will be removed
+2	08:01:46.417	Custom indicator GannBox EURUSD,H1: removed
+2	08:01:57.528	Custom indicator GannBox EURUSD,H1: loaded successfully
+3	08:01:57.528	Expert 'GannBox' is not custom indicator and will be removed
+2	08:01:57.528	Custom indicator GannBox EURUSD,H1: removed
+2	08:02:01.036	Custom indicator GannBox1 EURUSD,H1: loaded successfully
+2	08:02:52.715	Custom indicator KuttyGannBox EURUSD,H1: loaded successfully
+3	08:02:52.715	Expert 'KuttyGannBox' is not custom indicator and will be removed
+2	08:02:52.715	Custom indicator KuttyGannBox EURUSD,H1: removed
+2	08:02:57.760	Custom indicator kkkkkkkkkkk EURUSD,H1: loaded successfully
+2	08:03:11.137	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: loaded successfully
+2	08:03:35.426	Custom indicator kkkkkkkkkkk EURUSD,H1: loaded successfully
+1	09:54:48.656	'66686155': ping failed
+1	09:54:48.921	'66686155': connect failed [No connection]
+0	09:56:18.393	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:56:20.543	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:56:21.653	'66686155': previous successful authorization performed from 103.213.202.61
+0	09:56:29.947	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 227.54 ms)
+0	09:56:31.119	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.54 ms)
+0	09:56:33.163	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.54 ms)
+0	09:56:34.046	'66686155': previous successful authorization performed from 103.213.202.61
+2	09:57:00.872	Custom indicator kkkkkkkkkkk EURUSD,H1: removed
+2	09:57:00.872	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	09:57:00.888	Custom indicator kkkkkkkkkkk EURUSD,H1: removed
+2	09:57:04.778	Custom indicator GannBox1 EURUSD,H1: removed
+2	09:57:16.738	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	09:57:20.425	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	09:57:24.952	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	09:57:27.796	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	09:57:34.830	Custom indicator lllllllllllllllllllllllllll EURUSD,H1: removed
+2	10:00:44.963	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	10:01:23.366	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+0	10:08:33.431	Sources recompilation started
+2	10:08:34.140	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:08:34.156	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:08:37.548	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:08:37.564	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:08:44.716	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:12:31.706	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:12:31.721	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:12:31.737	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:12:31.753	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:12:39.717	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:13:10.528	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:13:10.544	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:13:10.575	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:13:10.591	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:13:10.606	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:13:10.622	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:14:51.520	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:14:51.535	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:14:51.566	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:14:51.582	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:14:51.613	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:14:51.629	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:14:59.598	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:15:27.878	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:15:27.894	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:15:27.909	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:15:27.925	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:15:27.956	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:15:27.972	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:15:27.988	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:15:28.003	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:19:14.766	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:19:14.782	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:19:14.813	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:19:14.829	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:19:14.844	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:19:14.860	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:19:14.891	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:19:14.907	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:22:51.366	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:22:51.382	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:22:51.413	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:22:51.429	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:22:51.460	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:22:51.476	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:22:51.491	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:22:51.507	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:22:59.216	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:25:32.298	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:25:32.314	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:25:32.345	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:25:32.361	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:25:32.392	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:25:32.407	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:25:32.423	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:25:32.439	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:25:32.486	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:25:32.517	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:25:46.652	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:21.507	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:26:21.523	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:21.554	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:26:21.570	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:21.586	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:26:21.601	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:21.632	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:26:21.648	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:21.679	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:26:21.695	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:21.726	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:26:21.742	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:26:30.672	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.475	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.490	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.537	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.568	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.631	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.662	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.709	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.725	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.772	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.796	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.827	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.859	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:30:56.890	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:30:56.921	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:04.091	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.391	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.408	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.433	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.448	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.474	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.490	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.507	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.524	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.550	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.569	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.587	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.604	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.631	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.648	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:31:36.675	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:31:36.689	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:47.863	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:47.878	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:47.910	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:47.925	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:47.941	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:47.957	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:47.988	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:48.003	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:48.035	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:48.050	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:48.082	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:48.082	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:48.113	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:48.128	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:32:48.160	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:32:48.175	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:44.857	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:44.877	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:44.906	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:44.916	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:44.942	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:44.959	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:44.984	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:44.999	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:45.032	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:45.049	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:45.075	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:45.084	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:45.118	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:45.126	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:45.152	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:43:45.169	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:43:58.566	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:44:18.684	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:22.702	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:25.961	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:29.012	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:32.730	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:36.425	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:43.298	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:44:46.053	Custom indicator ShalluGan EURUSD,H1: removed
+2	10:44:46.061	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:49:43.873	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:49:43.888	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:49:51.907	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:50:51.718	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:50:51.735	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:50:51.761	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:50:51.769	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:51:15.554	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:51:15.570	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:51:15.585	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:51:15.601	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:55:01.195	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:55:01.210	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:55:01.242	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:55:01.257	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:55:08.689	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:56:05.354	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:56:05.369	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:56:05.400	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:56:05.416	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:56:05.432	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:56:05.447	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:12.145	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:12.162	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:12.192	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:12.201	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:12.225	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:12.242	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:41.324	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:41.339	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:41.355	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:41.370	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:41.402	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:41.417	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:49.295	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:49.311	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:49.327	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:49.342	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:49.374	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:49.389	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:59.839	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:59.855	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:59.871	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:59.886	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:57:59.902	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:57:59.917	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:58:06.977	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:58:06.992	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:58:07.008	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:58:07.024	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:58:07.182	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:58:07.211	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:59:51.165	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:59:51.180	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:59:51.196	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:59:51.212	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	10:59:51.243	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:59:51.258	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:01.583	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:01.583	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:01.614	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:01.630	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:01.645	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:01.661	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:06.574	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:06.591	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:06.607	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:06.624	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:06.650	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:06.667	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:22.333	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:22.349	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:22.380	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:22.396	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:22.427	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:22.427	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:28.744	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:48.351	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:48.366	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:48.382	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:48.397	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:48.429	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:48.429	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:48.460	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:48.476	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:56.702	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:56.710	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:56.736	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:56.753	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:56.780	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:56.786	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:00:56.811	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:00:56.828	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:08.518	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:08.534	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:08.559	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:08.577	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:08.593	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:08.611	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:08.636	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:08.645	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:17.109	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:17.109	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:17.140	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:17.156	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:17.171	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:17.187	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:17.218	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:17.234	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:57.713	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:57.728	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:57.744	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:57.760	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:57.791	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:57.806	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:01:57.822	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:01:57.838	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:02:14.629	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:02:14.645	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:02:14.676	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:02:14.676	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:02:14.707	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:02:14.723	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:02:14.739	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:02:14.754	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:09:38.262	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:09:38.277	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:09:38.293	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:09:38.309	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:09:38.340	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:09:38.340	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:09:38.378	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:09:38.395	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:09:49.554	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:10:25.154	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:10:25.170	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:10:25.201	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:10:25.217	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:10:25.232	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:10:25.264	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:10:25.279	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:10:25.295	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:10:25.326	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:10:25.342	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:20:18.186	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:20:19.843	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:20:21.803	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:20:23.576	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:20:29.454	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:21:12.912	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:21:12.928	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:26:48.578	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:26:48.594	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:28:31.270	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:28:31.286	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:29:17.666	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:29:17.683	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:30:44.219	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:30:44.234	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:30:53.055	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:30:53.063	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:30:58.298	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:32:18.363	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:32:18.379	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:32:18.410	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:32:18.425	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+0	11:32:23.557	HistoryCenter: synchronize 'EURUSD60'
+0	11:32:26.093	HistoryCenter: 3789 bars imported in 'EURUSD60'
+2	11:32:27.443	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:32:36.148	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:33:49.302	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:33:49.324	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:33:49.340	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:33:49.356	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:34:32.842	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:34:32.858	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:34:32.889	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:34:32.889	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:34:44.051	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:34:44.067	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:34:44.082	Custom indicator lokesh134 EURUSD,H1: removed
+2	11:34:44.098	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	11:51:37.770	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:51:37.786	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:51:51.135	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:52:08.189	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:01:17.686	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:01:17.702	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:01:24.531	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:02:26.365	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:02:26.381	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:02:26.396	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:02:26.412	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:22:06.460	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:22:06.476	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:22:06.507	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:22:06.523	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:22:14.089	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:24:17.372	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:24:17.388	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:24:17.403	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:24:17.419	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:24:17.450	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:24:17.466	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:24:27.029	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:52:06.984	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	12:55:42.156	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	12:55:42.172	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	12:55:51.262	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	12:56:37.986	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	12:56:55.909	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	12:56:55.925	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:10:13.163	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:10:13.179	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:10:20.084	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:12:38.197	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:12:38.213	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:12:38.228	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:12:38.260	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:12:44.848	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:13:31.092	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:13:31.107	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:13:31.139	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:13:31.154	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:13:31.186	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:13:31.201	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:13:38.233	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:13:40.859	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	13:13:45.915	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+2	13:14:05.351	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+1	14:13:27.593	'66686155': ping failed
+0	14:13:29.540	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 225.88 ms)
+0	14:13:31.391	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 225.88 ms)
+0	14:13:32.622	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:13:39.642	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 231.51 ms)
+0	14:13:40.660	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 231.51 ms)
+0	14:13:42.565	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 231.51 ms)
+0	14:13:43.515	'66686155': previous successful authorization performed from 103.213.202.61
+1	16:20:07.593	'66686155': ping failed
+0	16:20:10.726	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 235.90 ms)
+0	16:20:12.743	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 235.90 ms)
+0	16:20:15.134	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:20:20.889	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 232.92 ms)
+0	16:20:21.884	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.92 ms)
+0	16:20:23.679	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.92 ms)
+0	16:20:24.911	'66686155': previous successful authorization performed from 103.213.202.61
+1	16:58:04.216	'66686155': connect failed [No connection]
+0	16:59:51.384	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.92 ms)
+0	16:59:53.155	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.92 ms)
+0	16:59:54.211	'66686155': previous successful authorization performed from 103.213.202.61
+1	17:02:33.483	'66686155': ping failed
+1	17:02:33.486	'66686155': datacenter connecting failed [6]
+1	17:02:33.651	'66686155': connect failed [No connection]
+0	17:05:23.498	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	17:05:25.438	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	17:05:26.430	'66686155': previous successful authorization performed from 103.213.202.61
+0	17:05:34.846	'66686155': ping to current access point HK_DC_D06 is 424.13 ms
+1	17:10:14.651	'66686155': connect failed [No connection]
+0	17:11:23.353	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 424.13 ms)
+0	17:11:25.548	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 424.13 ms)
+0	17:11:26.597	'66686155': previous successful authorization performed from 103.213.202.61
+1	22:19:18.515	'66686155': ping failed
+1	22:19:18.577	'66686155': ping failed
+1	22:19:18.577	'66686155': datacenter connecting failed [6]
+1	22:19:21.700	'66686155': connect failed [No connection]
+0	22:19:28.924	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	22:19:31.029	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	23:02:21.271	'66686155': auto connecting to a better access point HK_DC_D06 (ping is 425.28 ms)
+1	23:02:21.932	'66686155': datacenter connecting failed [6]
+1	23:02:29.912	'66686155': connect failed [No connection]
+0	23:02:36.050	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	23:02:38.202	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	23:02:39.880	'66686155': previous successful authorization performed from 205.254.168.198
+0	23:02:46.461	'66686155': ping to current access point HK_DC_D06 is 424.99 ms

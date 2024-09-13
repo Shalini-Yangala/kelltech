@@ -1,0 +1,205 @@
+1	01:55:37.579	'66686155': ping failed
+1	01:55:39.368	'66686155': connect failed [No connection]
+1	11:13:00.809	MQL5.community: authorization failed
+0	11:16:17.372	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	11:16:19.550	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	11:16:20.898	'66686155': previous successful authorization performed from 205.254.168.173
+0	11:16:28.058	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 228.75 ms)
+0	11:16:28.943	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.75 ms)
+0	11:16:30.899	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.75 ms)
+0	11:16:31.860	'66686155': previous successful authorization performed from 103.213.202.61
+2	11:16:39.816	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:35:23.769	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	11:41:14.491	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:41:14.507	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	11:41:14.531	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:41:14.547	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	11:41:14.575	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:41:14.583	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	11:43:03.488	Custom indicator Anusha GannBox EURUSD,H1: loaded successfully
+2	11:55:57.219	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:55:57.236	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	11:55:57.270	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:55:57.279	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	11:55:57.303	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:55:57.327	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	11:56:02.986	Custom indicator shallllll EURUSD,H1: removed
+2	11:56:05.765	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:56:05.765	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:56:05.773	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:56:08.332	Custom indicator Shallu123 EURUSD,H1: removed
+2	11:56:21.824	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	12:07:03.079	Custom indicator Shallu123 EURUSD,H1: removed
+2	12:07:03.099	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	12:07:11.086	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	12:08:26.311	Custom indicator Shallu123 EURUSD,H1: removed
+2	12:08:29.785	Custom indicator Shallu123 EURUSD,H1: removed
+2	12:08:41.470	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	12:11:21.314	Custom indicator Shallu123 EURUSD,H1: removed
+2	12:11:21.330	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	12:11:28.869	Custom indicator Shallu123 EURUSD,H1: removed
+2	12:11:33.788	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	12:18:18.007	Custom indicator Shallu_GanBox EURUSD,H1: loaded successfully
+2	12:20:47.546	Custom indicator Shallu_GanBox EURUSD,H1: removed
+2	12:20:49.947	Custom indicator Shallu123 EURUSD,H1: removed
+2	12:55:21.636	Custom indicator Anusha GannBox EURUSD,H1: removed
+2	12:55:31.830	Custom indicator GannBox EURUSD,H1: loaded successfully
+2	12:58:31.915	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	13:00:23.682	Custom indicator GannBox EURUSD,H1: removed
+2	13:00:23.697	Custom indicator GannBox EURUSD,H1: loaded successfully
+2	13:00:31.843	Custom indicator GannBox EURUSD,H1: removed
+2	13:00:34.013	Custom indicator ShalluGan EURUSD,H1: removed
+2	13:00:49.259	Custom indicator GannBox EURUSD,H1: loaded successfully
+1	14:11:03.541	'66686155': connect failed [No connection]
+0	14:11:10.386	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	14:11:12.913	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	14:11:14.366	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:11:21.839	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 235.92 ms)
+0	14:11:22.725	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 235.92 ms)
+0	14:11:24.798	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 235.92 ms)
+0	14:11:25.615	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:13:31.067	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	14:14:43.713	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	14:20:21.518	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:26:17.005	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:26:17.021	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:26:30.163	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:28:52.202	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:28:52.218	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:28:52.245	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:28:52.260	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:28:56.981	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:28:59.923	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:29:06.459	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:31:06.013	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:32:15.708	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:52:04.306	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:52:04.321	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:52:17.107	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:53:47.750	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:53:49.415	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:54:01.162	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:56:33.157	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:56:33.173	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	14:56:46.623	Custom indicator GannBox EURUSD,H1: removed
+2	14:56:54.703	Custom indicator ShalluGan EURUSD,H1: removed
+2	14:57:02.171	Custom indicator ShalluGan EURUSD,H1: loaded successfully
+2	16:32:40.980	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:33:14.839	Custom indicator ShalluGan EURUSD,H1: removed
+2	16:33:38.323	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:37:53.691	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:37:57.509	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:38:02.721	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:44:20.640	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:44:20.655	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:44:31.090	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:50:23.133	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:50:23.148	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:50:23.172	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:50:23.189	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:50:33.049	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:58:40.122	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:58:40.139	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:58:40.165	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:58:40.181	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:58:40.205	Custom indicator LokeshGann EURUSD,H1: removed
+2	16:58:40.221	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	16:58:52.481	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:00:36.985	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:00:37.001	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:00:37.024	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:00:37.038	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:00:37.062	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:00:37.077	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:00:37.103	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:00:37.117	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:00:45.022	Custom indicator LokeshGann EURUSD,H1: loaded successfully
+2	17:36:45.797	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	17:37:17.734	Expert ShalluGannFan EURUSD,H1: removed
+2	17:41:29.674	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:41:34.450	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:41:36.931	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:41:39.524	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:41:46.354	Custom indicator LokeshGann EURUSD,H1: removed
+2	17:41:53.322	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	17:43:08.141	Expert ShalluGannFan EURUSD,H1: removed
+2	17:43:08.160	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	17:43:25.386	Expert ShalluGannFan EURUSD,H1: removed
+2	17:43:25.404	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	17:43:46.559	Expert ShalluGannFan EURUSD,H1: removed
+2	17:43:46.593	Expert ShalluGannFan EURUSD,H1: loaded successfully
+0	18:34:33.745	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 235.92 ms)
+0	18:34:35.543	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 235.92 ms)
+0	18:34:36.865	'66686155': previous successful authorization performed from 103.213.202.61
+0	18:34:43.338	'66686155': ping to current access point LD_DC_D06 is 228.63 ms
+2	18:38:28.556	Expert ShalluGannFan EURUSD,H1: removed
+2	18:38:28.577	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	18:39:12.208	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	18:43:53.816	Expert ShalluGannFan EURUSD,H1: removed
+2	18:43:53.839	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	18:43:53.842	Expert ShalluGannFan EURUSD,H1: removed
+2	18:43:53.861	Expert ShalluGannFan EURUSD,H1: loaded successfully
+2	18:44:13.392	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	18:50:22.106	Expert ShalluGannCurves EURUSD,H1: removed
+2	18:50:22.126	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	18:51:11.283	Expert ShalluGannCurves EURUSD,H1: removed
+2	18:51:11.309	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	18:51:17.940	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	18:54:28.910	Expert ShalluGannCurves EURUSD,H1: removed
+2	18:54:28.930	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	18:54:28.934	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	18:54:28.952	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	18:54:42.449	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:01:02.046	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:01:02.063	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:01:02.067	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:01:02.084	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:01:02.091	Expert ShalluGannCurves EURUSD,Weekly: removed
+2	19:01:02.108	Expert ShalluGannCurves EURUSD,Weekly: loaded successfully
+2	19:01:14.316	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:02:03.904	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:02:03.927	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:02:03.930	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:02:03.946	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:02:03.950	Expert ShalluGannCurves EURUSD,Weekly: removed
+2	19:02:03.965	Expert ShalluGannCurves EURUSD,Weekly: loaded successfully
+2	19:02:03.969	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:02:03.984	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:02:18.061	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:02:46.306	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:02:49.647	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:02:58.492	Expert ShalluGannCurves EURUSD,Weekly: removed
+2	19:03:02.696	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:03:05.356	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:03:17.342	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:08:56.521	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:08:56.552	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:09:06.427	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:11:34.273	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:11:34.293	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:11:34.298	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:11:34.317	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:11:41.458	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:12:29.623	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:12:29.645	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:12:29.648	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:12:29.665	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:12:29.669	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:12:29.686	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:12:53.241	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:12:53.260	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:12:53.264	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:12:53.283	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:12:53.286	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:12:53.301	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:12:59.020	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:13:56.748	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:14:02.117	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:14:16.931	Expert ShalluGannFan EURUSD,H1: removed
+2	19:14:56.600	Expert ShalluGannCurves EURUSD,H1: removed
+2	19:15:28.732	Expert ShalluGannCurves EURUSD,Monthly: removed
+2	19:15:28.749	Expert ShalluGannCurves EURUSD,Monthly: loaded successfully
+2	19:15:36.689	Expert ShalluGannCurves EURUSD,H1: loaded successfully
+2	19:27:49.897	Expert ShalluGannBox EURUSD,H1: loaded successfully
+1	22:36:28.541	'66686155': connect failed [No connection]
+0	22:36:35.412	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)

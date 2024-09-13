@@ -1,0 +1,189 @@
+0	12:24:59.169	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	12:24:59.169	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2870 / 8067 Mb, Disk: 8 / 53 Gb, GMT+5
+0	12:24:59.169	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	12:25:02.162	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:25:02.298	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	12:25:02.377	Custom indicator lokesh134 EURUSD,H1: loaded successfully
+2	12:25:02.460	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:25:02.540	Custom indicator sssssssssssssssssssssssss EURUSD,H1: loaded successfully
+0	12:25:04.174	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 238.12 ms)
+0	12:25:06.568	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 238.12 ms)
+0	12:25:07.837	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:25:14.170	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 226.49 ms)
+0	12:25:14.906	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.49 ms)
+0	12:25:16.751	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.49 ms)
+0	12:25:17.611	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:26:13.938	Expert SnipperX EURUSD,H1: loaded successfully
+2	12:27:49.467	Expert SnipperX EURUSD,H4: removed
+2	12:27:49.492	Expert SnipperX EURUSD,H4: loaded successfully
+2	12:28:00.478	Expert SnipperX EURUSD,H1: loaded successfully
+1	13:26:02.624	'66686155': ping failed
+0	13:26:05.721	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 233.84 ms)
+0	13:26:07.663	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 233.84 ms)
+0	13:26:08.855	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:26:15.509	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 225.10 ms)
+0	13:26:16.861	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.10 ms)
+0	13:26:18.601	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.10 ms)
+0	13:26:19.422	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:24:08.591	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:24:58.616	Expert Elite Hedger EURUSD,H1: removed
+2	15:24:58.643	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:25:17.106	Expert Elite Hedger EURUSD,H1: removed
+2	15:25:17.132	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:25:26.660	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:25:49.854	Expert Elite Hedger EURUSD,H1: removed
+2	15:25:49.879	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:25:49.885	Expert Elite Hedger EURUSD,H1: removed
+2	15:25:49.905	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:25:56.413	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:28.632	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:28.657	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:28.662	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:28.683	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:28.688	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:28.715	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:35.156	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:51.906	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:51.931	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:51.935	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:51.960	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:51.964	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:51.985	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:51.989	Expert Elite Hedger EURUSD,H1: removed
+2	15:26:52.010	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:26:57.658	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:22.105	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:22.129	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:22.132	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:22.150	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:22.154	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:22.178	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:22.182	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:22.200	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:22.204	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:22.227	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:29.635	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:48.635	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:48.666	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:48.672	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:48.692	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:48.697	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:48.718	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:48.722	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:48.742	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:48.746	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:48.770	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:48.774	Expert Elite Hedger EURUSD,H1: removed
+2	15:27:48.798	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:27:55.302	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.605	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.631	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.635	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.657	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.665	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.686	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.690	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.710	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.714	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.736	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.740	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.761	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:13.765	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:13.784	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:19.832	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.492	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.518	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.522	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.545	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.549	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.572	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.576	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.598	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.602	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.625	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.629	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.649	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.653	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.676	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:44.679	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:44.703	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.364	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.390	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.394	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.414	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.418	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.441	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.445	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.466	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.471	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.495	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.499	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.518	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.522	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.540	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:54.545	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:54.565	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.330	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.356	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.361	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.382	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.385	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.406	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.411	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.430	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.436	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.455	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.459	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.480	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.483	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.504	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:29:57.508	Expert Elite Hedger EURUSD,H1: removed
+2	15:29:57.530	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:03.725	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.027	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.053	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.057	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.077	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.083	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.107	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.110	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.130	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.134	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.157	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.162	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.183	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.186	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.208	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.213	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.235	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:32.240	Expert Elite Hedger EURUSD,H1: removed
+2	15:30:32.262	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:30:39.347	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.598	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.621	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.626	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.646	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.650	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.674	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.677	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.697	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.700	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.720	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.724	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.743	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.749	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.771	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.774	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.796	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.803	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.823	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:38.826	Expert Elite Hedger EURUSD,H1: removed
+2	15:34:38.846	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	15:34:46.985	Expert Elite Hedger EURUSD,H1: loaded successfully
+1	17:18:20.546	'66686155': ping failed
+0	17:18:23.444	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 237.57 ms)
+0	17:18:25.381	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 237.57 ms)
+0	17:18:26.297	'66686155': previous successful authorization performed from 103.213.202.61
+0	17:18:33.018	'66686155': ping to current access point NVir_DC_D05 is 231.53 ms
+1	21:43:02.593	'66686155': ping failed
+1	21:43:07.260	'66686155': connect failed [No connection]

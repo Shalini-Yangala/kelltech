@@ -1,0 +1,12 @@
+0	11:53:45.831	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	11:53:47.953	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	11:53:49.890	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:53:55.615	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 247.22 ms)
+0	11:53:56.542	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.22 ms)
+0	11:53:58.338	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.22 ms)
+0	11:53:59.326	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:33:32.265	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.22 ms)
+0	12:33:35.202	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.22 ms)
+0	12:33:36.190	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:42:17.930	Custom indicator Trend Market Sentiment EURUSD,H1: removed
+0	12:42:18.281	IC Markets (SC) MT4 build 1415 stopped

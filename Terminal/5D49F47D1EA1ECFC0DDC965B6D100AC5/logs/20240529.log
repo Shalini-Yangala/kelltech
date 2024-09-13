@@ -1,0 +1,363 @@
+0	10:32:39.598	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	10:32:39.598	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3871 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	10:32:39.598	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:32:46.536	Expert Wedges EURUSD,H1: loaded successfully
+2	10:32:46.833	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	10:32:46.973	Custom indicator custom_channel USDCAD,H1: loaded successfully
+0	10:32:49.458	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	10:32:49.458	LiveUpdate: updater - start admin updater
+1	10:32:53.483	LiveUpdate: updater - elevated updater start failed [1223]
+0	10:32:53.483	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	10:32:50.208	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.33 ms)
+0	10:32:52.964	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.33 ms)
+0	10:32:54.176	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:33:02.030	'66686155': ping to current access point LD_DC_D06 is 249.48 ms
+2	10:33:05.545	Custom indicator custom_channel USDCAD,H1: removed
+2	10:33:08.577	Expert Triangle Pattern EURUSD,H1: removed
+2	10:34:21.205	Expert Wedges EURUSD,H1: removed
+2	10:34:21.236	Expert Wedges EURUSD,H1: loaded successfully
+2	10:34:43.892	Expert Wedges EURUSD,H1: loaded successfully
+2	10:36:21.039	Expert Wedges EURUSD,H1: removed
+2	10:36:21.054	Expert Wedges EURUSD,H1: loaded successfully
+2	10:36:21.054	Expert Wedges EURUSD,H1: removed
+2	10:36:21.070	Expert Wedges EURUSD,H1: loaded successfully
+2	10:36:32.054	Expert Wedges EURUSD,H1: loaded successfully
+2	10:37:25.982	Expert Wedges EURUSD,H1: removed
+2	10:37:26.013	Expert Wedges EURUSD,H1: loaded successfully
+2	10:37:26.013	Expert Wedges EURUSD,H1: removed
+2	10:37:26.029	Expert Wedges EURUSD,H1: loaded successfully
+2	10:37:26.029	Expert Wedges EURUSD,H1: removed
+2	10:37:26.060	Expert Wedges EURUSD,H1: loaded successfully
+2	10:37:36.607	Expert Wedges EURUSD,H1: removed
+2	10:37:45.130	Expert Wedges EURUSD,H1: loaded successfully
+2	10:37:50.895	Expert Wedges EURUSD,H1: removed
+2	10:38:01.192	Expert Wedges EURUSD,H1: removed
+2	10:38:01.207	Expert Wedges EURUSD,H1: loaded successfully
+2	10:42:00.330	Expert H&S EURUSD,H1: loaded successfully
+2	10:42:34.032	Expert H&S EURUSD,H1: removed
+2	10:43:29.718	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	11:06:31.391	Expert Wedges EURUSD,H1: removed
+2	11:06:31.454	Expert Wedges EURUSD,H1: loaded successfully
+2	11:06:31.464	Expert Wedges EURUSD,H1: removed
+2	11:06:31.483	Expert Wedges EURUSD,H1: loaded successfully
+2	12:42:05.163	Expert Wedges EURUSD,H1: removed
+2	12:42:05.273	Expert Wedges EURUSD,H1: loaded successfully
+2	12:42:05.273	Expert Wedges EURUSD,H1: removed
+2	12:42:05.288	Expert Wedges EURUSD,H1: loaded successfully
+2	12:42:14.022	Expert Wedges EURUSD,H1: loaded successfully
+2	12:50:09.118	Expert Wedges EURUSD,H1: removed
+2	12:50:09.149	Expert Wedges EURUSD,H1: loaded successfully
+2	12:50:09.149	Expert Wedges EURUSD,H1: removed
+2	12:50:09.165	Expert Wedges EURUSD,H1: loaded successfully
+2	12:50:09.165	Expert Wedges EURUSD,H1: removed
+2	12:50:09.196	Expert Wedges EURUSD,H1: loaded successfully
+1	14:18:00.593	'66686155': ping failed
+0	14:18:02.337	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 264.32 ms)
+0	14:18:05.034	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 264.32 ms)
+0	14:18:06.878	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:18:13.644	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 221.85 ms)
+0	14:18:14.588	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.85 ms)
+0	14:18:16.576	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.85 ms)
+0	14:18:17.349	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:26:31.120	Expert Wedges EURUSD,H1: removed
+2	14:26:31.141	Expert Wedges EURUSD,H1: loaded successfully
+2	14:26:31.145	Expert Wedges EURUSD,H1: removed
+2	14:26:31.163	Expert Wedges EURUSD,H1: loaded successfully
+2	14:26:31.168	Expert Wedges EURUSD,H1: removed
+2	14:26:31.190	Expert Wedges EURUSD,H1: loaded successfully
+2	14:26:36.258	Expert Wedges EURUSD,H1: removed
+2	14:26:36.280	Expert Wedges EURUSD,H1: loaded successfully
+2	14:26:56.110	Expert Wedges EURUSD,H1: loaded successfully
+2	14:27:43.515	Expert Triangle Pattern EURUSD,H1: removed
+2	14:27:45.844	Expert Wedges EURUSD,H1: removed
+2	14:27:48.070	Expert Wedges EURUSD,H1: removed
+2	14:27:51.830	Expert Wedges EURUSD,H1: removed
+2	14:28:07.866	Expert Wedges EURUSD,H1: removed
+2	14:28:24.574	Expert Wedges EURUSD,H1: loaded successfully
+2	14:28:56.448	Expert Wedges EURUSD,H1: removed
+0	14:28:56.884	IC Markets (SC) MT4 build 1415 stopped
+0	14:29:01.841	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	14:29:01.841	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2470 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	14:29:01.841	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	14:29:02.757	Sources recompilation started
+0	14:29:04.324	Sources recompilation finished (1 compiled in 1594 msec)
+2	14:29:05.516	Expert Wedges EURUSD,H1: loaded successfully
+0	14:29:06.877	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	14:29:06.877	LiveUpdate: updater - start admin updater
+1	14:29:09.855	LiveUpdate: updater - elevated updater start failed [1223]
+0	14:29:09.855	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	14:29:07.468	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.85 ms)
+0	14:29:09.647	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.85 ms)
+0	14:29:10.708	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:29:36.040	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	14:30:29.578	Expert Wedges EURUSD,H1: removed
+2	14:30:29.598	Expert Wedges EURUSD,H1: loaded successfully
+2	14:30:38.051	Expert Wedges EURUSD,H1: loaded successfully
+2	14:31:26.784	Expert Wedges EURUSD,H1: removed
+2	14:31:26.804	Expert Wedges EURUSD,H1: loaded successfully
+2	14:31:26.807	Expert Wedges EURUSD,H1: removed
+2	14:31:26.824	Expert Wedges EURUSD,H1: loaded successfully
+2	14:31:44.438	Expert Wedges EURUSD,H1: removed
+2	14:31:44.466	Expert Wedges EURUSD,H1: loaded successfully
+2	14:31:44.470	Expert Wedges EURUSD,H1: removed
+2	14:31:44.489	Expert Wedges EURUSD,H1: loaded successfully
+2	14:36:03.280	Expert Triangle Pattern EURUSD,H1: removed
+2	14:36:03.302	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	14:36:12.947	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	14:37:32.628	Expert Wedges EURUSD,H1: removed
+2	14:37:32.652	Expert Wedges EURUSD,H1: loaded successfully
+2	14:37:32.656	Expert Wedges EURUSD,H1: removed
+2	14:37:32.673	Expert Wedges EURUSD,H1: loaded successfully
+2	14:37:39.834	Expert Wedges EURUSD,H1: loaded successfully
+2	14:37:53.409	Expert Wedges EURUSD,H1: removed
+2	14:37:55.839	Expert Triangle Pattern EURUSD,H1: removed
+2	14:37:58.328	Expert Wedges EURUSD,H1: removed
+2	14:42:04.744	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	14:45:50.730	Expert Double Top and Bottom EURUSD,H1: removed
+2	14:45:50.758	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	14:45:59.674	Expert Double Top and Bottom EURUSD,H1: removed
+2	14:45:59.707	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	14:46:09.946	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	15:23:59.023	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:27:45.298	Expert Rectangular EURUSD,H1: removed
+2	15:27:45.329	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:28:02.746	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:29:30.391	Expert Rectangular EURUSD,H1: removed
+2	15:29:30.422	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:29:30.422	Expert Rectangular EURUSD,H1: removed
+2	15:29:30.438	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:29:49.735	Expert Rectangular EURUSD,H1: loaded successfully
+0	15:32:23.370	HistoryCenter: synchronize 'EURUSD60'
+0	15:32:23.940	HistoryCenter: 2 bars imported in 'EURUSD60'
+2	15:32:40.498	Expert Rectangular EURUSD,H1: removed
+2	15:32:40.523	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:32:40.528	Expert Rectangular EURUSD,H1: removed
+2	15:32:40.543	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:32:40.553	Expert Rectangular EURUSD,H1: removed
+2	15:32:40.562	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:34:27.148	Expert Rectangular EURUSD,H1: removed
+2	15:34:27.168	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:34:27.168	Expert Rectangular EURUSD,H1: removed
+2	15:34:27.188	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:34:27.198	Expert Rectangular EURUSD,H1: removed
+2	15:34:27.213	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:34:40.638	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:36:34.825	Expert Rectangular EURUSD,H1: removed
+2	15:36:34.863	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:36:34.868	Expert Rectangular EURUSD,H1: removed
+2	15:36:34.888	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:36:34.894	Expert Rectangular EURUSD,H1: removed
+2	15:36:34.914	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:36:34.918	Expert Rectangular EURUSD,H1: removed
+2	15:36:34.938	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:04.108	Expert Rectangular EURUSD,H1: removed
+2	15:40:04.133	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:04.152	Expert Rectangular EURUSD,H1: removed
+2	15:40:04.168	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:04.168	Expert Rectangular EURUSD,H1: removed
+2	15:40:04.193	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:04.198	Expert Rectangular EURUSD,H1: removed
+2	15:40:04.218	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:52.618	Expert Rectangular EURUSD,H1: removed
+2	15:40:52.643	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:52.662	Expert Rectangular EURUSD,H1: removed
+2	15:40:52.681	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:52.688	Expert Rectangular EURUSD,H1: removed
+2	15:40:52.708	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:40:52.708	Expert Rectangular EURUSD,H1: removed
+2	15:40:52.733	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:43:23.328	Expert Rectangular EURUSD,H1: removed
+2	15:43:23.348	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:43:23.348	Expert Rectangular EURUSD,H1: removed
+2	15:43:23.370	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:43:23.378	Expert Rectangular EURUSD,H1: removed
+2	15:43:23.398	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:43:23.398	Expert Rectangular EURUSD,H1: removed
+2	15:43:23.418	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:48:24.898	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	15:48:52.838	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	15:52:59.137	Expert Rectangular EURUSD,H1: removed
+2	15:52:59.178	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:52:59.187	Expert Rectangular EURUSD,H1: removed
+2	15:52:59.207	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:52:59.215	Expert Rectangular EURUSD,H1: removed
+2	15:52:59.232	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:52:59.232	Expert Rectangular EURUSD,H1: removed
+2	15:52:59.248	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:53:14.517	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:53:57.407	Expert Rectangular EURUSD,H1: removed
+2	15:53:57.434	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:53:57.443	Expert Rectangular EURUSD,H1: removed
+2	15:53:57.464	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:53:57.468	Expert Rectangular EURUSD,H1: removed
+2	15:53:57.487	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:53:57.492	Expert Rectangular EURUSD,H1: removed
+2	15:53:57.512	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:53:57.517	Expert Rectangular EURUSD,H1: removed
+2	15:53:57.538	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:54:37.707	Expert Rectangular EURUSD,H1: removed
+2	15:54:37.728	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:54:37.728	Expert Rectangular EURUSD,H1: removed
+2	15:54:37.747	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:54:37.757	Expert Rectangular EURUSD,H1: removed
+2	15:54:37.773	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:54:37.773	Expert Rectangular EURUSD,H1: removed
+2	15:54:37.787	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:54:37.787	Expert Rectangular EURUSD,H1: removed
+2	15:54:37.807	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:15.878	Expert Rectangular EURUSD,H1: removed
+2	15:55:15.902	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:15.907	Expert Rectangular EURUSD,H1: removed
+2	15:55:15.917	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:15.928	Expert Rectangular EURUSD,H1: removed
+2	15:55:15.952	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:15.952	Expert Rectangular EURUSD,H1: removed
+2	15:55:15.967	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:15.977	Expert Rectangular EURUSD,H1: removed
+2	15:55:15.994	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:34.018	Expert Rectangular EURUSD,H1: removed
+2	15:55:34.047	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:34.047	Expert Rectangular EURUSD,H1: removed
+2	15:55:34.068	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:34.068	Expert Rectangular EURUSD,H1: removed
+2	15:55:34.092	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:34.097	Expert Rectangular EURUSD,H1: removed
+2	15:55:34.107	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:34.117	Expert Rectangular EURUSD,H1: removed
+2	15:55:34.153	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:57.927	Expert Rectangular EURUSD,H1: removed
+2	15:55:57.957	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:57.962	Expert Rectangular EURUSD,H1: removed
+2	15:55:57.978	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:57.978	Expert Rectangular EURUSD,H1: removed
+2	15:55:58.002	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:58.007	Expert Rectangular EURUSD,H1: removed
+2	15:55:58.028	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:55:58.032	Expert Rectangular EURUSD,H1: removed
+2	15:55:58.048	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:56:24.222	Expert Rectangular EURUSD,H1: removed
+2	15:56:24.248	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:56:24.248	Expert Rectangular EURUSD,H1: removed
+2	15:56:24.268	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:56:24.277	Expert Rectangular EURUSD,H1: removed
+2	15:56:24.292	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:56:24.298	Expert Rectangular EURUSD,H1: removed
+2	15:56:24.317	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:56:24.317	Expert Rectangular EURUSD,H1: removed
+2	15:56:24.337	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:58:02.732	Expert Rectangular EURUSD,H1: removed
+2	15:58:02.757	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:58:02.757	Expert Rectangular EURUSD,H1: removed
+2	15:58:02.782	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:58:02.782	Expert Rectangular EURUSD,H1: removed
+2	15:58:02.802	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:58:02.807	Expert Rectangular EURUSD,H1: removed
+2	15:58:02.837	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:58:02.842	Expert Rectangular EURUSD,H1: removed
+2	15:58:02.862	Expert Rectangular EURUSD,H1: loaded successfully
+2	15:58:13.637	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:23.757	Expert Rectangular EURUSD,H1: removed
+2	16:06:23.787	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:23.787	Expert Rectangular EURUSD,H1: removed
+2	16:06:23.814	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:23.817	Expert Rectangular EURUSD,H1: removed
+2	16:06:23.832	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:23.837	Expert Rectangular EURUSD,H1: removed
+2	16:06:23.857	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:23.867	Expert Rectangular EURUSD,H1: removed
+2	16:06:23.892	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:23.892	Expert Rectangular EURUSD,H1: removed
+2	16:06:23.907	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:06:37.147	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.052	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.067	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.077	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.097	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.097	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.122	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.127	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.147	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.153	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.172	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.172	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.187	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:07:41.197	Expert Rectangular EURUSD,H1: removed
+2	16:07:41.222	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:14.998	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.021	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:15.021	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.047	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:15.047	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.067	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:15.072	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.097	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:15.102	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.121	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:15.121	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.137	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:15.137	Expert Rectangular EURUSD,H1: removed
+2	16:09:15.167	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:09:33.786	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.137	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.167	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.167	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.187	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.195	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.207	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.217	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.237	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.237	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.257	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.257	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.292	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.297	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.312	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:10:56.317	Expert Rectangular EURUSD,H1: removed
+2	16:10:56.335	Expert Rectangular EURUSD,H1: loaded successfully
+2	16:14:29.202	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:14:29.202	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	16:14:29.234	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:14:29.249	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	16:14:37.619	Expert Rectangular EURUSD,H1: removed
+2	16:14:39.407	Expert Rectangular EURUSD,H1: removed
+2	16:14:39.407	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:14:41.393	Expert Rectangular EURUSD,H1: removed
+2	16:14:43.486	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:14:47.744	Expert Rectangular EURUSD,H1: removed
+2	16:14:49.377	Expert Rectangular EURUSD,H1: removed
+2	16:14:53.466	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:14:56.033	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:14:57.894	Expert Rectangular EURUSD,H1: removed
+2	16:14:59.719	Expert Rectangular EURUSD,H1: removed
+2	16:15:01.620	Expert Wedges EURUSD,H1: removed
+2	16:15:29.396	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	16:16:24.246	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:16:24.261	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	16:16:51.145	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+0	16:24:10.560	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	16:24:10.560	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2056 / 8067 Mb, Disk: 4 / 53 Gb, GMT+5
+0	16:24:10.560	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	16:24:11.373	Sources recompilation started
+0	16:24:11.936	Sources recompilation finished (1 compiled in 563 msec)
+2	16:24:13.358	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	16:24:13.389	Expert Rectangular EURUSD,H1: loaded successfully
+3	16:24:13.389	Expert 'Rectangular': is an indicator and will be removed
+2	16:24:13.389	Expert Rectangular EURUSD,H1: removed
+2	16:24:13.436	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	16:24:13.498	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	16:24:13.576	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+0	16:24:14.514	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:24:14.514	LiveUpdate: updater - start admin updater
+1	16:24:17.957	LiveUpdate: updater - elevated updater start failed [1223]
+0	16:24:17.957	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:24:15.344	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.85 ms)
+0	16:24:17.864	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.85 ms)
+0	16:24:19.013	'66686155': previous successful authorization performed from 49.37.154.245
+2	16:24:21.881	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:24:23.615	Custom indicator Trend_Line EURUSD,H1: removed
+2	16:24:25.662	Custom indicator Trend_Line EURUSD,H1: removed
+0	16:24:27.146	'66686155': ping to current access point LD_DC_D06 is 231.96 ms
+3	16:24:52.692	'Rectangular' is not expert and cannot be executed
+3	16:24:54.863	'Rectangular' is not expert and cannot be executed
+2	16:29:36.600	Expert Rectangular EURUSD,H1: loaded successfully
+1	19:46:44.803	'66686155': datacenter connecting failed [6]

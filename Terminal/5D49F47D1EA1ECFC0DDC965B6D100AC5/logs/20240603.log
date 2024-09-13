@@ -1,0 +1,100 @@
+1	09:49:23.692	MQL5.community: authorization failed
+0	09:49:39.933	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:49:43.102	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:49:44.573	'66686155': previous successful authorization performed from 205.254.168.237
+0	09:49:49.799	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 225.27 ms)
+0	09:49:50.629	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.27 ms)
+0	09:49:52.443	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.27 ms)
+0	09:49:53.690	'66686155': previous successful authorization performed from 103.213.202.61
+2	09:50:24.707	Expert Double Top and Bottom GBPUSD,H1: removed
+2	09:50:24.730	Expert Double Top and Bottom GBPUSD,H1: removed
+2	09:50:24.746	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:24.761	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:24.781	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:24.812	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:24.886	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:24.903	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:24.923	Expert All Patterns EURUSD,H1: removed
+2	09:50:25.002	Expert Double Top and Bottom EURUSD,H1: removed
+2	09:50:25.026	Expert All Patterns EURUSD,H1: removed
+2	09:50:25.046	Expert Double Top and Bottom EURUSD,H1: removed
+0	09:50:26.276	IC Markets (SC) MT4 build 1415 stopped
+0	10:00:14.615	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	10:00:14.615	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3838 / 8067 Mb, Disk: 6 / 53 Gb, GMT+5
+0	10:00:14.615	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	10:00:15.521	Sources recompilation started
+0	10:00:17.428	Sources recompilation finished (4 compiled in 1906 msec)
+2	10:00:18.881	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	10:00:18.927	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	10:00:19.006	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.052	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.115	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.162	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.224	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.271	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.334	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:00:19.412	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+0	10:00:21.302	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	10:00:21.302	LiveUpdate: updater - start admin updater
+1	10:00:21.740	'66686155': connect failed [No connection]
+2	10:00:21.912	Expert Double Top and Bottom GBPUSD,H1: removed
+2	10:00:21.927	Expert Double Top and Bottom GBPUSD,H1: removed
+2	10:00:21.959	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:21.974	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:21.990	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:22.005	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:22.021	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:22.068	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:22.083	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:00:22.130	Expert Double Top and Bottom EURUSD,H1: removed
+0	10:00:23.139	IC Markets (SC) MT4 build 1415 stopped
+1	10:00:25.119	LiveUpdate: updater - elevated updater start failed [1223]
+0	10:00:25.119	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	10:01:28.905	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	10:01:28.905	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3874 / 8067 Mb, Disk: 6 / 53 Gb, GMT+5
+0	10:01:28.905	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:01:30.921	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	10:01:30.983	Expert Double Top and Bottom GBPUSD,H1: loaded successfully
+2	10:01:31.030	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.093	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.140	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.202	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.249	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.296	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.390	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	10:01:31.483	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+0	10:01:32.733	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	10:01:32.733	LiveUpdate: updater - start admin updater
+1	10:01:46.566	LiveUpdate: updater - elevated updater start failed [1223]
+0	10:01:46.566	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	10:01:33.669	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.27 ms)
+0	10:01:36.273	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.27 ms)
+0	10:01:37.247	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:05:23.654	Expert Double Top and Bottom GBPUSD,H1: removed
+2	10:05:26.129	Expert Double Top and Bottom GBPUSD,H1: removed
+2	10:05:31.426	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:05:34.051	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:05:37.082	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:05:39.706	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:05:42.691	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:05:45.425	Expert Double Top and Bottom EURUSD,H1: removed
+2	10:05:50.971	Expert Double Top and Bottom EURUSD,H1: removed
+2	12:44:05.056	Expert Double Top and Bottom EURUSD,H1: removed
+0	12:44:05.462	IC Markets (SC) MT4 build 1415 stopped
+0	15:36:16.463	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	15:36:16.463	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2954 / 8067 Mb, Disk: 6 / 53 Gb, GMT+5
+0	15:36:16.463	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:36:18.978	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+0	15:36:20.135	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	15:36:20.135	LiveUpdate: updater - start admin updater
+1	15:36:25.475	LiveUpdate: updater - elevated updater start failed [1223]
+0	15:36:25.475	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	15:36:21.200	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.27 ms)
+0	15:36:23.747	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.27 ms)
+0	15:36:24.771	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:36:31.935	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 252.57 ms)
+0	15:36:33.750	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 256.75 ms)
+0	15:36:35.878	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 253.26 ms)
+0	15:36:36.886	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:37:00.129	Expert Double Top and Bottom EURUSD,H1: removed
+0	15:37:00.488	IC Markets (SC) MT4 build 1415 stopped

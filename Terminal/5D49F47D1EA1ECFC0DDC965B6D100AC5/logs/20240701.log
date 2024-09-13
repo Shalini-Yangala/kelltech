@@ -1,0 +1,39 @@
+0	14:27:39.010	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	14:27:39.010	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3046 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	14:27:39.010	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	14:27:41.856	Custom indicator ATR EURUSD,H1: loaded successfully
+2	14:27:41.879	Custom indicator Stochastic EURUSD,H1: loaded successfully
+2	14:27:42.051	Expert StochR AUDCHF,H1: loaded successfully
+0	14:27:47.521	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.47 ms)
+0	14:27:49.860	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.47 ms)
+0	14:27:50.970	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:27:57.239	Expert StochR AUDCHF,H1: removed
+0	14:27:57.345	'66686155': ping to current access point LD_DC_D06 is 216.99 ms
+2	14:28:34.896	Custom indicator ATR EURUSD,H1: removed
+2	14:28:34.896	Custom indicator Stochastic EURUSD,H1: removed
+2	14:33:20.038	Expert Harmonix AUDCHF,H1: loaded successfully
+2	14:46:42.543	Expert Harmonix AUDCHF,H1: removed
+2	14:46:42.559	Expert Harmonix AUDCHF,H1: loaded successfully
+2	17:23:00.285	Expert Harmonix AUDCHF,H1: removed
+2	17:23:00.316	Expert Harmonix AUDCHF,H1: loaded successfully
+2	17:29:41.877	Expert Harmonix AUDCHF,H1: removed
+0	17:29:46.832	'66686155': order sell market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	17:29:47.222	'66686155': order was opened : #250389135 sell 0.10 EURUSD at 1.07493 sl: 0.00000 tp: 0.00000
+0	17:29:49.342	Trades: use MetaTrader VPS Hosting Service to speed up the execution: 14.11 ms via 'MQL5 Ashburn DC2 02' instead of 216.99 ms
+0	17:29:54.178	'66686155': close order #250386842 sell 0.10 EURUSD at 1.07473 sl: 1.07765 tp: 1.07344 at price 0.00000
+0	17:29:54.596	'66686155': order #250386842 sell 0.10 EURUSD at 1.07473 sl: 1.07765 tp: 1.07344 closed at price 1.07496
+0	17:30:01.427	'66686155': close order #250389135 sell 0.10 EURUSD at 1.07493 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	17:30:01.814	'66686155': order #250389135 sell 0.10 EURUSD at 1.07493 sl: 0.00000 tp: 0.00000 closed at price 1.07489
+0	17:30:07.585	'66686155': close order #250389147 sell 0.10 EURUSD at 1.07494 sl: 1.07765 tp: 1.07344 at price 0.00000
+0	17:30:07.986	'66686155': order #250389147 sell 0.10 EURUSD at 1.07494 sl: 1.07765 tp: 1.07344 closed at price 1.07489
+0	17:30:18.049	'66686155': close order #250389515 sell 0.10 EURUSD at 1.07486 sl: 1.07765 tp: 1.07344 at price 0.00000
+0	17:30:18.389	'66686155': order #250389515 sell 0.10 EURUSD at 1.07486 sl: 1.07765 tp: 1.07344 closed at price 1.07487
+1	19:00:24.562	'66686155': ping failed
+0	19:00:28.849	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 225.84 ms)
+0	19:00:30.656	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 225.84 ms)
+0	19:00:31.568	'66686155': previous successful authorization performed from 103.213.202.61
+0	19:00:38.609	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 220.83 ms)
+0	19:00:39.310	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.83 ms)
+0	19:00:41.087	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.83 ms)
+0	19:00:41.905	'66686155': previous successful authorization performed from 103.213.202.61
+0	19:03:04.299	IC Markets (SC) MT4 build 1420 stopped

@@ -1,0 +1,53 @@
+0	14:59:11.968	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	14:59:11.984	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3612 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	14:59:11.984	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	14:59:16.281	Expert CrossTrade EURUSD,M15: loaded successfully
+2	14:59:16.347	Expert first1\first1 EURUSD,H1: loaded successfully
+0	14:59:21.782	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.33 ms)
+2	14:59:23.963	Expert first1 EURUSD,H1: removed
+0	14:59:24.235	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.33 ms)
+0	14:59:25.267	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:59:27.966	Expert CrossTrade EURUSD,M15: removed
+0	14:59:32.421	'66686155': ping to current access point LD_DC_D06 is 234.26 ms
+2	15:02:37.152	Custom indicator ATR EURUSD,H1: loaded successfully
+2	15:02:49.563	Custom indicator Stochastic EURUSD,H1: loaded successfully
+2	15:08:31.632	Expert StochR EURUSD,H1: loaded successfully
+2	15:14:26.722	Expert StochR EURUSD,H1: removed
+1	15:20:22.889	'66686155': connect failed [No connection]
+0	15:21:35.993	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 234.26 ms)
+0	15:21:38.807	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 234.26 ms)
+0	15:21:39.667	'66686155': previous successful authorization performed from 103.213.202.61
+1	15:28:59.307	'66686155': ping failed
+1	15:28:59.307	'66686155': datacenter connecting failed [6]
+1	15:28:59.998	'66686155': connect failed [No connection]
+0	15:30:13.525	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:30:16.387	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:30:17.374	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:30:24.979	'66686155': ping to current access point HK_DC_D06 is 348.78 ms
+1	15:52:57.634	'66686155': ping failed
+1	15:52:57.634	'66686155': datacenter connecting failed [6]
+1	15:52:58.277	'66686155': connect failed [No connection]
+0	15:54:11.081	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:54:13.862	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:54:14.748	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:54:21.864	'66686155': ping to current access point HK_DC_D06 is 332.75 ms
+1	15:55:27.445	'66686155': connect failed [No connection]
+0	15:56:35.209	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 332.75 ms)
+0	15:56:37.995	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 332.75 ms)
+0	15:56:39.084	'66686155': previous successful authorization performed from 103.213.202.61
+2	16:13:54.838	Expert StochR EURUSD,H1: loaded successfully
+2	16:23:22.717	Expert StochR EURUSD,H1: removed
+2	16:23:22.733	Expert StochR EURUSD,H1: loaded successfully
+2	16:28:02.492	Expert StochR EURUSD,H1: removed
+2	16:28:02.508	Expert StochR EURUSD,H1: loaded successfully
+2	16:44:43.459	Expert StochR EURUSD,H1: removed
+1	20:19:19.562	'66686155': ping failed
+1	20:19:23.839	'66686155': connect failed [No connection]
+0	21:14:05.268	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	21:14:09.274	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	21:14:12.901	'66686155': previous successful authorization performed from 49.37.147.99
+0	21:14:18.408	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 222.55 ms)
+0	21:14:19.209	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.55 ms)
+0	21:14:24.188	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.55 ms)
+0	21:14:25.670	'66686155': previous successful authorization performed from 103.167.127.23
+2	21:16:09.164	Expert StochR AUDCHF,H1: loaded successfully

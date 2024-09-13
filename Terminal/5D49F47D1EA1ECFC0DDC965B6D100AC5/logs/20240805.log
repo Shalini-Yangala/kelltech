@@ -1,0 +1,19 @@
+0	16:16:59.838	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	16:16:59.838	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2381 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	16:16:59.838	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	16:17:02.871	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	16:17:02.980	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+0	16:17:05.089	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 249.05 ms)
+0	16:17:07.402	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 249.05 ms)
+0	16:17:08.473	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:17:33.705	'66686155': ping to current access point FRK_DC_D06 is 262.78 ms
+0	17:58:10.361	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 262.78 ms)
+0	17:58:12.761	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 262.78 ms)
+0	17:58:14.151	'66686155': previous successful authorization performed from 49.43.232.92
+0	17:58:39.874	'66686155': auto connecting to a better access point HK_DC_D06 (ping is 310.58 ms)
+0	17:58:40.958	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 310.58 ms)
+0	17:58:43.229	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 310.58 ms)
+0	17:58:44.127	'66686155': previous successful authorization performed from 103.213.202.61
+2	17:58:49.874	Custom indicator CCTrend EURUSD,H1: removed
+2	17:58:49.907	Custom indicator CCTrend GBPUSD,H1: removed
+0	17:58:50.623	IC Markets (SC) MT4 build 1420 stopped

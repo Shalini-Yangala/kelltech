@@ -1,0 +1,41 @@
+0	14:51:14.994	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	14:51:14.995	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 1944 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	14:51:14.995	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	14:51:18.959	Custom indicator CCTrend EURUSD,H1: loaded successfully
+0	14:51:21.224	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 258.25 ms)
+0	14:51:24.094	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 258.25 ms)
+0	14:51:25.292	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:51:51.971	'66686155': ping to current access point FRK_DC_D06 is 247.29 ms
+2	14:52:01.947	Custom indicator CCTrend EURUSD,H1: removed
+2	15:04:04.404	Custom indicator IceFX.NewsInfo EURUSD,H1: loaded successfully
+2	15:04:11.599	Custom indicator IceFX.NewsInfo EURUSD,H1: removed
+2	15:04:37.132	Custom indicator DaVinci Truly News Indicator 2.3.95 EURUSD,H1: loaded successfully
+2	15:34:28.762	Custom indicator DaVinci Truly News Indicator 2.3.95 EURUSD,H1: removed
+0	15:35:30.173	IC Markets (SC) MT4 build 1420 stopped
+0	16:56:46.808	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	16:56:46.809	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2492 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	16:56:46.809	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	16:56:50.201	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.29 ms)
+0	16:56:52.624	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 247.29 ms)
+0	16:56:53.654	'66686155': previous successful authorization performed from 103.213.202.61
+2	16:56:57.103	Expert forex_news EURUSD,H1: loaded successfully
+0	16:57:01.761	'66686155': order sell market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	16:57:02.182	'66686155': order was opened : #253068456 sell 0.10 EURUSD at 1.09150 sl: 0.00000 tp: 0.00000
+0	16:57:02.978	Trades: use MetaTrader VPS Hosting Service to speed up the execution: 30.98 ms via 'MQL5 Chicago 01' instead of 247.29 ms
+0	16:57:09.950	'66686155': close order #253068456 sell 0.10 EURUSD at 1.09150 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	16:57:10.352	'66686155': order #253068456 sell 0.10 EURUSD at 1.09150 sl: 0.00000 tp: 0.00000 closed at price 1.09150
+0	16:57:18.637	'66686155': ping to current access point FRK_DC_D06 is 242.18 ms
+2	17:12:37.664	Expert forex_news EURUSD,H1: removed
+2	17:12:37.683	Expert forex_news EURUSD,H1: loaded successfully
+0	17:12:37.965	'66686155': order sell market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	17:12:38.432	'66686155': order was opened : #253069356 sell 0.10 EURUSD at 1.09161 sl: 0.00000 tp: 0.00000
+0	17:12:46.823	'66686155': close order #253069356 sell 0.10 EURUSD at 1.09161 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	17:12:47.219	'66686155': order #253069356 sell 0.10 EURUSD at 1.09161 sl: 0.00000 tp: 0.00000 closed at price 1.09161
+2	17:12:53.465	Expert forex_news EURUSD,H1: removed
+2	17:12:58.302	Expert forex_news EURUSD,H1: loaded successfully
+0	17:13:01.224	'66686155': order sell market 0.10 EURUSD sl: 0.00000 tp: 0.00000
+0	17:13:01.662	'66686155': order was opened : #253069379 sell 0.10 EURUSD at 1.09161 sl: 0.00000 tp: 0.00000
+2	17:20:57.101	Expert forex_news EURUSD,H1: removed
+2	17:20:57.125	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	17:43:08.721	Expert  TrailV_EA EURUSD,H1: removed
+0	17:43:09.359	IC Markets (SC) MT4 build 1420 stopped

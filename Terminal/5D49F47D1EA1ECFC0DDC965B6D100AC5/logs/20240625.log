@@ -1,0 +1,66 @@
+0	12:22:31.427	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	12:22:31.427	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3629 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	12:22:31.427	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	12:22:34.346	Expert CrossTrade2 AUDUSD,M5: loaded successfully
+2	12:22:34.580	Expert CrossTrade EURUSD,M5: loaded successfully
+0	12:22:36.439	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.51 ms)
+0	12:22:39.345	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.51 ms)
+0	12:22:40.608	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:22:47.060	Expert CrossTrade EURUSD,M5: removed
+0	12:22:48.528	'66686155': ping to current access point LD_DC_D06 is 234.43 ms
+2	12:22:51.653	Expert CrossTrade2 AUDUSD,M5: removed
+2	12:22:54.497	Expert CrossTrade USDCAD,H1: loaded successfully
+2	12:22:56.793	Expert CrossTrade USDCAD,H1: removed
+2	12:23:19.577	Expert CrossTrade EURUSD,H1: loaded successfully
+2	12:23:27.439	Expert CrossTrade EURUSD,H1: removed
+2	12:24:11.101	Expert CrossTrade EURUSD,H1: loaded successfully
+2	12:24:30.193	Expert CrossTrade EURUSD,H1: removed
+2	12:25:16.892	Expert CrossTrade AUDCHF,H1: loaded successfully
+2	12:25:22.001	Expert CrossTrade AUDCHF,H1: removed
+2	12:25:49.733	Expert CrossTrade EURUSD,H1: loaded successfully
+2	12:25:53.014	Expert CrossTrade EURUSD,H1: removed
+2	12:26:21.793	Expert CrossTrade EURUSD,M15: loaded successfully
+0	12:50:28.851	'66686155': order #250014239 sell 0.10 EURUSD at 1.07239 closed due take-profit at price 1.07238
+1	14:15:10.609	'66686155': ping failed
+0	14:15:14.495	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 245.23 ms)
+0	14:15:16.589	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 245.23 ms)
+0	14:15:17.472	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:15:24.277	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 231.29 ms)
+0	14:15:24.989	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 231.29 ms)
+0	14:15:26.991	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 231.29 ms)
+0	14:15:27.763	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:27:06.987	Expert CrossTrade EURUSD,M15: removed
+2	14:27:07.002	Expert CrossTrade EURUSD,M15: loaded successfully
+2	14:27:08.971	Expert CrossTrade EURUSD,M15: removed
+2	14:27:09.002	Expert CrossTrade EURUSD,M15: loaded successfully
+2	14:27:09.268	Expert CrossTrade EURUSD,H1: loaded successfully
+2	14:27:13.580	Expert CrossTrade EURUSD,H1: removed
+0	14:27:39.058	Images: screenshot 'https://www.mql5.com/en/charts/19516701/eurusd-m15-raw-trading-ltd' published
+0	14:36:49.984	'66686155': order #250022185 buy 0.10 EURUSD at 1.07329 closed due take-profit at price 1.07331
+0	14:38:14.338	'66686155': order #250022211 buy 0.10 EURUSD at 1.07328 closed due take-profit at price 1.07331
+0	14:38:16.962	'66686155': order #250022359 buy 0.10 EURUSD at 1.07331 closed due take-profit at price 1.07331
+0	14:38:26.962	'66686155': order #250022378 buy 0.10 EURUSD at 1.07331 closed due take-profit at price 1.07331
+0	14:38:30.196	'66686155': order #250022379 buy 0.10 EURUSD at 1.07331 closed due take-profit at price 1.07331
+0	14:39:11.334	'66686155': order #250022385 buy 0.10 EURUSD at 1.07328 closed due take-profit at price 1.07331
+0	14:39:52.565	'66686155': order #250022420 buy 0.10 EURUSD at 1.07328 closed due take-profit at price 1.07331
+0	16:33:53.543	'66686155': order #250025019 buy 0.10 EURUSD at 1.07279 closed due stop-loss at price 1.07211
+1	16:49:34.511	'66686155': ping failed
+1	16:49:34.528	'66686155': datacenter connecting failed [6]
+0	16:49:35.476	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 248.77 ms)
+0	16:49:37.821	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 248.77 ms)
+0	16:49:38.943	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:49:45.777	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 232.45 ms)
+0	16:49:46.581	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.45 ms)
+0	16:49:48.836	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 232.45 ms)
+0	16:49:50.109	'66686155': previous successful authorization performed from 103.213.202.61
+2	17:40:22.990	Expert first1\first1 EURUSD,H1: loaded successfully
+2	17:40:52.941	Expert first1 EURUSD,H1: removed
+2	17:40:52.957	Expert first1\first1 EURUSD,H1: loaded successfully
+2	17:41:56.610	Expert first1 EURUSD,H1: removed
+2	17:41:56.634	Expert first1\first1 EURUSD,H1: loaded successfully
+2	17:49:01.117	Expert first1 EURUSD,H1: removed
+2	17:49:01.146	Expert first1\first1 EURUSD,H1: loaded successfully
+1	21:49:51.577	'66686155': ping failed
+0	21:49:56.092	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 243.79 ms)
+0	21:49:58.449	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 243.79 ms)
+0	21:50:01.222	'66686155': previous successful authorization performed from 103.213.202.61

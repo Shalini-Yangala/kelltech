@@ -1,0 +1,16 @@
+1	02:22:18.609	'66686155': ping failed
+1	02:22:20.747	'66686155': connect failed [No connection]
+1	09:51:56.839	MQL5.community: authorization failed
+0	09:52:01.677	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:52:05.031	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:52:07.179	'66686155': previous successful authorization performed from 49.37.152.132
+0	09:52:13.847	'66686155': auto connecting to a better access point NVir_DC_D05 (ping is 238.12 ms)
+0	09:52:14.811	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 238.12 ms)
+0	09:52:16.862	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 238.12 ms)
+0	09:52:17.832	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:47:04.718	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:47:04.734	Custom indicator lokesh134 EURUSD,H1: removed
+2	12:47:04.750	Custom indicator lokesh134 EURUSD,H1: removed
+2	12:47:04.750	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:47:04.765	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+0	12:47:05.203	IC Markets (SC) MT4 build 1415 stopped

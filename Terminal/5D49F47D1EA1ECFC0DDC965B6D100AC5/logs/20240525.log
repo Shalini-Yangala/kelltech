@@ -1,0 +1,23 @@
+1	10:11:36.672	MQL5.community: authorization failed
+0	10:11:45.516	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:11:47.765	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:11:50.375	'66686155': previous successful authorization performed from 152.58.196.36
+0	10:11:55.809	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 225.69 ms)
+0	10:11:56.600	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.69 ms)
+0	10:12:02.461	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.69 ms)
+0	10:12:03.543	'66686155': previous successful authorization performed from 205.254.168.130
+1	13:27:48.597	'66686155': ping failed
+1	13:27:49.302	'66686155': connect failed [No connection]
+1	21:28:53.039	MQL5.community: authorization failed
+0	21:29:07.173	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: n/a)
+0	21:29:09.358	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: n/a)
+0	21:29:10.600	'66686155': previous successful authorization performed from 205.254.168.130
+0	21:29:28.329	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 249.67 ms)
+0	21:29:31.346	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 249.67 ms)
+0	21:29:34.136	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 249.67 ms)
+0	21:29:35.508	'66686155': previous successful authorization performed from 205.254.168.200
+2	21:29:59.942	Expert Wedges EURUSD,H1: removed
+2	21:29:59.973	Expert Wedges EURUSD,H1: removed
+2	21:30:00.006	Expert Wedges EURUSD,H1: removed
+2	21:30:00.054	Expert Wedges EURUSD,H1: removed
+0	21:30:01.524	IC Markets (SC) MT4 build 1415 stopped

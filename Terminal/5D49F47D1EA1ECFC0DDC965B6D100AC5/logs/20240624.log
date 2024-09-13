@@ -1,0 +1,699 @@
+1	09:28:00.858	'66686155': connect failed [No connection]
+1	09:28:01.082	MQL5.community: authorization failed
+0	09:28:13.327	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:28:15.646	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:28:17.163	'66686155': previous successful authorization performed from 103.213.202.61
+0	09:28:21.688	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 222.06 ms)
+0	09:28:22.613	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.06 ms)
+0	09:28:24.965	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.06 ms)
+0	09:28:26.038	'66686155': previous successful authorization performed from 103.213.202.61
+2	09:35:31.283	Custom indicator MobIndicator21 EURUSD,H1: removed
+2	09:35:34.486	Custom indicator MobIndicator EURUSD,H1: removed
+2	09:35:39.470	Custom indicator MobIndicator21 EURUSD,H1: removed
+2	09:35:43.079	Custom indicator MobIndicator AUDCHF,H1: removed
+2	09:35:46.376	Custom indicator MobIndicator USDCAD,H1: removed
+2	09:35:49.454	Custom indicator MobIndicator21 AUDCHF,H1: removed
+2	09:35:56.046	Custom indicator MobIndicator21 EURUSD,H1: removed
+2	09:35:59.624	Custom indicator MobIndicator GBPUSD,H1: removed
+2	09:36:03.030	Custom indicator MobIndicator EURUSD,H1: removed
+2	09:36:03.030	Custom indicator Bears EURUSD,H1: removed
+2	09:36:03.030	Custom indicator Bulls EURUSD,H1: removed
+2	09:36:06.368	Custom indicator Bulls EURUSD,H1: removed
+2	09:36:06.368	Custom indicator Bears EURUSD,H1: removed
+2	09:36:06.383	Custom indicator Momentum EURUSD,H1: removed
+1	13:45:38.609	'66686155': ping failed
+0	13:45:41.583	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 246.60 ms)
+0	13:45:43.812	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 246.60 ms)
+0	13:45:45.344	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:45:51.519	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 228.51 ms)
+0	13:45:52.272	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.51 ms)
+0	13:45:54.035	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.51 ms)
+0	13:45:54.874	'66686155': previous successful authorization performed from 103.213.202.61
+2	13:52:04.798	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	13:52:46.967	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:33:34.425	Expert CrossTrade EURUSD,H1: loaded successfully
+2	15:13:19.973	Expert CrossTrade EURUSD,M15: removed
+2	15:13:19.988	Expert CrossTrade EURUSD,M15: loaded successfully
+2	15:13:38.111	Expert CrossTrade EURUSD,H1: loaded successfully
+2	15:14:47.676	Expert CrossTrade GBPUSD,H1: loaded successfully
+2	15:21:00.865	Expert CrossTrade EURUSD,M15: removed
+2	15:21:00.880	Expert CrossTrade EURUSD,M15: loaded successfully
+2	15:21:00.880	Expert CrossTrade EURUSD,H1: removed
+2	15:21:00.896	Expert CrossTrade EURUSD,H1: loaded successfully
+2	15:21:00.896	Expert CrossTrade GBPUSD,H1: removed
+2	15:21:00.912	Expert CrossTrade GBPUSD,H1: loaded successfully
+2	15:21:27.681	Expert CrossTrade USDCAD,H1: loaded successfully
+2	15:21:42.815	Expert CrossTrade USDCAD,M15: removed
+2	15:21:42.830	Expert CrossTrade USDCAD,M15: loaded successfully
+0	15:21:52.430	'66686155': order #249946571 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946576 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946578 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946581 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946583 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946586 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946590 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946592 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946593 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946595 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946597 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946599 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946601 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946603 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946605 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946607 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946609 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946611 buy 0.10 EURUSD at 1.07261 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946612 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946615 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:21:52.430	'66686155': order #249946617 buy 0.10 EURUSD at 1.07261 closed due take-profit at price 1.07262
+0	15:21:53.852	'66686155': order #249946620 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:21:59.758	'66686155': order #249946624 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:13.616	'66686155': order #249946652 buy 0.10 EURUSD at 1.07261 closed due take-profit at price 1.07262
+0	15:22:14.241	'66686155': order #249946653 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:14.990	'66686155': order #249946654 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:14.990	'66686155': order #249946655 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:16.256	'66686155': order #249946656 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:16.256	'66686155': order #249946657 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946658 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946659 buy 0.10 EURUSD at 1.07262 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946660 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946661 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946662 buy 0.10 EURUSD at 1.07260 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946664 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946665 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946666 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946667 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946669 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946671 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946672 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946673 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946674 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946675 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946676 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946677 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946678 buy 0.10 EURUSD at 1.07257 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946679 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946680 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946681 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946682 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946683 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946684 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946685 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946687 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946688 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946689 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946690 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946696 buy 0.10 EURUSD at 1.07258 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946697 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946700 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+0	15:22:52.017	'66686155': order #249946701 buy 0.10 EURUSD at 1.07259 closed due take-profit at price 1.07262
+2	15:26:19.575	Expert CrossTrade EURUSD,M15: removed
+2	15:26:19.602	Expert CrossTrade EURUSD,M15: loaded successfully
+2	15:26:19.667	Expert CrossTrade EURUSD,H1: removed
+2	15:26:19.743	Expert CrossTrade EURUSD,H1: loaded successfully
+2	15:26:19.761	Expert CrossTrade GBPUSD,H1: removed
+2	15:26:19.813	Expert CrossTrade GBPUSD,H1: loaded successfully
+2	15:26:19.825	Expert CrossTrade USDCAD,M15: removed
+2	15:26:19.892	Expert CrossTrade USDCAD,M15: loaded successfully
+2	15:26:27.850	Expert CrossTrade USDCAD,M15: removed
+2	15:26:33.023	Expert CrossTrade GBPUSD,H1: removed
+2	15:26:36.280	Expert CrossTrade EURUSD,H1: removed
+2	15:26:50.337	Expert CrossTrade EURUSD,M15: removed
+0	15:27:13.894	'66686155': close order #249946705 buy 0.10 EURUSD at 1.07262 sl: 1.07173 tp: 1.07262 at price 0.00000
+0	15:27:14.331	'66686155': order #249946705 buy 0.10 EURUSD at 1.07262 sl: 1.07173 tp: 1.07262 closed at price 1.07231
+0	15:27:26.735	'66686155': close order #249946706 buy 0.10 EURUSD at 1.07260 sl: 1.07173 tp: 1.07262 at price 0.00000
+0	15:27:27.076	'66686155': order #249946706 buy 0.10 EURUSD at 1.07260 sl: 1.07173 tp: 1.07262 closed at price 1.07232
+2	15:27:47.550	Expert CrossTrade AUDUSD,H1: loaded successfully
+0	15:28:08.218	'66686155': close order #249946762 buy 0.10 EURUSD at 1.07256 sl: 1.07173 tp: 1.07262 at price 0.00000
+0	15:28:08.635	'66686155': order #249946762 buy 0.10 EURUSD at 1.07256 sl: 1.07173 tp: 1.07262 closed at price 1.07228
+0	15:36:40.144	'66686155': order #249946829 buy 0.10 EURUSD at 1.07246 closed due stop-loss at price 1.07236
+0	15:36:41.840	'66686155': order #249946836 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:50.251	'66686155': order #249946823 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:50.251	'66686155': order #249946825 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:50.251	'66686155': order #249946826 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:50.251	'66686155': order #249946827 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:50.251	'66686155': order #249946830 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:50.251	'66686155': order #249946831 buy 0.10 EURUSD at 1.07245 closed due stop-loss at price 1.07238
+0	15:36:50.664	'66686155': order #249946833 buy 0.10 EURUSD at 1.07245 closed due stop-loss at price 1.07238
+0	15:36:52.694	'66686155': order #249946877 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07238
+0	15:36:52.694	'66686155': order #249946881 buy 0.10 EURUSD at 1.07245 closed due stop-loss at price 1.07238
+0	15:36:53.635	'66686155': order #249946939 buy 0.10 EURUSD at 1.07229 closed due take-profit at price 1.07241
+0	15:36:53.635	'66686155': order #249946973 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07241
+0	15:37:02.681	'66686155': order #249946883 buy 0.10 EURUSD at 1.07243 closed due take-profit at price 1.07250
+0	15:37:02.681	'66686155': order #249946886 buy 0.10 EURUSD at 1.07243 closed due take-profit at price 1.07250
+0	15:37:02.681	'66686155': order #249946887 buy 0.10 EURUSD at 1.07243 closed due take-profit at price 1.07250
+0	15:37:02.681	'66686155': order #249946936 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07251
+0	15:37:02.895	'66686155': order #249948130 buy 0.10 EURUSD at 1.07238 closed due take-profit at price 1.07253
+0	15:37:03.079	'66686155': order #249946832 buy 0.10 EURUSD at 1.07244 closed due take-profit at price 1.07255
+0	15:37:03.079	'66686155': order #249946834 buy 0.10 EURUSD at 1.07245 closed due take-profit at price 1.07256
+0	15:37:03.079	'66686155': order #249946835 buy 0.10 EURUSD at 1.07246 closed due take-profit at price 1.07256
+0	15:37:03.079	'66686155': order #249946837 buy 0.10 EURUSD at 1.07246 closed due take-profit at price 1.07256
+0	15:37:03.079	'66686155': order #249946839 buy 0.10 EURUSD at 1.07246 closed due take-profit at price 1.07256
+0	15:37:03.079	'66686155': order #249946865 buy 0.10 EURUSD at 1.07246 closed due take-profit at price 1.07256
+0	15:37:03.079	'66686155': order #249946879 buy 0.10 EURUSD at 1.07246 closed due take-profit at price 1.07256
+0	15:37:03.080	'66686155': order #249946889 buy 0.10 EURUSD at 1.07243 closed due take-profit at price 1.07255
+0	15:37:43.221	'66686155': order #249946744 buy 0.10 EURUSD at 1.07254 closed due stop-loss at price 1.07249
+0	15:37:44.455	'66686155': order #249946747 buy 0.10 EURUSD at 1.07254 closed due stop-loss at price 1.07249
+0	15:37:46.018	'66686155': order #249946772 buy 0.10 EURUSD at 1.07255 closed due stop-loss at price 1.07251
+0	15:37:46.861	'66686155': order #249946776 buy 0.10 EURUSD at 1.07255 closed due stop-loss at price 1.07251
+0	15:37:47.033	'66686155': order #249946778 buy 0.10 EURUSD at 1.07254 closed due stop-loss at price 1.07249
+0	15:37:48.268	'66686155': order #249946742 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:37:48.268	'66686155': order #249946743 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:48.268	'66686155': order #249946748 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:48.268	'66686155': order #249946749 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:37:48.268	'66686155': order #249946754 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:48.268	'66686155': order #249946755 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:37:48.268	'66686155': order #249946756 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:37:48.268	'66686155': order #249946794 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:48.268	'66686155': order #249946795 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:37:51.437	'66686155': order #249946809 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:51.437	'66686155': order #249946812 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:51.437	'66686155': order #249946815 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:51.437	'66686155': order #249946816 buy 0.10 EURUSD at 1.07252 closed due stop-loss at price 1.07246
+0	15:37:51.437	'66686155': order #249946817 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:37:56.243	'66686155': order #249946813 buy 0.10 EURUSD at 1.07250 closed due stop-loss at price 1.07246
+0	15:37:56.243	'66686155': order #249946818 buy 0.10 EURUSD at 1.07250 closed due stop-loss at price 1.07246
+0	15:37:58.221	'66686155': order #249946814 buy 0.10 EURUSD at 1.07251 closed due stop-loss at price 1.07244
+0	15:37:58.221	'66686155': order #249946845 buy 0.10 EURUSD at 1.07249 closed due stop-loss at price 1.07244
+0	15:37:58.441	'66686155': order #249946819 buy 0.10 EURUSD at 1.07250 closed due stop-loss at price 1.07243
+0	15:37:58.833	'66686155': order #249946840 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07242
+0	15:37:58.833	'66686155': order #249946841 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07242
+0	15:37:58.833	'66686155': order #249946843 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07242
+0	15:38:04.221	'66686155': order #249946746 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:38:04.221	'66686155': order #249946752 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:38:04.221	'66686155': order #249946787 buy 0.10 EURUSD at 1.07254 closed due stop-loss at price 1.07249
+0	15:38:04.221	'66686155': order #249946791 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:38:04.595	'66686155': order #249946805 buy 0.10 EURUSD at 1.07253 closed due stop-loss at price 1.07247
+0	15:38:05.239	'66686155': order #249946820 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07242
+0	15:38:05.239	'66686155': order #249946822 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07242
+0	15:38:05.239	'66686155': order #249946842 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07243
+0	15:38:05.239	'66686155': order #249946846 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07242
+0	15:38:07.411	'66686155': order #249948421 buy 0.10 EURUSD at 1.07249 closed due stop-loss at price 1.07242
+0	15:38:07.661	'66686155': order #249946824 buy 0.10 EURUSD at 1.07248 closed due stop-loss at price 1.07239
+0	15:38:07.661	'66686155': order #249946838 buy 0.10 EURUSD at 1.07246 closed due stop-loss at price 1.07240
+0	15:38:07.661	'66686155': order #249948439 buy 0.10 EURUSD at 1.07246 closed due stop-loss at price 1.07239
+0	15:38:14.624	'66686155': order #249948495 buy 0.10 EURUSD at 1.07249 closed due stop-loss at price 1.07238
+0	15:38:14.624	'66686155': order #249948441 buy 0.10 EURUSD at 1.07242 closed due stop-loss at price 1.07237
+0	15:38:19.306	'66686155': order #249948511 buy 0.10 EURUSD at 1.07238 closed due stop-loss at price 1.07234
+0	15:38:20.238	'66686155': order #249948518 buy 0.10 EURUSD at 1.07237 closed due stop-loss at price 1.07233
+0	15:38:21.471	'66686155': order #249948520 buy 0.10 EURUSD at 1.07236 closed due take-profit at price 1.07240
+0	15:38:22.605	'66686155': order #249948527 buy 0.10 EURUSD at 1.07242 closed due stop-loss at price 1.07237
+0	15:38:28.034	'66686155': order #249948533 buy 0.10 EURUSD at 1.07234 closed due take-profit at price 1.07244
+0	15:38:29.014	'66686155': order #249948523 buy 0.10 EURUSD at 1.07241 closed due take-profit at price 1.07247
+0	15:38:29.014	'66686155': order #249948532 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07246
+0	15:38:34.018	'66686155': order #249948535 buy 0.10 EURUSD at 1.07238 closed due take-profit at price 1.07244
+0	15:38:34.264	'66686155': order #249948564 buy 0.10 EURUSD at 1.07247 closed due stop-loss at price 1.07243
+0	15:38:36.859	'66686155': order #249948570 buy 0.10 EURUSD at 1.07244 closed due stop-loss at price 1.07237
+0	15:38:37.055	'66686155': order #249948572 buy 0.10 EURUSD at 1.07243 closed due stop-loss at price 1.07236
+0	15:38:38.864	'66686155': order #249948537 buy 0.10 EURUSD at 1.07236 closed due take-profit at price 1.07238
+0	15:38:43.035	'66686155': order #249948575 buy 0.10 EURUSD at 1.07240 closed due stop-loss at price 1.07236
+0	15:38:44.631	'66686155': order #249948578 buy 0.10 EURUSD at 1.07238 closed due stop-loss at price 1.07234
+0	15:38:44.631	'66686155': order #249948581 buy 0.10 EURUSD at 1.07238 closed due stop-loss at price 1.07234
+0	15:38:50.428	'66686155': order #249948585 buy 0.10 EURUSD at 1.07238 closed due stop-loss at price 1.07236
+0	15:38:50.428	'66686155': order #249948589 buy 0.10 EURUSD at 1.07239 closed due stop-loss at price 1.07233
+0	15:38:55.627	'66686155': order #249948593 buy 0.10 EURUSD at 1.07236 closed due take-profit at price 1.07238
+0	15:38:58.852	'66686155': order #249948597 buy 0.10 EURUSD at 1.07236 closed due stop-loss at price 1.07232
+0	15:38:58.852	'66686155': order #249948604 buy 0.10 EURUSD at 1.07236 closed due stop-loss at price 1.07232
+0	15:39:00.454	'66686155': order #249948594 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07234
+0	15:39:00.634	'66686155': order #249948608 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07234
+0	15:39:09.096	'66686155': order #249948609 buy 0.10 EURUSD at 1.07234 closed due take-profit at price 1.07238
+0	15:39:09.096	'66686155': order #249948613 buy 0.10 EURUSD at 1.07233 closed due take-profit at price 1.07240
+0	15:39:09.096	'66686155': order #249948614 buy 0.10 EURUSD at 1.07233 closed due take-profit at price 1.07240
+0	15:39:10.002	'66686155': order #249948611 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07239
+2	15:39:11.071	Expert CrossTrade AUDUSD,H1: removed
+2	15:39:11.102	Expert CrossTrade AUDUSD,H1: loaded successfully
+2	15:39:11.117	Expert CrossTrade AUDUSD,H1: removed
+0	15:39:15.508	'66686155': order #249948638 buy 0.10 EURUSD at 1.07236 closed due stop-loss at price 1.07235
+0	15:39:16.420	'66686155': order #249948641 buy 0.10 EURUSD at 1.07237 closed due stop-loss at price 1.07233
+0	15:39:16.810	'66686155': order #249948644 buy 0.10 EURUSD at 1.07238 closed due stop-loss at price 1.07232
+0	15:39:16.810	'66686155': order #249948645 buy 0.10 EURUSD at 1.07238 closed due stop-loss at price 1.07232
+0	15:39:18.263	'66686155': order #249948648 buy 0.10 EURUSD at 1.07236 closed due stop-loss at price 1.07230
+0	15:39:23.265	'66686155': order #249948651 buy 0.10 EURUSD at 1.07235 closed due stop-loss at price 1.07231
+2	15:39:23.651	Expert CrossTrade USDCAD,H1: loaded successfully
+0	15:39:24.639	'66686155': order #249948652 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07230
+0	15:39:26.231	'66686155': order #249948656 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07228
+2	15:39:27.225	Expert CrossTrade USDCAD,H1: removed
+0	15:39:28.444	'66686155': order #249948659 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07226
+0	15:39:32.659	'66686155': order #249948662 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07226
+0	15:39:32.659	'66686155': order #249948666 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07225
+0	15:39:33.424	'66686155': order #249948661 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07224
+0	15:39:35.065	'66686155': order #249948673 buy 0.10 EURUSD at 1.07226 closed due stop-loss at price 1.07220
+0	15:39:38.620	'66686155': order #249948676 buy 0.10 EURUSD at 1.07226 closed due stop-loss at price 1.07217
+0	15:39:38.620	'66686155': order #249948678 buy 0.10 EURUSD at 1.07226 closed due stop-loss at price 1.07217
+0	15:39:41.440	'66686155': order #249948680 buy 0.10 EURUSD at 1.07225 closed due stop-loss at price 1.07216
+0	15:39:41.440	'66686155': order #249948681 buy 0.10 EURUSD at 1.07223 closed due stop-loss at price 1.07217
+0	15:39:43.475	'66686155': order #249948683 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07215
+2	15:39:44.892	Expert CrossTrade EURUSD,H1: loaded successfully
+2	15:39:46.869	Expert CrossTrade EURUSD,H1: removed
+0	15:39:52.011	'66686155': order #249948684 buy 0.10 EURUSD at 1.07218 closed due stop-loss at price 1.07217
+0	15:39:54.448	'66686155': order #249948688 buy 0.10 EURUSD at 1.07213 closed due take-profit at price 1.07217
+0	15:39:56.465	'66686155': order #249948685 buy 0.10 EURUSD at 1.07217 closed due stop-loss at price 1.07216
+0	15:39:56.465	'66686155': order #249948686 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07215
+0	15:40:04.297	'66686155': order #249948690 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07219
+0	15:40:10.614	'66686155': order #249948693 buy 0.10 EURUSD at 1.07216 closed due take-profit at price 1.07218
+2	15:40:11.765	Expert CrossTrade AUDCHF,M5: loaded successfully
+0	15:40:12.071	'66686155': order #249948691 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07218
+0	15:40:12.071	'66686155': order #249948692 buy 0.10 EURUSD at 1.07218 closed due take-profit at price 1.07219
+2	15:40:14.852	Expert CrossTrade AUDCHF,M5: removed
+0	15:40:15.149	'66686155': order #249948694 buy 0.10 EURUSD at 1.07216 closed due take-profit at price 1.07218
+0	15:40:17.208	'66686155': order #249948696 buy 0.10 EURUSD at 1.07216 closed due take-profit at price 1.07218
+0	15:40:17.664	'66686155': order #249948698 buy 0.10 EURUSD at 1.07218 closed due take-profit at price 1.07222
+0	15:40:19.812	'66686155': order #249948760 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+0	15:40:21.834	'66686155': order #249948773 buy 0.10 EURUSD at 1.07218 closed due take-profit at price 1.07222
+0	15:40:29.234	'66686155': order #249948780 buy 0.10 EURUSD at 1.07218 closed due take-profit at price 1.07220
+0	15:40:31.259	'66686155': order #249948781 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07218
+0	15:40:31.462	'66686155': order #249948778 buy 0.10 EURUSD at 1.07218 closed due stop-loss at price 1.07214
+0	15:40:31.462	'66686155': order #249948779 buy 0.10 EURUSD at 1.07218 closed due stop-loss at price 1.07214
+0	15:40:31.665	'66686155': order #249948788 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07212
+0	15:40:31.665	'66686155': order #249948792 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07212
+0	15:40:39.197	'66686155': order #249948797 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07212
+0	15:40:39.197	'66686155': order #249948798 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07212
+0	15:40:41.427	'66686155': order #249948802 buy 0.10 EURUSD at 1.07219 closed due stop-loss at price 1.07212
+0	15:40:48.616	'66686155': order #249948803 buy 0.10 EURUSD at 1.07213 closed due take-profit at price 1.07217
+0	15:40:48.616	'66686155': order #249948810 buy 0.10 EURUSD at 1.07213 closed due take-profit at price 1.07217
+0	15:40:48.819	'66686155': order #249948804 buy 0.10 EURUSD at 1.07214 closed due take-profit at price 1.07218
+0	15:40:55.049	'66686155': order #249948812 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07214
+0	15:40:55.049	'66686155': order #249948814 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07214
+0	15:40:59.236	'66686155': order #249948817 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07212
+0	15:40:59.236	'66686155': order #249948818 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07212
+0	15:40:59.455	'66686155': order #249948820 buy 0.10 EURUSD at 1.07218 closed due stop-loss at price 1.07207
+0	15:41:04.615	'66686155': order #249948828 buy 0.10 EURUSD at 1.07214 closed due stop-loss at price 1.07207
+0	15:41:08.213	'66686155': order #249948829 buy 0.10 EURUSD at 1.07212 closed due stop-loss at price 1.07208
+0	15:41:09.447	'66686155': order #249948832 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07206
+0	15:41:12.025	'66686155': order #249948823 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07205
+0	15:41:14.056	'66686155': order #249948834 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07205
+0	15:41:27.231	'66686155': order #249948856 buy 0.10 EURUSD at 1.07209 closed due stop-loss at price 1.07207
+0	15:41:27.809	'66686155': order #249948853 buy 0.10 EURUSD at 1.07207 closed due take-profit at price 1.07209
+0	15:41:29.747	'66686155': order #249948855 buy 0.10 EURUSD at 1.07208 closed due take-profit at price 1.07209
+0	15:41:30.840	'66686155': order #249948862 buy 0.10 EURUSD at 1.07208 closed due stop-loss at price 1.07206
+0	15:41:37.116	'66686155': order #249948868 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07206
+0	15:41:38.460	'66686155': order #249948881 buy 0.10 EURUSD at 1.07209 closed due stop-loss at price 1.07205
+0	15:41:38.881	'66686155': order #249948866 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07208
+0	15:41:38.881	'66686155': order #249948875 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07208
+0	15:41:40.815	'66686155': order #249948872 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07208
+0	15:41:44.634	'66686155': order #249948885 buy 0.10 EURUSD at 1.07208 closed due take-profit at price 1.07212
+0	15:41:44.634	'66686155': order #249948891 buy 0.10 EURUSD at 1.07208 closed due take-profit at price 1.07212
+0	15:41:46.025	'66686155': order #249948895 buy 0.10 EURUSD at 1.07208 closed due take-profit at price 1.07212
+0	15:41:55.446	'66686155': order #249948896 buy 0.10 EURUSD at 1.07207 closed due take-profit at price 1.07215
+0	15:41:55.446	'66686155': order #249948897 buy 0.10 EURUSD at 1.07207 closed due take-profit at price 1.07215
+0	15:41:55.446	'66686155': order #249948898 buy 0.10 EURUSD at 1.07208 closed due take-profit at price 1.07215
+0	15:41:55.447	'66686155': order #249948899 buy 0.10 EURUSD at 1.07211 closed due take-profit at price 1.07215
+0	15:42:14.221	'66686155': order #249948937 buy 0.10 EURUSD at 1.07215 closed due take-profit at price 1.07222
+0	15:42:20.255	'66686155': order #249948943 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07226
+0	15:42:20.255	'66686155': order #249948944 buy 0.10 EURUSD at 1.07220 closed due take-profit at price 1.07226
+0	15:42:24.864	'66686155': order #249948947 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07227
+0	15:42:39.204	'66686155': order #249948950 buy 0.10 EURUSD at 1.07224 closed due take-profit at price 1.07228
+0	15:42:42.041	'66686155': order #249948952 buy 0.10 EURUSD at 1.07228 closed due stop-loss at price 1.07226
+0	15:42:45.734	'66686155': order #249948951 buy 0.10 EURUSD at 1.07227 closed due stop-loss at price 1.07226
+0	15:42:47.593	'66686155': order #249948949 buy 0.10 EURUSD at 1.07220 closed due take-profit at price 1.07230
+0	15:42:47.593	'66686155': order #249948953 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07228
+0	15:42:47.593	'66686155': order #249948954 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07229
+0	15:42:47.593	'66686155': order #249948956 buy 0.10 EURUSD at 1.07226 closed due take-profit at price 1.07230
+0	15:42:50.632	'66686155': order #249948958 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07233
+0	15:43:00.037	'66686155': order #249948969 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07234
+0	15:43:01.633	'66686155': order #249948971 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07234
+0	15:43:12.694	'66686155': order #249948991 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07231
+0	15:43:15.923	'66686155': order #249948996 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07231
+0	15:43:20.979	'66686155': close order #249949005 buy 0.10 EURUSD at 1.07231 sl: 1.07227 tp: 1.07235 at price 0.00000
+0	15:43:21.349	'66686155': order #249949005 buy 0.10 EURUSD at 1.07231 sl: 1.07227 tp: 1.07235 closed at price 1.07231
+0	15:43:26.082	'66686155': order #249949007 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07230
+0	15:43:26.484	'66686155': order #249949010 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07227
+0	15:43:26.824	'66686155': order #249949012 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07226
+0	15:43:27.452	'66686155': order #249949014 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07225
+0	15:43:36.643	'66686155': order #249949028 buy 0.10 EURUSD at 1.07228 closed due stop-loss at price 1.07226
+0	15:43:38.448	'66686155': order #249949024 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07225
+0	15:43:43.532	'66686155': order #249949029 buy 0.10 EURUSD at 1.07225 closed due stop-loss at price 1.07221
+0	15:43:43.532	'66686155': order #249949030 buy 0.10 EURUSD at 1.07227 closed due stop-loss at price 1.07221
+0	15:44:20.998	'66686155': close order #249949086 buy 0.10 EURUSD at 1.07221 sl: 1.07219 tp: 1.07223 at price 0.00000
+0	15:44:21.432	'66686155': order #249949086 buy 0.10 EURUSD at 1.07221 sl: 1.07220 tp: 1.07222 closed at price 1.07221
+0	15:44:25.859	'66686155': order #249949087 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07222
+0	15:44:25.859	'66686155': order #249949088 buy 0.10 EURUSD at 1.07218 closed due take-profit at price 1.07222
+0	15:44:25.859	'66686155': order #249949089 buy 0.10 EURUSD at 1.07218 closed due take-profit at price 1.07222
+2	15:44:27.808	Expert CrossTrade AUDUSD,H1: loaded successfully
+2	15:44:29.847	Expert CrossTrade AUDUSD,H1: removed
+0	15:44:31.216	'66686155': order #249949093 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+0	15:44:37.663	'66686155': order #249949094 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07223
+0	15:44:38.674	'66686155': order #249949095 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07225
+0	15:44:41.227	'66686155': order #249949098 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07224
+0	15:44:48.479	'66686155': order #249949099 buy 0.10 EURUSD at 1.07223 closed due take-profit at price 1.07224
+0	15:44:50.228	'66686155': order #249949102 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07225
+0	15:44:53.056	'66686155': order #249949100 buy 0.10 EURUSD at 1.07224 closed due take-profit at price 1.07225
+0	15:44:53.056	'66686155': order #249949104 buy 0.10 EURUSD at 1.07223 closed due take-profit at price 1.07225
+0	15:44:57.656	'66686155': order #249949105 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07223
+0	15:45:01.811	'66686155': order #249949108 buy 0.10 EURUSD at 1.07223 closed due stop-loss at price 1.07221
+0	15:45:03.826	'66686155': order #249949109 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:45:03.826	'66686155': order #249949111 buy 0.10 EURUSD at 1.07225 closed due stop-loss at price 1.07221
+0	15:45:03.826	'66686155': order #249949112 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:45:05.856	'66686155': order #249949114 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+2	15:45:07.676	Expert CrossTrade AUDUSD,M5: loaded successfully
+0	15:45:11.207	'66686155': order #249949116 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:45:19.054	'66686155': order #249949117 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:45:26.444	'66686155': order #249949250 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07225
+0	15:45:40.010	'66686155': order #249949260 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07227
+0	15:45:40.010	'66686155': order #249949269 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07228
+0	15:47:30.411	'66686155': order #249949386 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:47:32.634	'66686155': order #249949388 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+0	15:47:34.003	'66686155': order #249949389 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+0	15:47:35.434	'66686155': order #249949391 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07226
+0	15:47:36.453	'66686155': order #249949398 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07231
+0	15:47:38.672	'66686155': order #249949393 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07236
+0	15:47:42.223	'66686155': order #249949402 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07237
+0	15:47:42.223	'66686155': order #249949403 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07237
+0	15:47:42.223	'66686155': order #249949404 buy 0.10 EURUSD at 1.07233 closed due take-profit at price 1.07237
+0	15:47:47.441	'66686155': order #249949406 buy 0.10 EURUSD at 1.07236 closed due take-profit at price 1.07238
+0	15:47:48.264	'66686155': order #249949409 buy 0.10 EURUSD at 1.07236 closed due take-profit at price 1.07240
+0	15:47:51.839	'66686155': order #249949411 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07241
+0	15:48:00.641	'66686155': order #249949413 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07238
+0	15:48:06.031	'66686155': order #249949410 buy 0.10 EURUSD at 1.07235 closed due take-profit at price 1.07239
+0	15:48:06.031	'66686155': order #249949412 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07238
+0	15:48:06.616	'66686155': order #249949415 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07238
+0	15:48:06.616	'66686155': order #249949416 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07238
+0	15:48:10.253	'66686155': order #249949417 buy 0.10 EURUSD at 1.07240 closed due stop-loss at price 1.07236
+0	15:48:29.652	'66686155': order #249949419 buy 0.10 EURUSD at 1.07239 closed due take-profit at price 1.07240
+0	15:48:29.652	'66686155': order #249949439 buy 0.10 EURUSD at 1.07238 closed due take-profit at price 1.07239
+0	15:48:29.652	'66686155': order #249949441 buy 0.10 EURUSD at 1.07239 closed due take-profit at price 1.07241
+0	15:48:29.652	'66686155': order #249949446 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07241
+0	15:48:35.673	'66686155': order #249949450 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07241
+0	15:48:35.845	'66686155': order #249949457 buy 0.10 EURUSD at 1.07237 closed due take-profit at price 1.07243
+0	15:48:42.037	'66686155': order #249949462 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07239
+0	15:48:42.037	'66686155': order #249949463 buy 0.10 EURUSD at 1.07244 closed due stop-loss at price 1.07240
+0	15:48:42.211	'66686155': order #249949458 buy 0.10 EURUSD at 1.07239 closed due stop-loss at price 1.07237
+0	15:48:45.845	'66686155': order #249949464 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07236
+0	15:48:45.845	'66686155': order #249949465 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07236
+0	15:48:45.845	'66686155': order #249949466 buy 0.10 EURUSD at 1.07241 closed due stop-loss at price 1.07233
+0	15:48:48.653	'66686155': order #249949467 buy 0.10 EURUSD at 1.07237 closed due stop-loss at price 1.07231
+0	15:48:49.871	'66686155': order #249949469 buy 0.10 EURUSD at 1.07237 closed due stop-loss at price 1.07231
+0	15:48:56.447	'66686155': order #249949470 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07233
+0	15:48:56.840	'66686155': order #249949473 buy 0.10 EURUSD at 1.07231 closed due take-profit at price 1.07233
+0	15:49:03.031	'66686155': order #249949474 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07231
+0	15:49:03.031	'66686155': order #249949476 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07230
+0	15:49:07.249	'66686155': order #249949478 buy 0.10 EURUSD at 1.07234 closed due stop-loss at price 1.07230
+0	15:49:07.818	'66686155': order #249949479 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07231
+0	15:49:13.265	'66686155': order #249949492 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07229
+0	15:49:16.816	'66686155': order #249949480 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07228
+0	15:49:16.816	'66686155': order #249949481 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07228
+0	15:49:16.816	'66686155': order #249949495 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07229
+0	15:49:16.816	'66686155': order #249949496 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07229
+0	15:49:22.815	'66686155': order #249949498 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07228
+0	15:49:25.658	'66686155': order #249949500 buy 0.10 EURUSD at 1.07229 closed due take-profit at price 1.07230
+0	15:49:28.048	'66686155': order #249949501 buy 0.10 EURUSD at 1.07229 closed due take-profit at price 1.07231
+0	15:49:28.486	'66686155': order #249949502 buy 0.10 EURUSD at 1.07229 closed due take-profit at price 1.07231
+0	15:49:37.231	'66686155': order #249949503 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07228
+0	15:49:37.231	'66686155': order #249949504 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07228
+0	15:49:37.780	'66686155': order #249949505 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07227
+0	15:49:37.780	'66686155': order #249949507 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07227
+0	15:49:38.634	'66686155': order #249949508 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07226
+0	15:49:38.634	'66686155': order #249949509 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07226
+0	15:49:39.027	'66686155': order #249949510 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07219
+0	15:49:48.452	'66686155': order #249949512 buy 0.10 EURUSD at 1.07228 closed due stop-loss at price 1.07220
+0	15:49:48.452	'66686155': order #249949513 buy 0.10 EURUSD at 1.07227 closed due stop-loss at price 1.07221
+0	15:49:50.420	'66686155': order #249949514 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+0	15:49:54.067	'66686155': order #249949516 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07226
+0	15:49:54.067	'66686155': order #249949517 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07225
+0	15:49:54.067	'66686155': order #249949519 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07227
+0	15:49:58.644	'66686155': order #249949520 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07227
+0	15:50:03.840	'66686155': order #249949524 buy 0.10 EURUSD at 1.07224 closed due take-profit at price 1.07226
+0	15:50:08.006	'66686155': order #249949526 buy 0.10 EURUSD at 1.07225 closed due take-profit at price 1.07227
+0	15:50:08.851	'66686155': order #249949529 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07231
+0	15:50:08.851	'66686155': order #249949532 buy 0.10 EURUSD at 1.07226 closed due take-profit at price 1.07230
+0	15:50:10.641	'66686155': order #249949533 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07231
+0	15:50:16.411	'66686155': order #249949581 buy 0.10 EURUSD at 1.07225 closed due take-profit at price 1.07231
+0	15:50:16.411	'66686155': order #249949595 buy 0.10 EURUSD at 1.07225 closed due take-profit at price 1.07231
+0	15:50:17.089	'66686155': order #249949599 buy 0.10 EURUSD at 1.07226 closed due take-profit at price 1.07232
+0	15:50:24.616	'66686155': order #249949603 buy 0.10 EURUSD at 1.07231 closed due take-profit at price 1.07232
+0	15:50:26.201	'66686155': order #249949606 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07231
+0	15:50:27.023	'66686155': order #249949609 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07230
+0	15:50:29.617	'66686155': order #249949614 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07228
+0	15:50:29.617	'66686155': order #249949616 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07228
+0	15:50:29.617	'66686155': order #249949619 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07228
+0	15:50:41.413	'66686155': order #249949624 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07231
+0	15:50:41.627	'66686155': order #249949621 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07230
+0	15:50:46.856	'66686155': order #249949627 buy 0.10 EURUSD at 1.07229 closed due take-profit at price 1.07230
+0	15:50:47.110	'66686155': order #249949631 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07230
+0	15:50:47.110	'66686155': order #249949632 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07230
+0	15:50:48.024	'66686155': order #249949633 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07230
+0	15:50:55.630	'66686155': order #249949635 buy 0.10 EURUSD at 1.07232 closed due take-profit at price 1.07234
+0	15:50:55.630	'66686155': order #249949638 buy 0.10 EURUSD at 1.07230 closed due take-profit at price 1.07234
+0	15:51:02.806	'66686155': order #249949651 buy 0.10 EURUSD at 1.07236 closed due stop-loss at price 1.07230
+0	15:51:03.058	'66686155': order #249949644 buy 0.10 EURUSD at 1.07231 closed due stop-loss at price 1.07229
+0	15:51:05.252	'66686155': order #249949641 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07229
+0	15:51:05.252	'66686155': order #249949643 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07229
+0	15:51:05.252	'66686155': order #249949648 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07228
+0	15:51:05.252	'66686155': order #249949652 buy 0.10 EURUSD at 1.07235 closed due stop-loss at price 1.07228
+0	15:51:07.440	'66686155': order #249949653 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07226
+0	15:51:20.425	'66686155': order #249949670 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07228
+0	15:51:22.254	'66686155': order #249949676 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07229
+0	15:51:25.273	'66686155': order #249949673 buy 0.10 EURUSD at 1.07229 closed due take-profit at price 1.07230
+0	15:51:25.273	'66686155': order #249949678 buy 0.10 EURUSD at 1.07226 closed due take-profit at price 1.07230
+0	15:51:27.021	'66686155': order #249949679 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07231
+0	15:51:27.021	'66686155': order #249949680 buy 0.10 EURUSD at 1.07226 closed due take-profit at price 1.07230
+0	15:51:27.229	'66686155': order #249949683 buy 0.10 EURUSD at 1.07227 closed due take-profit at price 1.07233
+0	15:51:36.619	'66686155': order #249949692 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07229
+0	15:51:38.037	'66686155': order #249949688 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07227
+0	15:51:38.037	'66686155': order #249949690 buy 0.10 EURUSD at 1.07229 closed due stop-loss at price 1.07227
+0	15:51:43.221	'66686155': order #249949691 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07226
+0	15:51:43.221	'66686155': order #249949693 buy 0.10 EURUSD at 1.07233 closed due stop-loss at price 1.07226
+0	15:51:43.221	'66686155': order #249949694 buy 0.10 EURUSD at 1.07232 closed due stop-loss at price 1.07225
+0	15:51:43.221	'66686155': order #249949696 buy 0.10 EURUSD at 1.07230 closed due stop-loss at price 1.07223
+0	15:51:46.210	'66686155': order #249949697 buy 0.10 EURUSD at 1.07228 closed due stop-loss at price 1.07220
+0	15:51:48.245	'66686155': order #249949698 buy 0.10 EURUSD at 1.07227 closed due stop-loss at price 1.07218
+0	15:51:55.026	'66686155': order #249949700 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07217
+0	15:51:55.026	'66686155': order #249949702 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07216
+0	15:51:55.026	'66686155': order #249949703 buy 0.10 EURUSD at 1.07220 closed due stop-loss at price 1.07216
+0	15:52:01.674	'66686155': order #249949704 buy 0.10 EURUSD at 1.07220 closed due stop-loss at price 1.07216
+0	15:52:11.622	'66686155': order #249949706 buy 0.10 EURUSD at 1.07217 closed due stop-loss at price 1.07210
+0	15:52:11.622	'66686155': order #249949708 buy 0.10 EURUSD at 1.07217 closed due stop-loss at price 1.07210
+0	15:52:11.622	'66686155': order #249949710 buy 0.10 EURUSD at 1.07217 closed due stop-loss at price 1.07210
+0	15:52:11.816	'66686155': order #249949712 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07209
+0	15:52:19.843	'66686155': order #249949722 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07205
+0	15:52:19.843	'66686155': order #249949735 buy 0.10 EURUSD at 1.07212 closed due stop-loss at price 1.07205
+0	15:52:19.843	'66686155': order #249949738 buy 0.10 EURUSD at 1.07212 closed due stop-loss at price 1.07205
+0	15:52:20.208	'66686155': order #249949744 buy 0.10 EURUSD at 1.07208 closed due stop-loss at price 1.07204
+0	15:52:21.458	'66686155': order #249949746 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07202
+2	15:52:22.398	Expert CrossTrade AUDUSD,M5: removed
+0	15:52:33.209	'66686155': order #249949750 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07205
+0	15:52:37.252	'66686155': order #249949754 buy 0.10 EURUSD at 1.07203 closed due take-profit at price 1.07207
+0	15:52:38.640	'66686155': order #249949751 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07205
+0	15:52:41.619	'66686155': order #249949752 buy 0.10 EURUSD at 1.07206 closed due stop-loss at price 1.07205
+0	15:52:44.442	'66686155': order #249949756 buy 0.10 EURUSD at 1.07203 closed due take-profit at price 1.07205
+0	15:52:48.834	'66686155': order #249949759 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07204
+0	15:52:49.250	'66686155': order #249949757 buy 0.10 EURUSD at 1.07203 closed due take-profit at price 1.07205
+0	15:52:52.388	'66686155': order #249949760 buy 0.10 EURUSD at 1.07206 closed due stop-loss at price 1.07202
+0	15:52:52.388	'66686155': order #249949761 buy 0.10 EURUSD at 1.07207 closed due stop-loss at price 1.07202
+0	15:52:53.433	'66686155': order #249949764 buy 0.10 EURUSD at 1.07206 closed due stop-loss at price 1.07202
+0	15:52:57.053	'66686155': order #249949765 buy 0.10 EURUSD at 1.07206 closed due stop-loss at price 1.07197
+0	15:52:57.053	'66686155': order #249949766 buy 0.10 EURUSD at 1.07204 closed due stop-loss at price 1.07198
+0	15:53:13.823	'66686155': order #249949767 buy 0.10 EURUSD at 1.07205 closed due stop-loss at price 1.07201
+0	15:53:13.823	'66686155': order #249949768 buy 0.10 EURUSD at 1.07205 closed due stop-loss at price 1.07201
+0	15:53:14.012	'66686155': order #249949769 buy 0.10 EURUSD at 1.07203 closed due stop-loss at price 1.07199
+0	15:53:18.138	'66686155': order #249949770 buy 0.10 EURUSD at 1.07199 closed due take-profit at price 1.07201
+0	15:53:37.244	'66686155': order #249949811 buy 0.10 EURUSD at 1.07201 closed due take-profit at price 1.07205
+0	15:53:37.244	'66686155': order #249949815 buy 0.10 EURUSD at 1.07200 closed due take-profit at price 1.07206
+0	15:53:40.649	'66686155': order #249949818 buy 0.10 EURUSD at 1.07201 closed due take-profit at price 1.07205
+0	15:53:43.232	'66686155': order #249949819 buy 0.10 EURUSD at 1.07203 closed due take-profit at price 1.07207
+0	15:53:58.639	'66686155': order #249949833 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07212
+0	15:53:58.639	'66686155': order #249949835 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07215
+0	15:53:59.818	'66686155': order #249949834 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07215
+0	15:54:04.639	'66686155': order #249949836 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07215
+0	15:54:04.639	'66686155': order #249949838 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07215
+0	15:54:04.639	'66686155': order #249949840 buy 0.10 EURUSD at 1.07206 closed due take-profit at price 1.07215
+0	15:54:10.638	'66686155': order #249949844 buy 0.10 EURUSD at 1.07214 closed due stop-loss at price 1.07212
+0	15:54:16.313	'66686155': order #249949873 buy 0.10 EURUSD at 1.07215 closed due stop-loss at price 1.07211
+0	15:54:47.039	'66686155': order #249949887 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07213
+0	15:54:47.039	'66686155': order #249949888 buy 0.10 EURUSD at 1.07211 closed due take-profit at price 1.07213
+0	15:54:47.039	'66686155': order #249949889 buy 0.10 EURUSD at 1.07211 closed due take-profit at price 1.07213
+0	15:54:47.039	'66686155': order #249949891 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07214
+0	15:54:51.615	'66686155': order #249949893 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07216
+0	15:55:31.837	'66686155': order #249949894 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07212
+0	15:55:35.251	'66686155': order #249949895 buy 0.10 EURUSD at 1.07216 closed due take-profit at price 1.07223
+0	15:55:35.251	'66686155': order #249949897 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07224
+0	15:55:49.224	'66686155': order #249949900 buy 0.10 EURUSD at 1.07215 closed due take-profit at price 1.07222
+0	15:55:49.436	'66686155': order #249949899 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07224
+0	15:55:49.436	'66686155': order #249949941 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07224
+0	15:55:49.436	'66686155': order #249949943 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07222
+0	15:55:56.214	'66686155': order #249949944 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07223
+0	15:55:56.214	'66686155': order #249949947 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07223
+0	15:55:59.867	'66686155': order #249949950 buy 0.10 EURUSD at 1.07223 closed due take-profit at price 1.07225
+0	15:56:01.832	'66686155': order #249949951 buy 0.10 EURUSD at 1.07223 closed due stop-loss at price 1.07221
+0	15:56:06.213	'66686155': order #249949953 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07221
+0	15:56:06.494	'66686155': order #249949954 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07222
+0	15:56:12.032	'66686155': order #249949956 buy 0.10 EURUSD at 1.07223 closed due stop-loss at price 1.07221
+0	15:56:12.032	'66686155': order #249949959 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:56:12.634	'66686155': order #249949961 buy 0.10 EURUSD at 1.07223 closed due stop-loss at price 1.07219
+0	15:56:12.634	'66686155': order #249949962 buy 0.10 EURUSD at 1.07225 closed due stop-loss at price 1.07219
+2	15:56:18.003	Expert CrossTrade USDCAD,H1: loaded successfully
+2	15:56:19.910	Expert CrossTrade USDCAD,H1: removed
+0	15:56:21.051	'66686155': order #249949971 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07220
+0	15:56:21.051	'66686155': order #249949977 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07220
+0	15:56:22.444	'66686155': order #249949980 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07219
+2	15:56:25.637	Expert CrossTrade USDCAD,M5: loaded successfully
+0	15:56:28.231	'66686155': order #249949982 buy 0.10 EURUSD at 1.07221 closed due take-profit at price 1.07223
+0	15:56:28.231	'66686155': order #249949983 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+0	15:56:28.231	'66686155': order #249949989 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07223
+2	15:56:28.771	Expert CrossTrade USDCAD,M5: removed
+2	15:56:30.319	Expert CrossTrade2 USDCAD,M5: loaded successfully
+0	15:56:33.426	'66686155': order #249949990 buy 0.10 EURUSD at 1.07220 closed due take-profit at price 1.07224
+0	15:56:34.687	'66686155': order #249949991 buy 0.10 EURUSD at 1.07219 closed due take-profit at price 1.07226
+0	15:56:34.687	'66686155': order #249949992 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07226
+0	15:56:38.635	'66686155': order #249949993 buy 0.10 EURUSD at 1.07222 closed due take-profit at price 1.07226
+0	15:56:43.049	'66686155': order #249949996 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:56:47.399	'66686155': order #249949997 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:56:47.399	'66686155': order #249949998 buy 0.10 EURUSD at 1.07225 closed due stop-loss at price 1.07219
+0	15:56:47.399	'66686155': order #249950000 buy 0.10 EURUSD at 1.07226 closed due stop-loss at price 1.07220
+0	15:56:50.863	'66686155': order #249949999 buy 0.10 EURUSD at 1.07227 closed due stop-loss at price 1.07221
+0	15:56:50.863	'66686155': order #249950001 buy 0.10 EURUSD at 1.07224 closed due stop-loss at price 1.07220
+0	15:56:54.846	'66686155': order #249950002 buy 0.10 EURUSD at 1.07220 closed due stop-loss at price 1.07216
+0	15:56:55.026	'66686155': order #249950003 buy 0.10 EURUSD at 1.07220 closed due stop-loss at price 1.07214
+0	15:56:59.441	'66686155': order #249950004 buy 0.10 EURUSD at 1.07219 closed due stop-loss at price 1.07212
+0	15:56:59.441	'66686155': order #249950005 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07212
+0	15:57:08.219	'66686155': order #249950006 buy 0.10 EURUSD at 1.07218 closed due stop-loss at price 1.07216
+0	15:57:11.047	'66686155': order #249950013 buy 0.10 EURUSD at 1.07210 closed due take-profit at price 1.07217
+0	15:57:12.044	'66686155': order #249950007 buy 0.10 EURUSD at 1.07217 closed due stop-loss at price 1.07216
+0	15:57:13.403	'66686155': order #249950020 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07216
+0	15:57:24.210	'66686155': order #249950034 buy 0.10 EURUSD at 1.07218 closed due stop-loss at price 1.07216
+0	15:57:30.878	'66686155': order #249950025 buy 0.10 EURUSD at 1.07214 closed due take-profit at price 1.07218
+0	15:57:31.050	'66686155': order #249950008 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07219
+0	15:57:31.050	'66686155': order #249950040 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:57:44.195	'66686155': order #249950044 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:57:44.195	'66686155': order #249950049 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:57:44.195	'66686155': order #249950056 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:57:44.195	'66686155': order #249950058 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:57:44.195	'66686155': order #249950063 buy 0.10 EURUSD at 1.07217 closed due take-profit at price 1.07221
+0	15:57:44.976	'66686155': order #249950065 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07220
+0	15:57:48.450	'66686155': order #249950069 buy 0.10 EURUSD at 1.07223 closed due stop-loss at price 1.07219
+0	15:57:49.459	'66686155': order #249950067 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07218
+0	15:57:49.686	'66686155': order #249950070 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07216
+0	15:57:53.436	'66686155': order #249950075 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07215
+0	15:57:53.436	'66686155': order #249950077 buy 0.10 EURUSD at 1.07221 closed due stop-loss at price 1.07215
+0	15:57:53.618	'66686155': order #249950072 buy 0.10 EURUSD at 1.07222 closed due stop-loss at price 1.07213
+0	15:57:56.415	'66686155': order #249950079 buy 0.10 EURUSD at 1.07220 closed due stop-loss at price 1.07214
+0	15:58:03.627	'66686155': order #249950080 buy 0.10 EURUSD at 1.07215 closed due stop-loss at price 1.07213
+0	15:58:11.439	'66686155': order #249950081 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07214
+0	15:58:12.033	'66686155': order #249950083 buy 0.10 EURUSD at 1.07214 closed due stop-loss at price 1.07213
+0	15:58:16.052	'66686155': order #249950085 buy 0.10 EURUSD at 1.07214 closed due stop-loss at price 1.07212
+0	15:58:17.437	'66686155': order #249950086 buy 0.10 EURUSD at 1.07212 closed due stop-loss at price 1.07211
+0	15:58:19.206	'66686155': order #249950089 buy 0.10 EURUSD at 1.07216 closed due stop-loss at price 1.07212
+0	15:58:19.717	'66686155': order #249950096 buy 0.10 EURUSD at 1.07214 closed due stop-loss at price 1.07210
+0	15:58:32.429	'66686155': order #249950104 buy 0.10 EURUSD at 1.07215 closed due stop-loss at price 1.07211
+0	15:58:32.623	'66686155': order #249950101 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07211
+0	15:58:37.837	'66686155': order #249950117 buy 0.10 EURUSD at 1.07211 closed due take-profit at price 1.07213
+0	15:58:45.255	'66686155': order #249950108 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07212
+0	15:58:45.255	'66686155': order #249950122 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07213
+0	15:58:46.271	'66686155': order #249950125 buy 0.10 EURUSD at 1.07211 closed due take-profit at price 1.07213
+0	15:58:46.456	'66686155': order #249950123 buy 0.10 EURUSD at 1.07210 closed due take-profit at price 1.07214
+0	15:58:58.834	'66686155': order #249950132 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07212
+0	15:59:06.283	'66686155': order #249950134 buy 0.10 EURUSD at 1.07212 closed due stop-loss at price 1.07211
+0	15:59:06.283	'66686155': order #249950137 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07212
+0	15:59:14.255	'66686155': order #249950140 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07212
+0	15:59:14.255	'66686155': order #249950144 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07212
+0	15:59:14.255	'66686155': order #249950145 buy 0.10 EURUSD at 1.07213 closed due stop-loss at price 1.07211
+0	15:59:20.422	'66686155': order #249950148 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07213
+0	15:59:20.422	'66686155': order #249950150 buy 0.10 EURUSD at 1.07211 closed due take-profit at price 1.07213
+0	15:59:20.606	'66686155': order #249950155 buy 0.10 EURUSD at 1.07212 closed due take-profit at price 1.07216
+2	16:02:37.231	Expert CrossTrade2 USDCAD,M5: removed
+2	16:02:37.247	Expert CrossTrade2 USDCAD,M5: loaded successfully
+2	16:02:58.324	Expert CrossTrade2 AUDCHF,M5: loaded successfully
+0	16:04:22.216	Help: new version of the English Help is available (9305 kb)
+0	16:04:43.549	Help: 'terminal.chm' downloaded
+2	16:07:28.623	Expert CrossTrade2 AUDUSD,H1: loaded successfully
+2	16:10:55.766	Expert CrossTrade2 USDCAD,M5: removed
+2	16:11:02.777	Expert CrossTrade2 AUDCHF,M5: removed
+2	16:11:04.945	Expert CrossTrade2 AUDUSD,H1: removed
+2	16:18:09.130	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:18:52.268	Expert CrossTrade2 EURUSD,H1: removed
+2	16:18:52.284	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:19:53.758	Expert CrossTrade2 EURUSD,H1: removed
+2	16:19:53.773	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:20:24.656	Expert CrossTrade2 EURUSD,H1: removed
+2	16:20:24.672	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:21:00.823	Expert CrossTrade2 EURUSD,H1: removed
+2	16:21:00.838	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:21:29.513	Expert CrossTrade2 EURUSD,H1: removed
+2	16:21:29.528	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:24:14.798	Expert CrossTrade2 EURUSD,H1: removed
+2	16:24:14.829	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:24:31.868	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:25:02.860	Expert CrossTrade2 EURUSD,H1: removed
+2	16:25:02.891	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:25:02.891	Expert CrossTrade2 EURUSD,H1: removed
+2	16:25:02.907	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:25:22.325	Expert CrossTrade2 EURUSD,H1: removed
+2	16:25:22.340	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:25:22.340	Expert CrossTrade2 EURUSD,H1: removed
+2	16:25:22.356	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:26:20.461	Expert CrossTrade2 EURUSD,H1: removed
+2	16:26:20.477	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:26:20.492	Expert CrossTrade2 EURUSD,H1: removed
+2	16:26:20.508	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:26:45.437	Expert CrossTrade2 EURUSD,H1: removed
+2	16:28:33.372	Expert CrossTrade2 EURUSD,H1: removed
+2	16:28:33.388	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:29:00.376	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:29:23.472	Expert CrossTrade2 AUDCHF,H1: loaded successfully
+2	16:32:13.867	Expert CrossTrade2 EURUSD,H1: removed
+2	16:32:13.882	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:32:13.898	Expert CrossTrade2 EURUSD,H1: removed
+2	16:32:13.914	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:32:13.914	Expert CrossTrade2 AUDCHF,M15: removed
+2	16:32:13.929	Expert CrossTrade2 AUDCHF,M15: loaded successfully
+2	16:32:27.469	Expert CrossTrade2 AUDCHF,M5: loaded successfully
+2	16:33:47.927	Expert CrossTrade2 AUDCHF,M5: removed
+2	16:34:09.606	Expert CrossTrade2 EURUSD,H1: removed
+2	16:34:09.637	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:34:09.637	Expert CrossTrade2 EURUSD,H1: removed
+2	16:34:09.653	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:34:09.653	Expert CrossTrade2 AUDCHF,M15: removed
+2	16:34:09.668	Expert CrossTrade2 AUDCHF,M15: loaded successfully
+2	16:36:28.807	Expert CrossTrade2 EURUSD,H1: removed
+2	16:36:28.822	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:36:28.838	Expert CrossTrade2 EURUSD,H1: removed
+2	16:36:28.854	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:36:28.854	Expert CrossTrade2 AUDCHF,M15: removed
+2	16:36:28.869	Expert CrossTrade2 AUDCHF,M15: loaded successfully
+2	16:37:14.918	Expert CrossTrade2 EURUSD,H1: removed
+2	16:37:14.933	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:37:14.933	Expert CrossTrade2 EURUSD,H1: removed
+2	16:37:14.965	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:37:14.965	Expert CrossTrade2 AUDCHF,M15: removed
+2	16:37:14.980	Expert CrossTrade2 AUDCHF,M15: loaded successfully
+2	16:37:21.542	Expert CrossTrade2 AUDCHF,M15: removed
+2	16:37:23.437	Expert CrossTrade2 EURUSD,H1: removed
+2	16:37:33.706	Expert CrossTrade2 EURUSD,H1: loaded successfully
+2	16:38:19.869	Expert CrossTrade2 EURUSD,H1: removed
+0	17:14:24.209	'66686155': order #249954043 sell 0.10 EURUSD at 1.07290 closed due stop-loss at price 1.07290
+0	17:16:31.408	'66686155': order #249954054 sell 0.10 EURUSD at 1.07287 closed due take-profit at price 1.07278
+0	17:19:34.400	'66686155': order #249954015 buy 0.10 EURUSD at 1.07287 closed due take-profit at price 1.07294
+0	17:19:34.400	'66686155': order #249954048 sell 0.10 EURUSD at 1.07288 closed due stop-loss at price 1.07297
+0	17:43:52.593	'66686155': order #249956176 sell 0.10 EURUSD at 1.07286 closed due stop-loss at price 1.07290
+0	17:44:13.803	'66686155': order #249956179 sell 0.10 EURUSD at 1.07286 closed due stop-loss at price 1.07297
+0	17:44:13.805	'66686155': order #249956183 sell 0.10 EURUSD at 1.07286 closed due stop-loss at price 1.07298
+2	17:49:50.723	Expert CrossTrade2 EURUSD,M5: removed
+2	17:49:50.748	Expert CrossTrade2 EURUSD,M5: loaded successfully
+3	17:50:04.373	'CrossTrade2' is not expert and cannot be executed
+3	17:50:06.613	'CrossTrade2' is not expert and cannot be executed
+3	17:50:07.623	'CrossTrade2' is not expert and cannot be executed
+0	17:50:07.803	'66686155': order #249956498 sell 0.10 EURUSD at 1.07286 closed due stop-loss at price 1.07290
+3	17:50:09.353	'CrossTrade2' is not expert and cannot be executed
+3	17:50:27.734	'CrossTrade2' is not expert and cannot be executed
+2	17:50:35.138	Expert CrossTrade2 EURUSD,M5: removed
+3	17:50:37.145	'CrossTrade2' is not expert and cannot be executed
+3	17:50:39.303	'CrossTrade2' is not expert and cannot be executed
+0	17:50:47.623	'66686155': order #249956506 sell 0.10 EURUSD at 1.07285 closed due take-profit at price 1.07278
+3	17:50:53.183	'CrossTrade2' is not expert and cannot be executed
+3	17:50:54.373	'CrossTrade2' is not expert and cannot be executed
+3	17:50:55.523	'CrossTrade2' is not expert and cannot be executed
+3	17:51:07.254	'CrossTrade2' is not expert and cannot be executed
+3	17:51:08.638	'CrossTrade2' is not expert and cannot be executed
+3	17:51:08.993	'CrossTrade2' is not expert and cannot be executed
+3	17:51:09.408	'CrossTrade2' is not expert and cannot be executed
+2	17:51:59.181	Expert CrossTrade2 AUDUSD,M5: loaded successfully
+0	17:53:25.383	'66686155': order #249956490 buy 0.10 EURUSD at 1.07274 closed due take-profit at price 1.07294
+0	17:53:29.573	'66686155': order #249956500 sell 0.10 EURUSD at 1.07286 closed due stop-loss at price 1.07297
+0	17:53:44.773	'66686155': order #249956185 buy 0.10 EURUSD at 1.07285 closed due take-profit at price 1.07304
+0	17:53:44.773	'66686155': order #249956517 buy 0.10 EURUSD at 1.07286 closed due take-profit at price 1.07304
+2	18:18:27.423	Expert CrossTrade EURUSD,H1: loaded successfully
+2	18:18:32.414	Expert CrossTrade EURUSD,H1: removed
+2	18:18:38.059	Expert CrossTrade EURUSD,M5: loaded successfully
+2	18:21:59.222	Expert CrossTrade2 AUDUSD,M5: removed
+2	18:21:59.269	Expert CrossTrade EURUSD,M5: removed
+0	18:22:00.784	IC Markets (SC) MT4 build 1420 stopped

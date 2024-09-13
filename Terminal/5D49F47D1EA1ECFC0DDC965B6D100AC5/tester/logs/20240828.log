@@ -1,0 +1,9 @@
+0	14:29:05.754	Expert LevelAlerts USDCAD,H1: loaded successfully
+0	14:29:07.850	TestGenerator: current spread 0 used
+0	14:29:10.067	Custom indicator LevelAlerts USDCAD,H1: loaded successfully
+2	14:29:10.067	LevelAlerts inputs: EnablePushNotification=1; EnableEmailAlert=1; LineStyle=4; LineWidth=2; 
+0	14:30:20.385	2024.06.03 00:52:24  Custom indicator LevelAlerts USDCAD,H1: removed
+0	14:30:20.400	2024.06.03 00:52:24  Custom indicator LevelAlerts USDCAD,H1: loaded successfully
+3	14:30:24.785	2024.06.03 00:54:20  Tester: stop button pressed
+0	14:30:29.036	2024.06.03 00:54:20  Custom indicator LevelAlerts USDCAD,H1: removed
+0	14:30:31.000	2024.06.03 00:54:20  Expert LevelAlerts USDCAD,H1: removed

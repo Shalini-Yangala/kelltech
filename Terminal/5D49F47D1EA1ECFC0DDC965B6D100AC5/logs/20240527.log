@@ -1,0 +1,213 @@
+0	10:15:53.358	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	10:15:53.358	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2452 / 8067 Mb, Disk: 6 / 53 Gb, GMT+5
+0	10:15:53.358	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:15:55.983	Expert Wedges EURUSD,H1: loaded successfully
+2	10:15:56.045	Expert Wedges EURUSD,H1: loaded successfully
+2	10:15:56.092	Expert Wedges EURUSD,H1: loaded successfully
+2	10:15:56.123	Expert Wedges EURUSD,H1: loaded successfully
+0	10:15:57.803	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 249.67 ms)
+0	10:16:00.527	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 249.67 ms)
+0	10:16:01.613	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:16:06.989	Expert Wedges EURUSD,H1: removed
+0	10:16:08.395	'66686155': ping to current access point FRK_DC_D06 is 240.47 ms
+2	10:16:09.458	Expert Wedges EURUSD,H1: removed
+2	10:16:12.348	Expert Wedges EURUSD,H1: removed
+2	10:16:14.843	Expert Wedges EURUSD,H1: removed
+2	10:16:19.343	Expert Wedges EURUSD,H1: loaded successfully
+0	10:16:37.088	'66686155': one click trading has been disabled
+0	10:16:47.600	'66686155': close order #247650070 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:16:48.038	'66686155': order #247650070 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08491
+0	10:16:54.269	'66686155': close order #247650071 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:16:54.675	'66686155': order #247650071 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08491
+0	10:17:02.842	'66686155': close order #247650116 buy 0.10 EURUSD at 1.08503 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:03.248	'66686155': order #247650116 buy 0.10 EURUSD at 1.08503 sl: 0.00000 tp: 0.00000 closed at price 1.08491
+0	10:17:07.773	'66686155': close order #247650110 buy 0.10 EURUSD at 1.08510 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:08.210	'66686155': order #247650110 buy 0.10 EURUSD at 1.08510 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:17:13.535	'66686155': close order #247650108 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:13.972	'66686155': order #247650108 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:17:23.902	'66686155': close order #247650106 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:24.324	'66686155': order #247650106 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:17:30.401	'66686155': close order #247650112 buy 0.10 EURUSD at 1.08504 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:30.823	'66686155': order #247650112 buy 0.10 EURUSD at 1.08504 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:17:48.927	'66686155': close order #247650095 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:49.365	'66686155': order #247650095 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:17:55.623	'66686155': close order #247650094 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:17:55.998	'66686155': order #247650094 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:18:05.096	'66686155': close order #247650083 buy 0.10 EURUSD at 1.08513 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:18:05.565	'66686155': order #247650083 buy 0.10 EURUSD at 1.08513 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:18:12.626	'66686155': close order #247650081 buy 0.10 EURUSD at 1.08513 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:18:13.063	'66686155': order #247650081 buy 0.10 EURUSD at 1.08513 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:18:34.289	'66686155': close order #247650077 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:18:34.742	'66686155': order #247650077 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:18:42.297	'66686155': close order #247650076 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:18:42.703	'66686155': order #247650076 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:18:48.756	'66686155': close order #247650073 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:18:49.209	'66686155': order #247650073 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:18:56.327	'66686155': close order #247650072 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:18:56.737	'66686155': order #247650072 buy 0.10 EURUSD at 1.08512 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:19:02.382	'66686155': close order #247650111 buy 0.10 EURUSD at 1.08510 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:19:02.788	'66686155': order #247650111 buy 0.10 EURUSD at 1.08510 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:19:07.196	'66686155': close order #247650105 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:19:07.711	'66686155': order #247650105 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+0	10:19:11.925	'66686155': close order #247650109 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	10:19:12.315	'66686155': order #247650109 buy 0.10 EURUSD at 1.08509 sl: 0.00000 tp: 0.00000 closed at price 1.08490
+2	10:33:03.261	Expert Wedges EURUSD,H1: removed
+2	10:33:03.277	Expert Wedges EURUSD,H1: loaded successfully
+2	10:33:11.736	Expert Wedges EURUSD,H1: loaded successfully
+0	10:47:07.431	Sources recompilation started
+2	10:50:39.583	Expert All Patterns EURUSD,H1: loaded successfully
+2	10:50:53.396	Expert All Patterns EURUSD,H1: removed
+2	10:50:53.427	Expert All Patterns EURUSD,H1: loaded successfully
+2	11:06:02.405	Expert Head&Shoulder EURUSD,H1: loaded successfully
+2	11:13:34.409	Expert Wedges EURUSD,H1: removed
+2	11:13:34.425	Expert Wedges EURUSD,H1: loaded successfully
+2	11:13:34.440	Expert Wedges EURUSD,H1: removed
+2	11:13:34.456	Expert Wedges EURUSD,H1: loaded successfully
+2	11:50:40.512	Expert Pennant EURUSD,H1: loaded successfully
+2	11:51:00.272	Expert Pennant EURUSD,H1: removed
+2	11:51:00.288	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+0	12:10:32.898	'66686155': order #247711961 sell limit 0.10 EURUSD at 1.08479 activated at price 1.08479
+0	12:16:40.333	'66686155': close order #247711961 sell 0.10 EURUSD at 1.08479 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	12:16:40.751	'66686155': order #247711961 sell 0.10 EURUSD at 1.08479 sl: 0.00000 tp: 0.00000 closed at price 1.08481
+2	12:16:46.594	Expert Triple Top and Bottom EURUSD,H1: removed
+2	12:16:48.512	Expert Head&Shoulder EURUSD,H1: removed
+2	12:16:50.304	Expert All Patterns EURUSD,H1: removed
+2	12:16:52.032	Expert Wedges EURUSD,H1: removed
+2	12:16:57.858	Expert Wedges EURUSD,H1: removed
+2	12:17:20.210	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	12:21:21.932	Custom indicator Trend_Line EURUSD,H1: removed
+2	12:21:21.948	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	12:22:23.298	Custom indicator Trend_Line EURUSD,H1: removed
+2	12:35:13.997	Custom indicator Wedges_Lokesh EURUSD,H1: loaded successfully
+2	12:37:35.252	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	12:38:01.967	Custom indicator Trend Market Sentiment EURUSD,H1: loaded successfully
+2	12:40:16.449	Custom indicator Wedges_Lokesh EURUSD,H1: removed
+2	12:40:16.450	Custom indicator Trend Market Sentiment EURUSD,H1: removed
+2	12:40:16.450	Custom indicator Task1 EURUSD,H1: removed
+2	12:40:30.145	Custom indicator Wedges_Lokesh EURUSD,H1: loaded successfully
+2	12:50:00.638	Custom indicator Wedges_Lokesh EURUSD,H1: removed
+2	12:50:00.654	Custom indicator Wedges_Lokesh EURUSD,H1: loaded successfully
+2	12:51:22.496	Custom indicator Wedges_Lokesh EURUSD,H1: removed
+2	12:51:22.511	Custom indicator Wedges_Lokesh EURUSD,H1: loaded successfully
+2	12:51:37.964	Custom indicator Wedges_Lokesh EURUSD,H1: removed
+2	12:52:02.330	Custom indicator Wedges_Lokesh EURUSD,H1: loaded successfully
+2	12:55:07.260	Custom indicator Wedges_Lokesh EURUSD,H1: removed
+2	12:55:07.276	Custom indicator Wedges_Lokesh EURUSD,H1: loaded successfully
+2	13:02:55.526	Custom indicator movingavg_application EURUSD,H1: loaded successfully
+2	13:04:52.515	Custom indicator dashboard_creation EURUSD,H1: loaded successfully
+1	13:56:43.633	'66686155': ping failed
+1	13:56:44.595	'66686155': connect failed [No connection]
+0	13:56:50.801	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	13:56:52.984	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	13:56:54.535	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:57:01.012	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 223.55 ms)
+0	13:57:01.895	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.55 ms)
+0	13:57:03.779	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.55 ms)
+0	13:57:04.905	'66686155': previous successful authorization performed from 103.213.202.61
+2	13:58:44.811	Custom indicator dashboard_creation EURUSD,H1: removed
+2	13:58:47.112	Custom indicator movingavg_application EURUSD,H1: removed
+2	14:41:33.353	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:51:09.129	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	14:51:09.145	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:51:15.878	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	14:51:15.893	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:51:32.423	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:53:10.644	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	14:53:10.659	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:53:10.675	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	14:53:10.691	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:53:19.669	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	14:54:07.255	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	14:54:09.837	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	14:54:13.399	Custom indicator Wedges_Lokesh EURUSD,H1: removed
+2	15:03:09.753	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	15:03:09.769	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	15:03:22.385	Custom indicator Head&Shoulder EURUSD,H1: loaded successfully
+2	15:32:22.980	Expert Pennant EURUSD,H1: loaded successfully
+2	15:43:41.845	Expert H&S EURUSD,H1: loaded successfully
+2	15:49:20.147	Expert H&S EURUSD,H1: removed
+2	15:49:20.162	Expert H&S EURUSD,H1: loaded successfully
+2	15:49:40.569	Expert H&S EURUSD,H1: loaded successfully
+2	15:54:27.349	Expert H&S EURUSD,H1: removed
+2	15:54:27.381	Expert H&S EURUSD,H1: loaded successfully
+2	15:54:27.381	Expert H&S EURUSD,M15: removed
+2	15:54:27.396	Expert H&S EURUSD,M15: loaded successfully
+2	15:54:38.087	Expert H&S EURUSD,H1: loaded successfully
+3	16:23:59.926	'DTB' is not expert and cannot be executed
+3	16:24:02.389	'DTB' is not expert and cannot be executed
+3	16:24:05.351	'DTB' is not expert and cannot be executed
+3	16:25:42.203	'DTB' is not expert and cannot be executed
+3	16:25:44.352	'DTB' is not expert and cannot be executed
+3	16:28:23.139	'DTB' is not expert and cannot be executed
+3	16:28:26.329	'DTB' is not expert and cannot be executed
+2	16:29:25.892	Expert H&S EURUSD,H1: removed
+2	16:29:25.923	Expert H&S EURUSD,H1: loaded successfully
+2	16:29:25.923	Expert H&S EURUSD,M15: removed
+2	16:29:25.939	Expert H&S EURUSD,M15: loaded successfully
+2	16:29:25.939	Expert H&S EURUSD,Daily: removed
+2	16:29:25.970	Expert H&S EURUSD,Daily: loaded successfully
+2	16:29:41.403	Expert H&S EURUSD,H1: loaded successfully
+2	16:36:21.175	Expert H&S EURUSD,H1: removed
+2	16:36:21.191	Expert H&S EURUSD,H1: loaded successfully
+2	16:36:21.191	Expert H&S EURUSD,M15: removed
+2	16:36:21.206	Expert H&S EURUSD,M15: loaded successfully
+2	16:36:21.206	Expert H&S EURUSD,Daily: removed
+2	16:36:21.237	Expert H&S EURUSD,Daily: loaded successfully
+2	16:36:21.237	Expert H&S EURUSD,H1: removed
+2	16:36:21.253	Expert H&S EURUSD,H1: loaded successfully
+2	16:36:31.725	Expert H&S EURUSD,H1: loaded successfully
+2	16:52:17.536	Expert H&S EURUSD,H1: removed
+2	16:52:17.551	Expert H&S EURUSD,H1: loaded successfully
+2	16:52:17.567	Expert H&S EURUSD,M15: removed
+2	16:52:17.583	Expert H&S EURUSD,M15: loaded successfully
+2	16:52:17.583	Expert H&S EURUSD,Daily: removed
+2	16:52:17.598	Expert H&S EURUSD,Daily: loaded successfully
+2	16:52:17.614	Expert H&S EURUSD,H1: removed
+2	16:52:17.630	Expert H&S EURUSD,H1: loaded successfully
+2	16:52:17.630	Expert H&S EURUSD,Monthly: removed
+2	16:52:17.645	Expert H&S EURUSD,Monthly: loaded successfully
+2	16:52:29.687	Expert H&S EURUSD,H1: loaded successfully
+2	17:44:43.066	Expert Pennant EURUSD,H1: removed
+2	17:44:43.082	Expert Pennant EURUSD,H1: loaded successfully
+2	17:44:50.739	Expert Pennant EURUSD,H1: removed
+2	17:44:50.755	Expert Pennant EURUSD,H1: loaded successfully
+2	17:44:51.055	Expert Pennant EURUSD,H1: loaded successfully
+2	17:45:05.021	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	17:45:07.702	Custom indicator Head&Shoulder EURUSD,H1: removed
+2	17:45:10.039	Expert Pennant EURUSD,H1: removed
+2	17:45:12.762	Expert H&S EURUSD,H1: removed
+2	17:45:15.065	Expert H&S EURUSD,M15: removed
+2	17:45:17.313	Expert H&S EURUSD,Daily: removed
+2	17:45:24.400	Expert H&S EURUSD,H1: removed
+2	17:45:26.648	Expert H&S EURUSD,Monthly: removed
+2	17:45:28.854	Expert H&S EURUSD,H1: removed
+2	18:02:46.868	Expert Pennant EURUSD,H1: removed
+0	18:02:56.317	IC Markets (SC) MT4 build 1415 stopped
+0	18:03:28.799	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	18:03:28.799	LiveUpdate: updater - start admin updater
+1	18:03:36.091	LiveUpdate: updater - elevated updater start failed [1223]
+0	18:03:36.091	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	18:03:23.511	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	18:03:23.511	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 1361 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	18:03:23.511	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	18:03:24.542	Sources recompilation started
+0	18:03:25.339	Sources recompilation finished (1 compiled in 797 msec)
+0	18:03:29.080	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.55 ms)
+0	18:03:31.176	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.55 ms)
+0	18:03:32.131	'66686155': previous successful authorization performed from 103.213.202.61
+0	18:03:38.856	'66686155': ping to current access point LD_DC_D06 is 226.04 ms
+2	18:03:47.856	Expert Triangle Pattern1 EURUSD,H1: loaded successfully
+2	18:03:54.045	Expert Triangle Pattern1 EURUSD,H1: removed
+2	18:04:02.013	Expert Triangle Pattern1 EURUSD,H1: loaded successfully
+2	18:11:56.764	Expert Triangle Pattern1 EURUSD,H1: removed
+2	18:11:56.795	Expert Triangle Pattern1 EURUSD,H1: loaded successfully
+2	18:12:10.383	Expert Triangle Pattern1 EURUSD,H1: loaded successfully
+2	18:15:37.233	Expert Triangle Pattern1 EURUSD,H1: removed
+2	18:15:54.216	Expert Triangle Pattern1 EURUSD,H1: removed
+2	18:15:57.834	Expert Wedges EURUSD,H1: loaded successfully
+2	18:16:37.243	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	18:19:48.129	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	18:22:58.889	Expert Pennant EURUSD,H1: loaded successfully
+1	21:24:27.578	'66686155': ping failed
+1	21:24:32.168	'66686155': connect failed [No connection]
+0	21:24:39.068	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)

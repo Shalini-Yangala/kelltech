@@ -1,0 +1,19 @@
+0	10:45:45.386	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:45:45.386	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 4056 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	10:45:45.386	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	10:45:50.666	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 245.85 ms)
+0	10:45:54.305	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 245.85 ms)
+0	10:45:55.533	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:46:06.863	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 258.20 ms)
+0	10:46:08.096	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 258.20 ms)
+0	10:46:10.898	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 258.20 ms)
+0	10:46:12.086	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:31:40.676	'66686155': ping failed
+0	14:31:41.656	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 258.20 ms)
+0	14:31:43.797	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 258.20 ms)
+0	14:31:45.419	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:31:51.667	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 244.04 ms)
+0	14:31:52.671	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 244.04 ms)
+0	14:31:54.830	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 244.04 ms)
+0	14:31:56.169	'66686155': previous successful authorization performed from 103.213.202.61
+0	17:15:03.666	IC Markets (SC) MT4 build 1420 stopped

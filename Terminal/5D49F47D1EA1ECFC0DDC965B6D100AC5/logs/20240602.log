@@ -1,0 +1,10 @@
+1	15:38:39.772	MQL5.community: authorization failed
+0	15:38:48.578	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:38:51.526	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:38:54.658	'66686155': previous successful authorization performed from 205.254.168.234
+0	15:38:59.300	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 224.46 ms)
+0	15:39:00.191	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.46 ms)
+0	15:39:02.915	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.46 ms)
+0	15:39:04.183	'66686155': previous successful authorization performed from 205.254.168.237
+1	19:13:27.484	'66686155': ping failed
+1	19:13:27.624	'66686155': connect failed [No connection]

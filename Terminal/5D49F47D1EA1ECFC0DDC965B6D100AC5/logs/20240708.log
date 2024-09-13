@@ -1,0 +1,24 @@
+0	11:07:56.443	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	11:07:56.443	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3819 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	11:07:56.443	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	11:08:09.106	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 244.04 ms)
+0	11:08:11.240	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 244.04 ms)
+0	11:08:12.554	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:08:19.666	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 224.36 ms)
+0	11:08:23.428	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.36 ms)
+0	11:08:25.302	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.36 ms)
+0	11:08:26.606	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:04:30.080	'66686155': connect failed [No connection]
+0	14:05:22.055	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.36 ms)
+0	14:05:23.843	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.36 ms)
+0	14:05:24.876	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:05:31.973	'66686155': auto connecting to a better access point NVir_DC_D05 (ping is 232.08 ms)
+0	14:05:32.962	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.08 ms)
+0	14:05:34.990	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.08 ms)
+0	14:05:35.971	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:14:56.616	'66686155': ping failed
+1	14:14:56.718	'66686155': connect failed [No connection]
+0	14:16:24.940	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.08 ms)
+0	14:16:26.756	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.08 ms)
+0	14:16:27.793	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:18:38.698	IC Markets (SC) MT4 build 1420 stopped

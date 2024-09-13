@@ -1,0 +1,100 @@
+0	16:41:57.708	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	16:41:57.708	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 1967 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	16:41:57.708	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	16:42:00.323	Expert ChartObjec EURUSD,H1: loaded successfully
+0	16:42:01.932	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:42:01.932	LiveUpdate: updater - start admin updater
+1	16:42:04.992	LiveUpdate: updater - elevated updater start failed [1223]
+0	16:42:04.997	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+1	16:42:02.260	'66686155': connect failed [Old version]
+0	16:42:02.260	LiveUpdate: old version, try to download new one
+0	16:42:08.061	LiveUpdate: old version, try to download new one
+0	16:42:13.983	LiveUpdate: old version, try to download new one
+0	16:42:20.014	LiveUpdate: old version, try to download new one
+0	16:42:31.279	LiveUpdate: old version, try to download new one
+2	16:42:34.747	Expert ChartObjec EURUSD,H1: removed
+0	16:42:37.169	LiveUpdate: old version, try to download new one
+0	16:42:43.106	LiveUpdate: old version, try to download new one
+0	16:42:49.045	LiveUpdate: old version, try to download new one
+2	16:42:50.467	Expert HFX4 EURUSD,H1: loaded successfully
+0	16:42:54.982	LiveUpdate: old version, try to download new one
+0	16:43:06.270	LiveUpdate: old version, try to download new one
+0	16:43:12.832	LiveUpdate: old version, try to download new one
+0	16:43:19.222	LiveUpdate: old version, try to download new one
+0	16:43:25.659	LiveUpdate: old version, try to download new one
+2	16:43:28.315	Expert HFX4 EURUSD,H1: removed
+0	16:43:28.628	IC Markets (SC) MT4 build 1415 stopped
+0	16:43:31.363	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	16:43:31.363	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2003 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	16:43:31.363	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	16:43:33.122	Expert HFX4 EURUSD,H1: loaded successfully
+0	16:43:33.950	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:43:33.950	LiveUpdate: updater - start admin updater
+1	16:43:37.077	LiveUpdate: updater - elevated updater start failed [1223]
+0	16:43:37.077	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+1	16:43:34.508	'66686155': connect failed [Old version]
+0	16:43:34.508	LiveUpdate: old version, try to download new one
+0	16:43:40.442	LiveUpdate: old version, try to download new one
+0	16:43:46.504	LiveUpdate: old version, try to download new one
+2	16:43:56.488	Expert HFX4 EURUSD,H1: removed
+0	16:43:56.785	IC Markets (SC) MT4 build 1415 stopped
+0	16:44:06.737	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	16:44:06.737	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2122 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	16:44:06.737	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	16:44:08.331	Expert HFX4 EURUSD,H1: loaded successfully
+0	16:44:09.143	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:44:09.143	LiveUpdate: updater - start admin updater
+1	16:44:09.675	'66686155': connect failed [Old version]
+0	16:44:09.675	LiveUpdate: old version, try to download new one
+0	16:44:15.634	LiveUpdate: old version, try to download new one
+2	16:44:16.254	Expert HFX4 EURUSD,H1: removed
+0	16:44:16.535	IC Markets (SC) MT4 build 1415 stopped
+0	16:44:14.977	LiveUpdate: admin updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:44:14.977	LiveUpdate: admin updater - try to close terminal
+0	16:44:17.582	LiveUpdate: admin updater - files update started
+0	16:44:17.629	LiveUpdate: copied from 'C:\Users\shall\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global\metaeditor.exe'
+0	16:44:17.660	LiveUpdate: copied from 'C:\Users\shall\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global\terminal.exe'
+0	16:44:17.660	LiveUpdate: admin updater - files update finished
+0	16:44:17.660	LiveUpdate: admin updater - clean obsolete data
+0	16:44:17.660	LiveUpdate: admin updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:44:17.676	LiveUpdate: updater - start terminal
+0	16:44:17.879	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:44:18.144	LiveUpdate: update C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5\MQL4 folder started
+0	16:44:18.379	LiveUpdate: update C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5\MQL4 folder finished
+0	16:44:18.613	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	16:44:18.613	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2107 / 8067 Mb, Disk: 5 / 53 Gb, GMT+5
+0	16:44:18.613	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	16:44:19.457	Sources recompilation started
+0	16:44:28.994	Sources recompilation finished (28 compiled in 9532 msec)
+2	16:44:29.869	Expert HFX4 EURUSD,H1: loaded successfully
+0	16:44:31.166	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.14 ms)
+0	16:44:34.087	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.14 ms)
+0	16:44:35.173	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:44:45.324	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 258.98 ms)
+0	16:44:46.146	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 258.98 ms)
+0	16:44:48.289	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 258.98 ms)
+0	16:44:49.211	'66686155': previous successful authorization performed from 103.213.202.61
+2	16:49:14.551	Expert HFX4 EURUSD,H1: removed
+2	16:49:14.566	Expert HFX4 EURUSD,H1: loaded successfully
+2	16:49:32.214	Expert HFX4 EURUSD,H1: loaded successfully
+2	16:50:04.777	Expert HFX4 EURUSD,H1: removed
+2	16:50:04.808	Expert HFX4 EURUSD,H1: loaded successfully
+2	16:50:04.808	Expert HFX4 EURUSD,H1: removed
+2	16:50:04.824	Expert HFX4 EURUSD,H1: loaded successfully
+2	16:52:12.654	Expert HFX4 EURUSD,H1: removed
+2	16:52:12.669	Expert HFX4 EURUSD,H1: loaded successfully
+2	16:52:12.669	Expert HFX4 EURUSD,H1: removed
+2	16:52:12.685	Expert HFX4 EURUSD,H1: loaded successfully
+2	16:52:45.095	Expert HFX4 EURUSD,H1: removed
+2	16:52:47.648	Expert HFX4 EURUSD,H1: removed
+2	16:52:56.808	Expert HFX4 EURUSD,H1: loaded successfully
+2	17:04:14.031	Expert HFX4 EURUSD,H1: removed
+2	17:04:14.049	Expert HFX4 EURUSD,H1: loaded successfully
+2	17:04:46.787	Expert HFX4 EURUSD,H1: removed
+2	17:04:46.810	Expert HFX4 EURUSD,H1: loaded successfully
+2	17:05:04.990	Expert HFX4 EURUSD,H1: removed
+2	17:05:05.009	Expert HFX4 EURUSD,H1: loaded successfully
+2	17:05:47.034	Expert HFX4 EURUSD,H1: removed
+2	17:05:47.054	Expert HFX4 EURUSD,H1: loaded successfully
+2	17:39:06.315	Expert HFX4 EURUSD,H1: removed
+0	17:39:06.706	IC Markets (SC) MT4 build 1420 stopped

@@ -1,0 +1,41 @@
+0	10:34:58.784	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:34:58.784	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3429 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	10:34:58.784	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:35:02.971	Custom indicator Heiken Ashi AUDUSD,H1: loaded successfully
+0	10:35:08.087	'66686155': login on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 235.58 ms)
+0	10:35:10.681	'66686155': login datacenter on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 235.58 ms)
+0	10:35:11.879	'66686155': previous successful authorization performed from 152.59.198.23
+0	10:35:18.457	'66686155': auto connecting to a better access point NVir_DC_D05 (ping is 228.43 ms)
+0	10:35:19.321	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.43 ms)
+0	10:35:21.255	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.43 ms)
+0	10:35:22.145	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:37:23.599	Custom indicator Heiken Ashi AUDUSD,H1: removed
+2	10:37:23.615	Custom indicator Heiken Ashi AUDUSD,H1: loaded successfully
+2	11:15:38.040	Custom indicator Heiken Ashi AUDUSD,H1: removed
+0	11:15:38.441	IC Markets (SC) MT4 build 1420 stopped
+0	11:28:00.625	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	11:28:00.625	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3367 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	11:28:00.625	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	11:28:02.168	Custom indicator Heiken Ashi AUDUSD,H1: loaded successfully
+0	11:28:03.528	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.43 ms)
+0	11:28:05.744	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.43 ms)
+0	11:28:06.790	'66686155': previous successful authorization performed from 103.213.202.61
+1	12:43:47.548	'66686155': datacenter connecting failed [6]
+0	12:43:52.433	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.43 ms)
+0	12:43:54.645	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.43 ms)
+0	12:43:55.619	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:44:02.972	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 220.17 ms)
+0	12:44:03.779	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.17 ms)
+0	12:44:05.685	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.17 ms)
+0	12:44:06.568	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:04:53.577	'66686155': ping failed
+0	14:04:58.165	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.82 ms)
+0	14:05:00.080	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 228.82 ms)
+0	14:05:01.020	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:05:08.281	'66686155': ping to current access point NVir_DC_D05 is 233.58 ms
+0	16:11:17.613	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 233.58 ms)
+0	16:11:19.787	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 233.58 ms)
+0	16:11:20.701	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:11:28.160	'66686155': ping to current access point NVir_DC_D05 is 233.42 ms
+2	18:34:30.112	Custom indicator Heiken Ashi AUDUSD,H1: removed
+0	18:34:30.580	IC Markets (SC) MT4 build 1420 stopped

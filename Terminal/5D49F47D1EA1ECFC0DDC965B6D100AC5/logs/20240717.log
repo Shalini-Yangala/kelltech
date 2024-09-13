@@ -1,0 +1,17 @@
+0	15:47:01.971	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	15:47:01.971	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2266 / 8067 Mb, Disk: 0 / 53 Gb, GMT+5
+0	15:47:01.971	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:47:06.648	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+2	15:47:07.115	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+0	15:47:09.224	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.83 ms)
+0	15:47:11.489	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.83 ms)
+0	15:47:12.687	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:47:19.463	'66686155': ping to current access point LD_DC_D06 is 224.71 ms
+2	15:53:20.569	Custom indicator Alpha Trend EURUSD,H1: removed
+2	15:53:23.349	Custom indicator Alpha Trend EURUSD,H1: removed
+0	17:23:55.063	Sources recompilation started
+2	17:26:27.775	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+2	17:26:45.399	Expert AlphaTrend EURUSD,H1: loaded successfully
+2	17:27:15.024	Expert AlphaTrend EURUSD,H1: removed
+2	17:27:17.728	Custom indicator Alpha Trend EURUSD,H1: removed
+0	18:51:40.552	IC Markets (SC) MT4 build 1420 stopped

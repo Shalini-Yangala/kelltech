@@ -1,0 +1,73 @@
+1	09:47:20.770	MQL5.community: authorization failed
+0	09:47:26.773	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:47:29.245	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:47:30.499	'66686155': previous successful authorization performed from 103.213.202.61
+0	09:47:36.955	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 222.16 ms)
+0	09:47:37.861	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.16 ms)
+0	09:47:39.797	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.16 ms)
+0	09:47:40.781	'66686155': previous successful authorization performed from 103.213.202.61
+1	12:04:06.577	'66686155': ping failed
+0	12:04:09.321	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 251.13 ms)
+0	12:04:11.695	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 251.13 ms)
+0	12:04:16.223	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:04:19.976	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 229.84 ms)
+0	12:04:21.125	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 229.84 ms)
+0	12:04:23.053	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 229.84 ms)
+0	12:04:24.564	'66686155': previous successful authorization performed from 103.213.202.61
+1	13:42:37.562	'66686155': ping failed
+0	13:42:39.424	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 250.41 ms)
+0	13:42:41.576	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 250.41 ms)
+0	13:42:42.971	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:42:49.333	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 221.05 ms)
+0	13:42:50.071	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.05 ms)
+0	13:42:51.868	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.05 ms)
+0	13:42:53.022	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:38:22.546	'66686155': ping failed
+0	14:38:26.600	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 248.70 ms)
+0	14:38:28.486	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 248.70 ms)
+0	14:38:31.491	'66686155': previous successful authorization performed from 103.213.202.61
+1	15:06:20.546	'66686155': ping failed
+0	15:06:29.781	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 234.88 ms)
+0	15:06:31.679	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 234.88 ms)
+0	15:06:33.460	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:06:39.899	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 233.65 ms)
+0	15:06:40.877	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.65 ms)
+0	15:06:42.840	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.65 ms)
+0	15:06:44.000	'66686155': previous successful authorization performed from 103.213.202.61
+1	16:12:47.603	'66686155': datacenter connecting failed [6]
+0	16:12:49.023	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.65 ms)
+0	16:12:51.004	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 233.65 ms)
+0	16:12:52.163	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:12:59.789	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 257.89 ms)
+0	16:13:00.781	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 257.89 ms)
+0	16:13:03.133	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 257.89 ms)
+0	16:13:04.313	'66686155': previous successful authorization performed from 103.213.202.61
+1	16:52:58.609	'66686155': ping failed
+0	16:53:03.748	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 253.89 ms)
+0	16:53:05.666	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 253.89 ms)
+0	16:53:13.900	'66686155': previous successful authorization performed from 103.213.202.61
+0	17:01:00.273	'66686155': order #248791243 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791245 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791247 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791249 buy 2.00 GBPUSD at 1.27886 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791259 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791268 buy 2.00 GBPUSD at 1.27884 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791270 buy 2.00 GBPUSD at 1.27884 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791276 buy 2.00 GBPUSD at 1.27886 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791280 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791281 buy 2.00 GBPUSD at 1.27886 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791294 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791333 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791337 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791340 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791354 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791412 buy 2.00 GBPUSD at 1.27884 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791413 buy 2.00 GBPUSD at 1.27887 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791416 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791418 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791419 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791420 buy 2.00 GBPUSD at 1.27883 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791426 buy 2.00 GBPUSD at 1.27885 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791431 buy 2.00 GBPUSD at 1.27884 closed due stop-loss at price 1.27706
+0	17:01:00.273	'66686155': order #248791433 buy 2.00 GBPUSD at 1.27884 closed due stop-loss at price 1.27706
+1	20:05:17.598	'66686155': ping failed

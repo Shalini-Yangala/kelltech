@@ -1,0 +1,13 @@
+0	10:54:30.966	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:54:30.966	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2965 / 8067 Mb, Disk: 0 / 53 Gb, GMT+5
+0	10:54:30.966	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:54:38.548	Expert  TrailV_EA EURUSD,H1: loaded successfully
+0	10:54:40.840	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 242.18 ms)
+0	10:54:43.238	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 242.18 ms)
+0	10:54:44.226	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:55:09.298	'66686155': auto connecting to a better access point OH_DC_D06 (ping is 258.06 ms)
+0	10:55:10.656	'66686155': login on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 258.06 ms)
+0	10:55:12.735	'66686155': login datacenter on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 258.06 ms)
+0	10:55:13.619	'66686155': previous successful authorization performed from 103.213.202.61
+2	11:07:55.315	Expert  TrailV_EA EURUSD,H1: removed
+0	11:14:43.651	IC Markets (SC) MT4 build 1420 stopped

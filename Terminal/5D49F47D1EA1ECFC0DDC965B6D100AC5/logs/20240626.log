@@ -1,0 +1,7 @@
+0	10:36:36.023	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 228.33 ms)
+0	10:36:37.904	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.33 ms)
+0	10:36:40.907	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.33 ms)
+0	10:36:43.269	'66686155': previous successful authorization performed from 49.37.145.57
+2	10:55:17.683	Expert CrossTrade EURUSD,M15: removed
+2	10:55:17.698	Expert first1 EURUSD,H1: removed
+0	10:55:19.302	IC Markets (SC) MT4 build 1420 stopped

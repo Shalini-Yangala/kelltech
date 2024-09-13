@@ -1,0 +1,494 @@
+1	10:04:13.501	'66686155': connect failed [No connection]
+1	10:04:14.496	MQL5.community: authorization failed
+0	10:04:19.598	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 250.20 ms)
+0	10:04:21.729	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 250.20 ms)
+0	10:04:24.561	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:04:30.125	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 231.09 ms)
+0	10:04:31.160	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 231.09 ms)
+0	10:04:33.084	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 231.09 ms)
+0	10:04:34.381	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:04:49.219	Expert Rectangular EURUSD,H1: removed
+2	10:04:49.312	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:08:59.778	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:20:58.195	Expert Rectangular EURUSD,H1: removed
+2	10:20:58.210	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:20:58.226	Expert Rectangular EURUSD,H1: removed
+2	10:20:58.242	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:21:05.022	Expert Rectangular EURUSD,H1: removed
+2	10:21:07.055	Expert Rectangular EURUSD,H1: removed
+2	10:21:22.072	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:24:20.873	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	10:26:21.432	Custom indicator Trend_Line EURUSD,H1: removed
+2	10:26:21.447	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	10:27:26.183	Custom indicator Trend_Line EURUSD,H1: removed
+2	10:27:26.198	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	10:27:36.435	Custom indicator Trend_Line AUDCHF,H1: loaded successfully
+2	10:28:23.835	Expert Rectangular EURUSD,H1: removed
+2	10:28:23.851	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:28:38.955	Expert Triangle Pattern EURUSD,H1: removed
+2	10:28:41.865	Custom indicator Trend_Line EURUSD,H1: removed
+2	10:28:44.166	Expert Rectangular EURUSD,H1: removed
+2	10:28:55.951	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:30:21.023	Expert Rectangular EURUSD,H1: removed
+2	10:30:21.039	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:30:35.102	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:31:04.424	Expert Rectangular EURUSD,H1: removed
+2	10:31:04.446	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:31:04.450	Expert Rectangular EURUSD,H1: removed
+2	10:31:04.468	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:31:24.872	Expert Rectangular AUDCHF,H1: loaded successfully
+2	10:33:48.583	Expert Pennant AUDCHF,H1: loaded successfully
+2	10:38:14.623	Expert Pennant EURUSD,H1: loaded successfully
+2	10:44:02.132	Expert Pennant AUDCHF,H1: removed
+2	10:44:02.148	Expert Pennant AUDCHF,H1: loaded successfully
+2	10:44:02.148	Expert Pennant EURUSD,H1: removed
+2	10:44:02.163	Expert Pennant EURUSD,H1: loaded successfully
+2	10:45:41.507	Expert Rectangular EURUSD,H1: removed
+2	10:45:41.523	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:45:41.523	Expert Rectangular EURUSD,H1: removed
+2	10:45:41.539	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:45:41.554	Expert Rectangular AUDCHF,H1: removed
+2	10:45:41.570	Expert Rectangular AUDCHF,H1: loaded successfully
+2	10:45:46.398	Expert Rectangular EURUSD,H1: removed
+2	10:45:46.413	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:45:46.413	Expert Rectangular EURUSD,H1: removed
+2	10:45:46.445	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:45:46.445	Expert Rectangular AUDCHF,H1: removed
+2	10:45:46.460	Expert Rectangular AUDCHF,H1: loaded successfully
+2	10:45:54.366	Expert Pennant AUDCHF,H1: removed
+2	10:45:54.397	Expert Pennant AUDCHF,H1: loaded successfully
+2	10:45:54.397	Expert Pennant EURUSD,H1: removed
+2	10:45:54.413	Expert Pennant EURUSD,H1: loaded successfully
+2	10:46:08.023	Expert Pennant EURUSD,H1: removed
+2	10:46:10.554	Expert Pennant AUDCHF,H1: removed
+2	10:46:15.569	Expert Rectangular AUDCHF,H1: removed
+2	10:46:18.038	Expert Rectangular EURUSD,H1: removed
+2	10:46:20.319	Expert Rectangular EURUSD,H1: removed
+2	10:46:31.787	Custom indicator Trend_Line AUDCHF,H1: removed
+2	10:46:34.451	Expert Rectangular EURUSD,H1: loaded successfully
+2	10:48:20.537	Expert Pennant EURUSD,H1: loaded successfully
+2	10:52:52.793	Expert Pennant EURUSD,H1: removed
+2	10:52:52.808	Expert Pennant EURUSD,H1: loaded successfully
+2	10:53:53.564	Expert Pennant EURUSD,H1: removed
+2	10:53:53.580	Expert Pennant EURUSD,H1: loaded successfully
+2	10:54:02.850	Expert Pennant EURUSD,H1: loaded successfully
+2	10:57:39.721	Expert Pennant EURUSD,H1: removed
+2	10:57:39.737	Expert Pennant EURUSD,H1: loaded successfully
+2	10:57:39.752	Expert Pennant EURUSD,H1: removed
+2	10:57:39.768	Expert Pennant EURUSD,H1: loaded successfully
+2	10:57:42.034	Expert Pennant EURUSD,H1: removed
+2	10:57:42.049	Expert Pennant EURUSD,H1: loaded successfully
+2	10:57:42.049	Expert Pennant EURUSD,H1: removed
+2	10:57:42.080	Expert Pennant EURUSD,H1: loaded successfully
+2	10:57:52.548	Expert Pennant EURUSD,H1: loaded successfully
+2	11:00:28.029	Expert Pennant EURUSD,H1: removed
+2	11:00:28.045	Expert Pennant EURUSD,H1: loaded successfully
+2	11:00:28.045	Expert Pennant EURUSD,H1: removed
+2	11:00:28.076	Expert Pennant EURUSD,H1: loaded successfully
+2	11:00:28.076	Expert Pennant EURUSD,H1: removed
+2	11:00:28.092	Expert Pennant EURUSD,H1: loaded successfully
+2	11:00:43.956	Expert Pennant EURUSD,H1: removed
+2	11:00:46.223	Expert Pennant EURUSD,H1: removed
+2	11:00:48.641	Expert Pennant EURUSD,H1: removed
+2	11:00:50.980	Expert Rectangular EURUSD,H1: removed
+2	11:00:57.088	Expert Pennant EURUSD,H1: loaded successfully
+2	11:10:30.674	Expert Pennant EURUSD,H1: removed
+2	11:10:30.689	Expert Pennant EURUSD,H1: loaded successfully
+2	11:10:42.469	Expert Pennant EURUSD,H1: loaded successfully
+2	11:22:32.005	Expert Pennant EURUSD,H1: removed
+2	11:22:32.036	Expert Pennant EURUSD,H1: loaded successfully
+2	11:22:32.036	Expert Pennant EURUSD,H1: removed
+2	11:22:32.052	Expert Pennant EURUSD,H1: loaded successfully
+2	11:22:42.523	Expert Pennant EURUSD,H1: loaded successfully
+2	11:23:29.297	Expert Pennant EURUSD,H1: removed
+2	11:23:29.328	Expert Pennant EURUSD,H1: loaded successfully
+2	11:23:29.328	Expert Pennant EURUSD,H1: removed
+2	11:23:29.344	Expert Pennant EURUSD,H1: loaded successfully
+2	11:23:29.344	Expert Pennant EURUSD,H1: removed
+2	11:23:29.359	Expert Pennant EURUSD,H1: loaded successfully
+2	11:23:35.403	Expert Pennant EURUSD,H1: removed
+2	11:23:37.960	Expert Pennant EURUSD,H1: removed
+2	11:23:45.309	Expert Pennant EURUSD,H1: loaded successfully
+2	11:26:52.181	Expert Pennant EURUSD,H1: removed
+2	11:26:52.212	Expert Pennant EURUSD,H1: loaded successfully
+2	11:26:52.228	Expert Pennant EURUSD,H1: removed
+2	11:26:52.244	Expert Pennant EURUSD,H1: loaded successfully
+2	11:27:02.316	Expert Pennant EURUSD,H1: loaded successfully
+2	11:27:30.174	Expert Pennant EURUSD,H1: removed
+2	11:27:30.206	Expert Pennant EURUSD,H1: loaded successfully
+2	11:27:30.206	Expert Pennant EURUSD,H1: removed
+2	11:27:30.221	Expert Pennant EURUSD,H1: loaded successfully
+2	11:27:30.221	Expert Pennant EURUSD,H1: removed
+2	11:27:30.237	Expert Pennant EURUSD,H1: loaded successfully
+2	11:27:41.535	Expert Pennant EURUSD,H1: removed
+2	11:27:43.515	Expert Pennant EURUSD,H1: removed
+2	11:27:50.218	Expert Pennant EURUSD,H1: loaded successfully
+2	11:40:38.481	Expert Pennant EURUSD,H1: removed
+2	11:40:51.719	Expert Wedges EURUSD,H1: loaded successfully
+2	11:41:20.441	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	11:41:46.023	Expert Head&Shoulder EURUSD,H1: loaded successfully
+2	12:39:02.582	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	12:46:50.279	Expert Triple Top and Bottom EURUSD,H1: removed
+2	12:46:50.309	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+1	14:48:22.582	'66686155': ping failed
+0	14:48:30.850	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 252.43 ms)
+0	14:48:33.231	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 252.43 ms)
+0	14:48:34.509	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:48:41.341	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 234.76 ms)
+0	14:48:42.242	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 234.76 ms)
+0	14:48:44.084	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 234.76 ms)
+0	14:48:45.217	'66686155': previous successful authorization performed from 103.213.202.61
+1	14:54:12.746	'66686155': datacenter connecting failed [6]
+0	14:55:15.295	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.38 ms)
+0	14:55:17.402	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.38 ms)
+0	14:55:18.278	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:39:48.860	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:39:48.880	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:39:58.703	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:42:53.849	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:42:53.879	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:42:53.883	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:42:53.905	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:43:05.432	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:54:29.904	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:54:29.923	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:54:29.927	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:54:29.945	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:54:29.949	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:54:29.970	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	15:54:48.506	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+0	15:55:09.736	'66686155': close order #248114012 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 at price 0.00000
+0	15:55:10.204	'66686155': order #248114012 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 closed at price 1.08128
+0	15:55:17.745	'66686155': close order #248114013 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 at price 0.00000
+0	15:55:18.247	'66686155': order #248114013 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 closed at price 1.08131
+0	15:55:28.499	'66686155': close order #248114023 sell 0.10 EURUSD at 1.08110 sl: 1.08162 tp: 1.08012 at price 0.00000
+0	15:55:28.989	'66686155': order #248114023 sell 0.10 EURUSD at 1.08110 sl: 1.08162 tp: 1.08012 closed at price 1.08135
+0	15:55:42.318	'66686155': close order #248114014 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 at price 0.00000
+0	15:55:42.868	'66686155': order #248114014 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 closed at price 1.08132
+0	15:55:56.519	'66686155': close order #248114015 sell 0.10 EURUSD at 1.08111 sl: 1.08160 tp: 1.08010 at price 0.00000
+0	15:55:56.975	'66686155': order #248114015 sell 0.10 EURUSD at 1.08111 sl: 1.08160 tp: 1.08010 closed at price 1.08132
+0	15:56:02.222	'66686155': close order #248114016 sell 0.10 EURUSD at 1.08111 sl: 1.08161 tp: 1.08011 at price 0.00000
+0	15:56:02.730	'66686155': order #248114016 sell 0.10 EURUSD at 1.08111 sl: 1.08161 tp: 1.08011 closed at price 1.08135
+0	15:56:10.276	'66686155': close order #248114021 sell 0.10 EURUSD at 1.08111 sl: 1.08162 tp: 1.08012 at price 0.00000
+0	15:56:10.789	'66686155': order #248114021 sell 0.10 EURUSD at 1.08111 sl: 1.08162 tp: 1.08012 closed at price 1.08131
+0	15:56:15.436	'66686155': close order #248114017 sell 0.10 EURUSD at 1.08111 sl: 1.08161 tp: 1.08011 at price 0.00000
+0	15:56:15.893	'66686155': order #248114017 sell 0.10 EURUSD at 1.08111 sl: 1.08161 tp: 1.08011 closed at price 1.08132
+0	15:56:20.444	'66686155': close order #248114036 sell 0.10 EURUSD at 1.08111 sl: 1.08161 tp: 1.08011 at price 0.00000
+0	15:56:20.981	'66686155': order #248114036 sell 0.10 EURUSD at 1.08111 sl: 1.08161 tp: 1.08011 closed at price 1.08130
+2	15:56:47.760	Expert Wedges EURUSD,H1: removed
+2	15:56:49.851	Expert Triangle Pattern EURUSD,H1: removed
+2	15:56:53.459	Expert Pennant EURUSD,H1: removed
+2	15:56:57.937	Expert Head&Shoulder EURUSD,H1: removed
+2	15:57:00.001	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:57:02.634	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:57:04.462	Expert Triple Top and Bottom EURUSD,H1: removed
+2	15:57:13.638	Expert Triple Top and Bottom EURUSD,H1: removed
+0	15:57:28.688	'66686155': close order #248114026 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 at price 0.00000
+0	15:57:29.204	'66686155': order #248114026 sell 0.10 EURUSD at 1.08110 sl: 1.08160 tp: 1.08010 closed at price 1.08137
+0	16:03:26.713	'66686155': order #248114027 sell 0.10 EURUSD at 1.08110 closed due stop-loss at price 1.08160
+0	16:03:26.719	'66686155': order #248114058 sell 0.10 EURUSD at 1.08110 closed due stop-loss at price 1.08160
+0	16:03:26.719	'66686155': order #248114060 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08160
+0	16:03:26.719	'66686155': order #248114205 sell 0.10 EURUSD at 1.08110 closed due stop-loss at price 1.08160
+0	16:03:26.719	'66686155': order #248114206 sell 0.10 EURUSD at 1.08110 closed due stop-loss at price 1.08160
+0	16:03:26.719	'66686155': order #248114207 sell 0.10 EURUSD at 1.08110 closed due stop-loss at price 1.08160
+0	16:03:26.719	'66686155': order #248114208 sell 0.10 EURUSD at 1.08110 closed due stop-loss at price 1.08160
+0	16:03:29.535	'66686155': order #248114034 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114062 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114064 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114129 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114132 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114160 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114161 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114162 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114163 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114165 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114166 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114167 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114168 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114172 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114173 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114178 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114182 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114197 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114198 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114209 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114210 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114214 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114215 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114222 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114223 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114239 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114241 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114243 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:29.535	'66686155': order #248114245 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08161
+0	16:03:47.275	'66686155': order #248114123 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114126 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114136 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114137 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114139 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114142 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114145 sell 0.10 EURUSD at 1.08113 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114147 sell 0.10 EURUSD at 1.08113 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114153 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114154 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.275	'66686155': order #248114169 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114170 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114174 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114176 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114184 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114186 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114188 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114189 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114212 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114213 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114216 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114217 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114224 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114225 sell 0.10 EURUSD at 1.08112 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114229 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:03:47.285	'66686155': order #248114236 sell 0.10 EURUSD at 1.08111 closed due stop-loss at price 1.08162
+0	16:04:01.286	'66686155': order #248114106 sell 0.10 EURUSD at 1.08113 closed due stop-loss at price 1.08163
+0	16:04:01.286	'66686155': order #248114150 sell 0.10 EURUSD at 1.08113 closed due stop-loss at price 1.08163
+2	16:13:01.625	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:13:52.373	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:13:52.418	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:14:03.975	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:16:16.528	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:16:16.555	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:16:16.555	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:16:16.577	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:20:37.135	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:20:37.167	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:20:37.176	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:20:37.197	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+0	16:20:44.726	'66686155': close order #248114382 sell 0.10 USDCHF at 0.90640 sl: 0.90688 tp: 0.90538 at price 0.00000
+0	16:20:45.286	'66686155': order #248114382 sell 0.10 USDCHF at 0.90640 sl: 0.90688 tp: 0.90538 closed at price 0.90649
+2	16:20:49.131	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:20:50.867	Expert Double Top and Bottom EURUSD,H1: removed
+0	16:21:08.986	'66686155': close order #248114383 sell 0.10 USDCHF at 0.90640 sl: 0.90688 tp: 0.90538 at price 0.00000
+0	16:21:09.505	'66686155': order #248114383 sell 0.10 USDCHF at 0.90640 sl: 0.90688 tp: 0.90538 closed at price 0.90648
+0	16:21:29.666	'66686155': close order #248114385 sell 0.10 USDCHF at 0.90641 sl: 0.90690 tp: 0.90540 at price 0.00000
+0	16:21:30.244	'66686155': order #248114385 sell 0.10 USDCHF at 0.90641 sl: 0.90690 tp: 0.90540 closed at price 0.90643
+0	16:21:35.267	'66686155': close order #248114386 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 at price 0.00000
+0	16:21:35.875	'66686155': order #248114386 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 closed at price 0.90639
+0	16:21:40.846	'66686155': close order #248114387 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 at price 0.00000
+0	16:21:41.355	'66686155': order #248114387 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 closed at price 0.90639
+0	16:21:46.318	'66686155': close order #248114388 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 at price 0.00000
+0	16:21:46.936	'66686155': order #248114388 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 closed at price 0.90639
+0	16:21:52.076	'66686155': close order #248114392 sell 0.10 USDCHF at 0.90641 sl: 0.90691 tp: 0.90541 at price 0.00000
+0	16:21:52.594	'66686155': order #248114392 sell 0.10 USDCHF at 0.90641 sl: 0.90691 tp: 0.90541 closed at price 0.90635
+0	16:21:58.075	'66686155': close order #248114403 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:21:58.608	'66686155': order #248114403 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 closed at price 0.90634
+0	16:22:04.074	'66686155': close order #248114400 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:22:04.527	'66686155': order #248114400 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 closed at price 0.90634
+0	16:22:09.403	'66686155': close order #248114398 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 at price 0.00000
+0	16:22:09.994	'66686155': order #248114398 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 closed at price 0.90631
+0	16:22:18.716	'66686155': close order #248114396 sell 0.10 USDCHF at 0.90638 sl: 0.90691 tp: 0.90541 at price 0.00000
+0	16:22:19.174	'66686155': order #248114396 sell 0.10 USDCHF at 0.90638 sl: 0.90691 tp: 0.90541 closed at price 0.90628
+0	16:22:28.668	'66686155': close order #248114397 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 at price 0.00000
+0	16:22:29.225	'66686155': order #248114397 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 closed at price 0.90625
+0	16:22:35.864	'66686155': close order #248114405 sell 0.10 USDCHF at 0.90638 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:22:36.355	'66686155': order #248114405 sell 0.10 USDCHF at 0.90638 sl: 0.90689 tp: 0.90539 closed at price 0.90630
+0	16:22:42.705	'66686155': close order #248114404 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:22:43.354	'66686155': order #248114404 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 closed at price 0.90631
+0	16:22:53.163	'66686155': close order #248117386 sell 0.10 EURUSD at 1.08185 sl: 1.08233 tp: 1.08083 at price 0.00000
+0	16:22:53.696	'66686155': order #248117386 sell 0.10 EURUSD at 1.08185 sl: 1.08233 tp: 1.08083 closed at price 1.08182
+0	16:23:00.018	'66686155': close order #248117196 sell 0.10 GBPUSD at 1.27167 sl: 1.27217 tp: 1.27067 at price 0.00000
+0	16:23:00.605	'66686155': order #248117196 sell 0.10 GBPUSD at 1.27167 sl: 1.27217 tp: 1.27067 closed at price 1.27145
+0	16:23:05.058	IC Markets (SC) MT4 build 1415 stopped
+0	16:23:15.988	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	16:23:15.988	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3735 / 8067 Mb, Disk: 4 / 53 Gb, GMT+5
+0	16:23:15.988	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	16:23:20.518	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:23:20.518	LiveUpdate: updater - start admin updater
+1	16:23:25.050	LiveUpdate: updater - elevated updater start failed [1223]
+0	16:23:25.050	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	16:23:21.577	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.38 ms)
+0	16:23:25.097	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 311.38 ms)
+0	16:23:26.448	'66686155': previous successful authorization performed from 103.213.202.61
+0	16:23:41.689	'66686155': auto connecting to a better access point NVir_DC_D05 (ping is 234.29 ms)
+0	16:23:42.523	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 234.29 ms)
+0	16:23:45.198	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 234.29 ms)
+0	16:23:46.327	'66686155': previous successful authorization performed from 103.213.202.61
+2	16:24:13.286	Expert Double Top and Bottom AUDCHF,H1: loaded successfully
+0	16:24:51.455	'66686155': close order #248114407 sell 0.10 USDCHF at 0.90638 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:24:51.887	'66686155': order #248114407 sell 0.10 USDCHF at 0.90638 sl: 0.90689 tp: 0.90539 closed at price 0.90668
+0	16:24:57.156	'66686155': close order #248114414 sell 0.10 USDCHF at 0.90642 sl: 0.90690 tp: 0.90540 at price 0.00000
+0	16:24:57.576	'66686155': order #248114414 sell 0.10 USDCHF at 0.90642 sl: 0.90690 tp: 0.90540 closed at price 0.90671
+0	16:25:02.328	'66686155': close order #248114411 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:25:02.735	'66686155': order #248114411 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 closed at price 0.90665
+0	16:25:07.396	'66686155': close order #248114421 sell 0.10 USDCHF at 0.90644 sl: 0.90692 tp: 0.90542 at price 0.00000
+0	16:25:07.945	'66686155': order #248114421 sell 0.10 USDCHF at 0.90644 sl: 0.90692 tp: 0.90542 closed at price 0.90673
+0	16:25:12.388	'66686155': close order #248114413 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 at price 0.00000
+0	16:25:12.856	'66686155': order #248114413 sell 0.10 USDCHF at 0.90640 sl: 0.90690 tp: 0.90540 closed at price 0.90671
+0	16:25:19.926	'66686155': close order #248114408 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 at price 0.00000
+0	16:25:20.348	'66686155': order #248114408 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 closed at price 0.90672
+0	16:25:25.146	'66686155': close order #248114416 sell 0.10 USDCHF at 0.90640 sl: 0.90692 tp: 0.90542 at price 0.00000
+0	16:25:25.563	'66686155': order #248114416 sell 0.10 USDCHF at 0.90640 sl: 0.90692 tp: 0.90542 closed at price 0.90671
+0	16:25:30.766	'66686155': close order #248114429 sell 0.10 USDCHF at 0.90645 sl: 0.90694 tp: 0.90544 at price 0.00000
+0	16:25:31.175	'66686155': order #248114429 sell 0.10 USDCHF at 0.90645 sl: 0.90694 tp: 0.90544 closed at price 0.90672
+0	16:25:35.671	'66686155': close order #248114410 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 at price 0.00000
+0	16:25:36.476	'66686155': order #248114410 sell 0.10 USDCHF at 0.90639 sl: 0.90689 tp: 0.90539 closed at price 0.90671
+0	16:25:41.834	'66686155': close order #248114409 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 at price 0.00000
+0	16:25:42.235	'66686155': order #248114409 sell 0.10 USDCHF at 0.90639 sl: 0.90688 tp: 0.90538 closed at price 0.90669
+0	16:25:46.855	'66686155': close order #248114430 sell 0.10 USDCHF at 0.90645 sl: 0.90694 tp: 0.90544 at price 0.00000
+0	16:25:47.268	'66686155': order #248114430 sell 0.10 USDCHF at 0.90645 sl: 0.90694 tp: 0.90544 closed at price 0.90669
+0	16:25:52.285	'66686155': close order #248117034 sell 0.10 EURUSD at 1.08181 sl: 1.08231 tp: 1.08081 at price 0.00000
+0	16:25:52.715	'66686155': order #248117034 sell 0.10 EURUSD at 1.08181 sl: 1.08231 tp: 1.08081 closed at price 1.08175
+0	16:25:56.985	'66686155': close order #248117026 sell 0.10 EURUSD at 1.08179 sl: 1.08229 tp: 1.08079 at price 0.00000
+0	16:25:57.386	'66686155': order #248117026 sell 0.10 EURUSD at 1.08179 sl: 1.08229 tp: 1.08079 closed at price 1.08175
+0	16:26:01.874	'66686155': close order #248117027 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 at price 0.00000
+0	16:26:02.327	'66686155': order #248117027 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 closed at price 1.08178
+0	16:26:07.194	'66686155': close order #248117035 sell 0.10 EURUSD at 1.08182 sl: 1.08232 tp: 1.08082 at price 0.00000
+0	16:26:07.609	'66686155': order #248117035 sell 0.10 EURUSD at 1.08182 sl: 1.08232 tp: 1.08082 closed at price 1.08178
+0	16:26:12.796	'66686155': close order #248117037 sell 0.10 EURUSD at 1.08181 sl: 1.08231 tp: 1.08081 at price 0.00000
+0	16:26:13.194	'66686155': order #248117037 sell 0.10 EURUSD at 1.08181 sl: 1.08231 tp: 1.08081 closed at price 1.08180
+0	16:26:17.985	'66686155': close order #248117038 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 at price 0.00000
+0	16:26:18.394	'66686155': order #248117038 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 closed at price 1.08185
+0	16:26:22.626	'66686155': close order #248117040 sell 0.10 EURUSD at 1.08180 sl: 1.08231 tp: 1.08081 at price 0.00000
+0	16:26:23.058	'66686155': order #248117040 sell 0.10 EURUSD at 1.08180 sl: 1.08231 tp: 1.08081 closed at price 1.08187
+0	16:26:27.049	'66686155': close order #248117049 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 at price 0.00000
+0	16:26:27.386	'66686155': order #248117049 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 closed at price 1.08187
+0	16:26:31.662	'66686155': close order #248117054 sell 0.10 EURUSD at 1.08186 sl: 1.08234 tp: 1.08084 at price 0.00000
+0	16:26:32.114	'66686155': order #248117054 sell 0.10 EURUSD at 1.08186 sl: 1.08234 tp: 1.08084 closed at price 1.08187
+0	16:26:36.818	'66686155': close order #248117050 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 at price 0.00000
+0	16:26:37.276	'66686155': order #248117050 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 closed at price 1.08187
+0	16:26:41.308	'66686155': close order #248117055 sell 0.10 EURUSD at 1.08186 sl: 1.08236 tp: 1.08086 at price 0.00000
+0	16:26:41.743	'66686155': order #248117055 sell 0.10 EURUSD at 1.08186 sl: 1.08236 tp: 1.08086 closed at price 1.08187
+0	16:26:47.123	'66686155': close order #248117041 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 at price 0.00000
+0	16:26:47.576	'66686155': order #248117041 sell 0.10 EURUSD at 1.08180 sl: 1.08230 tp: 1.08080 closed at price 1.08187
+0	16:26:52.066	'66686155': close order #248117057 sell 0.10 EURUSD at 1.08190 sl: 1.08236 tp: 1.08086 at price 0.00000
+0	16:26:52.504	'66686155': order #248117057 sell 0.10 EURUSD at 1.08190 sl: 1.08236 tp: 1.08086 closed at price 1.08181
+0	16:26:57.877	'66686155': close order #248117045 sell 0.10 EURUSD at 1.08181 sl: 1.08231 tp: 1.08081 at price 0.00000
+0	16:26:58.326	'66686155': order #248117045 sell 0.10 EURUSD at 1.08181 sl: 1.08231 tp: 1.08081 closed at price 1.08182
+0	16:27:05.047	'66686155': close order #248118010 sell 0.10 AUDUSD at 0.66171 sl: 0.66221 tp: 0.66071 at price 0.00000
+0	16:27:05.493	'66686155': order #248118010 sell 0.10 AUDUSD at 0.66171 sl: 0.66221 tp: 0.66071 closed at price 0.66169
+0	16:27:16.717	'66686155': close order #248117915 sell 0.10 AUDUSD at 0.66169 sl: 0.66219 tp: 0.66069 at price 0.00000
+0	16:27:17.118	'66686155': order #248117915 sell 0.10 AUDUSD at 0.66169 sl: 0.66219 tp: 0.66069 closed at price 0.66169
+0	16:27:21.808	'66686155': close order #248118000 sell 0.10 AUDUSD at 0.66168 sl: 0.66218 tp: 0.66068 at price 0.00000
+0	16:27:22.294	'66686155': order #248118000 sell 0.10 AUDUSD at 0.66168 sl: 0.66218 tp: 0.66068 closed at price 0.66169
+2	16:27:41.798	Expert Double Top and Bottom AUDCHF,H1: removed
+0	16:27:46.508	'66686155': close order #248118004 sell 0.10 AUDUSD at 0.66169 sl: 0.66218 tp: 0.66068 at price 0.00000
+0	16:27:46.934	'66686155': order #248118004 sell 0.10 AUDUSD at 0.66169 sl: 0.66218 tp: 0.66068 closed at price 0.66174
+0	16:27:58.666	'66686155': close order #248117052 sell 0.10 EURUSD at 1.08184 sl: 1.08231 tp: 1.08081 at price 0.00000
+0	16:27:59.136	'66686155': order #248117052 sell 0.10 EURUSD at 1.08184 sl: 1.08231 tp: 1.08081 closed at price 1.08179
+0	16:28:03.755	'66686155': close order #248117058 sell 0.10 EURUSD at 1.08190 sl: 1.08240 tp: 1.08090 at price 0.00000
+0	16:28:04.178	'66686155': order #248117058 sell 0.10 EURUSD at 1.08190 sl: 1.08240 tp: 1.08090 closed at price 1.08175
+0	16:28:09.244	'66686155': close order #248117060 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:28:09.705	'66686155': order #248117060 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 closed at price 1.08175
+0	16:28:14.357	'66686155': close order #248117061 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:28:14.768	'66686155': order #248117061 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 closed at price 1.08174
+0	16:28:22.497	'66686155': close order #248117063 sell 0.10 EURUSD at 1.08190 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:28:22.963	'66686155': order #248117063 sell 0.10 EURUSD at 1.08190 sl: 1.08241 tp: 1.08091 closed at price 1.08174
+0	16:28:28.946	'66686155': close order #248117064 sell 0.10 EURUSD at 1.08190 sl: 1.08240 tp: 1.08090 at price 0.00000
+0	16:28:29.376	'66686155': order #248117064 sell 0.10 EURUSD at 1.08190 sl: 1.08240 tp: 1.08090 closed at price 1.08176
+0	16:28:36.678	'66686155': close order #248117067 sell 0.10 EURUSD at 1.08190 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:28:37.078	'66686155': order #248117067 sell 0.10 EURUSD at 1.08190 sl: 1.08241 tp: 1.08091 closed at price 1.08176
+0	16:28:42.346	'66686155': close order #248117069 sell 0.10 EURUSD at 1.08191 sl: 1.08240 tp: 1.08090 at price 0.00000
+0	16:28:42.745	'66686155': order #248117069 sell 0.10 EURUSD at 1.08191 sl: 1.08240 tp: 1.08090 closed at price 1.08177
+0	16:28:47.046	'66686155': close order #248117070 sell 0.10 EURUSD at 1.08190 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:28:47.484	'66686155': order #248117070 sell 0.10 EURUSD at 1.08190 sl: 1.08241 tp: 1.08091 closed at price 1.08177
+0	16:28:52.018	'66686155': close order #248117071 sell 0.10 EURUSD at 1.08191 sl: 1.08240 tp: 1.08090 at price 0.00000
+0	16:28:52.413	'66686155': order #248117071 sell 0.10 EURUSD at 1.08191 sl: 1.08240 tp: 1.08090 closed at price 1.08179
+0	16:28:57.868	'66686155': close order #248117072 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:28:58.276	'66686155': order #248117072 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 closed at price 1.08180
+0	16:29:02.585	'66686155': close order #248117075 sell 0.10 EURUSD at 1.08191 sl: 1.08240 tp: 1.08090 at price 0.00000
+0	16:29:03.055	'66686155': order #248117075 sell 0.10 EURUSD at 1.08191 sl: 1.08240 tp: 1.08090 closed at price 1.08178
+0	16:29:07.846	'66686155': close order #248117077 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:29:08.287	'66686155': order #248117077 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 closed at price 1.08174
+0	16:29:14.969	'66686155': close order #248117079 sell 0.10 EURUSD at 1.08190 sl: 1.08242 tp: 1.08092 at price 0.00000
+0	16:29:15.405	'66686155': order #248117079 sell 0.10 EURUSD at 1.08190 sl: 1.08242 tp: 1.08092 closed at price 1.08174
+0	16:29:19.257	'66686155': close order #248117080 sell 0.10 EURUSD at 1.08190 sl: 1.08240 tp: 1.08090 at price 0.00000
+0	16:29:19.705	'66686155': order #248117080 sell 0.10 EURUSD at 1.08190 sl: 1.08240 tp: 1.08090 closed at price 1.08175
+0	16:29:24.663	'66686155': close order #248117114 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 at price 0.00000
+0	16:29:25.156	'66686155': order #248117114 sell 0.10 EURUSD at 1.08191 sl: 1.08241 tp: 1.08091 closed at price 1.08180
+0	16:29:38.486	'66686155': close order #248118422 sell 0.10 AUDUSD at 0.66174 sl: 0.66224 tp: 0.66074 at price 0.00000
+0	16:29:38.894	'66686155': order #248118422 sell 0.10 AUDUSD at 0.66174 sl: 0.66224 tp: 0.66074 closed at price 0.66177
+0	16:30:11.648	'66686155': close order #248118447 sell 0.10 AUDUSD at 0.66175 sl: 0.66225 tp: 0.66075 at price 0.00000
+0	16:30:12.077	'66686155': order #248118447 sell 0.10 AUDUSD at 0.66175 sl: 0.66225 tp: 0.66075 closed at price 0.66181
+0	16:30:19.518	'66686155': close order #248118401 sell 0.10 AUDUSD at 0.66176 sl: 0.66227 tp: 0.66077 at price 0.00000
+0	16:30:19.963	'66686155': order #248118401 sell 0.10 AUDUSD at 0.66176 sl: 0.66227 tp: 0.66077 closed at price 0.66181
+2	16:30:27.528	Expert Double Top and Bottom AUDCHF,H1: loaded successfully
+2	16:34:05.428	Expert Double Top and Bottom AUDCHF,H1: removed
+2	16:34:05.448	Expert Double Top and Bottom AUDCHF,H1: loaded successfully
+2	16:34:15.736	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:39:24.208	Expert Double Top and Bottom AUDCHF,H1: removed
+2	16:39:24.228	Expert Double Top and Bottom AUDCHF,H1: loaded successfully
+2	16:39:24.235	Expert Double Top and Bottom EURUSD,H1: removed
+2	16:39:24.256	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+2	16:39:34.085	Expert Double Top and Bottom EURUSD,H1: loaded successfully
+0	16:40:49.006	'66686155': modify order #248117123 sell 0.10 EURUSD at 1.08192 sl: 1.08243 tp: 1.08093 -> sl: 1.08240 tp: 1.08093
+0	16:40:49.407	'66686155': order #248117123 sell 0.10 EURUSD at 1.08192 was modified -> sl: 1.08240 tp: 1.08093
+0	16:40:59.744	'66686155': close order #248118454 sell 0.10 AUDUSD at 0.66176 sl: 0.66225 tp: 0.66075 at price 0.00000
+0	16:41:00.206	'66686155': order #248118454 sell 0.10 AUDUSD at 0.66176 sl: 0.66225 tp: 0.66075 closed at price 0.66161
+0	16:41:05.144	'66686155': close order #248119498 sell 0.10 AUDUSD at 0.66182 sl: 0.66232 tp: 0.66082 at price 0.00000
+0	16:41:05.535	'66686155': order #248119498 sell 0.10 AUDUSD at 0.66182 sl: 0.66232 tp: 0.66082 closed at price 0.66159
+0	16:49:29.757	'66686155': close order #248118375 sell 0.10 AUDUSD at 0.66178 sl: 0.66227 tp: 0.66077 at price 0.00000
+0	16:49:30.127	'66686155': order #248118375 sell 0.10 AUDUSD at 0.66178 sl: 0.66227 tp: 0.66077 closed at price 0.66173
+0	16:49:35.328	'66686155': close order #248119438 sell 0.10 AUDUSD at 0.66181 sl: 0.66230 tp: 0.66080 at price 0.00000
+0	16:49:35.744	'66686155': order #248119438 sell 0.10 AUDUSD at 0.66181 sl: 0.66230 tp: 0.66080 closed at price 0.66176
+0	16:58:19.838	'66686155': order #248117829 sell 0.10 AUDUSD at 0.66166 closed due stop-loss at price 0.66216
+0	16:58:23.407	'66686155': order #248117826 sell 0.10 AUDUSD at 0.66167 closed due stop-loss at price 0.66217
+0	16:58:23.407	'66686155': order #248117828 sell 0.10 AUDUSD at 0.66167 closed due stop-loss at price 0.66217
+0	17:00:24.873	'66686155': order #248117823 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248117825 sell 0.10 AUDUSD at 0.66167 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248117827 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248117832 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248117837 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248117846 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248118166 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248118218 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66218
+0	17:00:24.873	'66686155': order #248118242 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66218
+0	17:00:32.438	'66686155': order #248117836 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117844 sell 0.10 AUDUSD at 0.66168 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117851 sell 0.10 AUDUSD at 0.66172 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117864 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117865 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117867 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117868 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117869 sell 0.10 AUDUSD at 0.66172 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248117910 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248118095 sell 0.10 AUDUSD at 0.66170 closed due stop-loss at price 0.66220
+0	17:00:32.438	'66686155': order #248118116 sell 0.10 AUDUSD at 0.66170 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248118119 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248118129 sell 0.10 AUDUSD at 0.66170 closed due stop-loss at price 0.66220
+0	17:00:32.438	'66686155': order #248118135 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.438	'66686155': order #248118243 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66219
+0	17:00:32.683	'66686155': order #248117892 sell 0.10 AUDUSD at 0.66172 closed due stop-loss at price 0.66221
+0	17:00:32.683	'66686155': order #248118096 sell 0.10 AUDUSD at 0.66171 closed due stop-loss at price 0.66221
+0	17:00:32.683	'66686155': order #248118101 sell 0.10 AUDUSD at 0.66171 closed due stop-loss at price 0.66221
+0	17:00:32.683	'66686155': order #248118132 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66221
+0	17:00:33.054	'66686155': order #248117852 sell 0.10 AUDUSD at 0.66172 closed due stop-loss at price 0.66222
+0	17:00:33.054	'66686155': order #248117855 sell 0.10 AUDUSD at 0.66173 closed due stop-loss at price 0.66222
+0	17:00:33.054	'66686155': order #248117878 sell 0.10 AUDUSD at 0.66171 closed due stop-loss at price 0.66222
+0	17:00:33.054	'66686155': order #248117904 sell 0.10 AUDUSD at 0.66172 closed due stop-loss at price 0.66222
+0	17:00:44.263	'66686155': order #248117856 sell 0.10 AUDUSD at 0.66173 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248117860 sell 0.10 AUDUSD at 0.66173 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248117863 sell 0.10 AUDUSD at 0.66169 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248117908 sell 0.10 AUDUSD at 0.66171 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248118264 sell 0.10 AUDUSD at 0.66174 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248118282 sell 0.10 AUDUSD at 0.66174 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248118313 sell 0.10 AUDUSD at 0.66174 closed due stop-loss at price 0.66223
+0	17:00:44.263	'66686155': order #248118324 sell 0.10 AUDUSD at 0.66174 closed due stop-loss at price 0.66223
+0	17:01:53.250	'66686155': order #248118322 sell 0.10 AUDUSD at 0.66174 closed due stop-loss at price 0.66224
+0	17:01:53.250	'66686155': order #248118338 sell 0.10 AUDUSD at 0.66174 closed due stop-loss at price 0.66224
+0	17:01:55.283	'66686155': order #248118354 sell 0.10 AUDUSD at 0.66177 closed due stop-loss at price 0.66225
+0	17:01:55.483	'66686155': order #248118347 sell 0.10 AUDUSD at 0.66175 closed due stop-loss at price 0.66226
+0	17:01:55.483	'66686155': order #248118537 sell 0.10 AUDUSD at 0.66177 closed due stop-loss at price 0.66226
+0	17:01:55.841	'66686155': order #248118358 sell 0.10 AUDUSD at 0.66177 closed due stop-loss at price 0.66227
+0	17:01:55.841	'66686155': order #248118370 sell 0.10 AUDUSD at 0.66177 closed due stop-loss at price 0.66227
+0	17:02:18.653	'66686155': order #248118373 sell 0.10 AUDUSD at 0.66177 closed due stop-loss at price 0.66228
+0	17:02:18.653	'66686155': order #248118465 sell 0.10 AUDUSD at 0.66177 closed due stop-loss at price 0.66228
+2	17:08:11.072	Custom indicator FXPT_DBLtopbottom EURUSD,H1: loaded successfully
+2	17:15:32.379	Custom indicator double_top EURUSD,H1: loaded successfully
+1	17:30:29.004	'66686155': ping failed
+1	17:30:29.012	'66686155': datacenter connecting failed [6]
+0	17:30:30.521	'66686155': login on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 278.72 ms)
+0	17:30:38.772	'66686155': login datacenter on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 278.72 ms)
+0	17:30:42.354	'66686155': previous successful authorization performed from 103.213.202.61
+0	17:31:04.883	'66686155': auto connecting to a better access point NVir_DC_D05 (ping is 246.89 ms)
+0	17:31:15.561	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 246.89 ms)
+0	17:31:28.638	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 246.89 ms)
+0	17:31:32.457	'66686155': previous successful authorization performed from 103.213.202.61
+1	17:42:13.249	'66686155': ping failed
+1	20:42:17.807	'66686155': connect failed [No connection]

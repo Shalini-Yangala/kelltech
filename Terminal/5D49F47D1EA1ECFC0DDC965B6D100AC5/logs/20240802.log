@@ -1,0 +1,194 @@
+0	10:32:29.137	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:32:29.137	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 4624 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	10:32:29.137	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	10:32:29.808	Sources recompilation started
+0	10:32:30.465	Sources recompilation finished (1 compiled in 656 msec)
+1	10:32:30.961	MQL Base: failed connect to server
+2	10:32:31.477	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	10:32:31.555	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	10:32:31.602	Expert HikenAverageEA EURUSD,H1: loaded successfully
+1	10:33:34.414	'66686155': connect failed [No connection]
+1	10:33:34.570	MQL5.community: authorization failed
+1	10:37:32.304	MQL5.community: authorization failed
+1	10:42:32.811	MQL5.community: authorization failed
+0	10:43:17.021	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:43:21.193	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	10:43:23.008	'66686155': previous successful authorization performed from 152.59.198.165
+0	10:44:10.806	'66686155': ping to current access point HK_DC_D06 is 378.59 ms
+0	10:50:12.449	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 378.59 ms)
+0	10:50:14.779	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 378.59 ms)
+0	10:50:15.792	'66686155': previous successful authorization performed from 117.246.185.34
+2	10:51:33.616	Custom indicator MultiPGF EURUSD,H1: loaded successfully
+2	10:54:31.972	Custom indicator HikenAverage EURUSD,H1: removed
+2	10:54:31.988	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	10:54:39.752	Custom indicator Vinay EURUSD,H1: removed
+2	10:55:00.964	Custom indicator HikenAverage EURUSD,H1: removed
+2	10:58:48.396	Expert HikenAverageEA EURUSD,H1: removed
+2	10:58:48.412	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	10:59:29.825	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:03:03.528	Expert HikenAverageEA EURUSD,H1: removed
+2	11:03:03.543	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:03:03.559	Expert HikenAverageEA EURUSD,H1: removed
+2	11:03:03.575	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:03:41.761	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:04:18.624	Expert HikenAverageEA EURUSD,H1: removed
+2	11:04:21.098	Expert HikenAverageEA EURUSD,H1: removed
+2	11:04:21.098	Custom indicator MultiPGF EURUSD,H1: removed
+2	11:06:59.174	Expert HikenAverageEA EURUSD,H1: removed
+2	11:06:59.190	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:07:49.932	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:08:50.251	Expert HikenAverageEA EURUSD,H1: removed
+2	11:12:26.040	Expert HikenAverageEA EURUSD,H1: removed
+2	11:12:26.071	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:13:24.794	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:14:21.858	Expert HikenAverageEA EURUSD,H1: removed
+2	11:14:21.874	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:14:21.874	Expert HikenAverageEA EURUSD,H1: removed
+2	11:14:21.890	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:14:49.458	Expert HikenAverageEA EURUSD,H1: removed
+2	11:14:49.473	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:14:49.473	Expert HikenAverageEA EURUSD,H1: removed
+2	11:14:49.489	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:15:00.902	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:15:18.363	Expert HikenAverageEA EURUSD,H1: removed
+2	11:15:22.011	Expert HikenAverageEA EURUSD,H1: removed
+2	11:18:13.362	Expert HikenAverageEA EURUSD,H1: removed
+2	11:18:13.378	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:22:37.575	Expert HikenAverageEA EURUSD,H1: removed
+2	11:22:37.591	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:22:53.500	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:31:47.344	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:31:52.003	Expert HikenAverageEA EURUSD,H1: removed
+2	11:31:59.950	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:34:48.546	Expert HikenAverageEA EURUSD,H1: removed
+2	11:34:48.562	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:34:48.562	Expert HikenAverageEA EURUSD,H1: removed
+2	11:34:48.578	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:35:42.078	Expert HikenAverageEA EURUSD,H1: removed
+2	11:35:42.094	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:35:42.094	Expert HikenAverageEA EURUSD,H1: removed
+2	11:35:42.110	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:36:02.441	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	11:36:52.854	Expert HikenAverageEA EURUSD,H1: removed
+2	11:36:57.653	Expert HikenAverageEA EURUSD,H1: removed
+1	12:09:38.457	'66686155': ping failed
+1	12:09:38.477	'66686155': datacenter connecting failed [6]
+1	12:09:56.815	'66686155': connect failed [No connection]
+0	12:10:03.711	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	12:10:07.062	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	12:10:08.379	'66686155': previous successful authorization performed from 152.59.198.165
+0	12:10:32.775	'66686155': auto connecting to a better access point OH_DC_D06 (ping is 260.06 ms)
+0	12:10:33.701	'66686155': login on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 260.06 ms)
+0	12:10:36.031	'66686155': login datacenter on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 260.06 ms)
+0	12:10:37.119	'66686155': previous successful authorization performed from 152.59.198.165
+0	12:31:09.207	'66686155': login on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 260.06 ms)
+0	12:31:11.354	'66686155': login datacenter on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 260.06 ms)
+0	12:31:12.426	'66686155': previous successful authorization performed from 152.58.197.20
+1	12:48:27.087	'66686155': connect failed [No connection]
+0	12:48:32.970	'66686155': login on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 260.06 ms)
+0	12:48:35.044	'66686155': login datacenter on ICMarketsSC-Demo06 through OH_DC_D06 (ping: 260.06 ms)
+0	12:48:36.061	'66686155': previous successful authorization performed from 152.59.198.165
+1	12:49:15.327	'66686155': ping failed
+1	12:49:15.342	'66686155': datacenter connecting failed [6]
+0	12:49:16.760	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	12:49:18.934	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	12:49:20.015	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:49:46.003	'66686155': ping to current access point HK_DC_D06 is 301.68 ms
+1	13:55:08.578	'66686155': ping failed
+0	13:55:12.082	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.08 ms)
+0	13:55:13.875	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 222.08 ms)
+0	13:55:14.953	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:55:31.102	'66686155': ping to current access point LD_DC_D06 is 225.88 ms
+2	14:14:41.427	Expert HikenAverageEA EURUSD,H1: removed
+2	14:14:41.442	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	14:14:41.442	Custom indicator HikenAverage EURUSD,H1: removed
+2	14:14:41.458	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	14:15:06.024	Expert HikenAverageEA EURUSD,H1: removed
+2	14:15:07.718	Custom indicator HikenAverage EURUSD,H1: removed
+2	14:15:32.239	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:15:58.480	Custom indicator CCTrend EURUSD,H1: removed
+2	14:15:58.482	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:16:37.830	Custom indicator CCTrend EURUSD,H1: removed
+2	14:16:37.832	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:22:24.674	Custom indicator CCTrend EURUSD,H1: removed
+2	14:22:24.690	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:22:42.668	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:23:53.717	Custom indicator CCTrend EURUSD,H1: removed
+2	14:23:53.719	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:23:53.765	Custom indicator CCTrend EURUSD,H1: removed
+2	14:23:53.781	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:54:39.388	Custom indicator CCTrend EURUSD,H1: removed
+2	14:54:39.404	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:54:39.449	Custom indicator CCTrend EURUSD,H1: removed
+2	14:54:39.464	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:54:42.778	Custom indicator CCTrend EURUSD,H1: removed
+2	14:54:42.803	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:54:42.865	Custom indicator CCTrend EURUSD,H1: removed
+2	14:54:42.886	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:54:42.957	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:55:54.857	Custom indicator CCTrend EURUSD,H1: removed
+2	14:55:58.086	Custom indicator CCTrend EURUSD,H1: removed
+2	14:55:58.105	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:55:58.164	Custom indicator CCTrend EURUSD,H1: removed
+2	14:55:58.183	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:56:15.412	Custom indicator ATR EURUSD,H1: loaded successfully
+1	14:56:16.996	'66686155': ping failed
+1	14:56:17.012	'66686155': datacenter connecting failed [6]
+0	14:56:17.930	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 253.29 ms)
+0	14:56:20.033	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 253.29 ms)
+0	14:56:20.990	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:56:40.346	Custom indicator ATR EURUSD,H1: removed
+0	14:56:46.710	'66686155': ping to current access point FRK_DC_D06 is 249.05 ms
+2	14:59:47.643	Custom indicator CCTrend EURUSD,H1: removed
+2	14:59:47.659	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	14:59:47.704	Custom indicator CCTrend EURUSD,H1: removed
+2	14:59:47.724	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:00:07.530	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:02:53.226	Custom indicator ATR EURUSD,H1: loaded successfully
+2	15:03:48.305	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+2	15:05:12.448	Custom indicator CCTrend GBPUSD,H1: removed
+2	15:05:12.464	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+2	15:05:12.495	Custom indicator CCTrend EURUSD,H1: removed
+2	15:05:12.511	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:05:12.558	Custom indicator CCTrend EURUSD,H1: removed
+2	15:05:12.573	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:05:12.605	Custom indicator CCTrend EURUSD,H1: removed
+2	15:05:12.620	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:09:12.219	Custom indicator CCTrend GBPUSD,H1: removed
+2	15:09:12.235	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+2	15:09:12.275	Custom indicator CCTrend EURUSD,H1: removed
+2	15:09:12.289	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:09:12.332	Custom indicator CCTrend EURUSD,H1: removed
+2	15:09:12.352	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:09:12.398	Custom indicator CCTrend EURUSD,H1: removed
+2	15:09:12.415	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:09:21.991	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:10.078	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:10.095	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:10.145	Custom indicator CCTrend GBPUSD,H1: removed
+2	15:14:10.162	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+2	15:14:10.202	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:10.221	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:10.265	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:10.280	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:10.324	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:10.338	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:31.314	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:31.330	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:31.391	Custom indicator CCTrend GBPUSD,H1: removed
+2	15:14:31.405	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+2	15:14:31.444	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:31.460	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:31.507	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:31.524	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:31.574	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:31.589	Custom indicator CCTrend EURUSD,H1: loaded successfully
+2	15:14:38.733	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:40.893	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:42.962	Custom indicator CCTrend EURUSD,H1: removed
+2	15:14:42.965	Custom indicator ATR EURUSD,H1: removed
+2	15:14:44.954	Custom indicator CCTrend GBPUSD,H1: removed
+2	15:14:55.565	Custom indicator CCTrend GBPUSD,H1: loaded successfully
+2	17:41:03.505	Custom indicator CCTrend EURUSD,H1: removed
+2	17:41:03.535	Custom indicator CCTrend GBPUSD,H1: removed
+0	17:41:04.182	IC Markets (SC) MT4 build 1420 stopped

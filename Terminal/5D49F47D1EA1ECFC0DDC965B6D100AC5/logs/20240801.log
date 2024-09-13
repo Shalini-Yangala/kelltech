@@ -1,0 +1,230 @@
+0	11:27:28.020	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	11:27:28.020	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3402 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	11:27:28.020	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	11:27:31.724	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	11:27:31.849	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	11:27:31.958	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	11:27:32.083	Custom indicator DTemp GBPUSD,H1: loaded successfully
+0	11:27:34.349	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.38 ms)
+0	11:27:36.927	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.38 ms)
+2	11:27:37.301	Custom indicator DTemp GBPUSD,H1: removed
+0	11:27:37.972	'66686155': previous successful authorization performed from 103.213.202.61
+2	11:27:39.444	Custom indicator DTemp GBPUSD,H1: removed
+2	11:27:41.366	Custom indicator DTemp GBPUSD,H1: removed
+2	11:27:49.577	Custom indicator DTemp GBPUSD,H1: removed
+0	11:27:54.594	'66686155': ping to current access point LD_DC_D06 is 232.50 ms
+2	11:37:06.242	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:39:36.843	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:39:36.859	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:39:50.627	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:40:39.634	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:40:39.650	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:40:39.666	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:40:39.681	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:40:53.832	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:40:53.848	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:40:53.863	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:40:53.879	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:42:50.550	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:42:50.565	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:42:50.597	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:42:50.612	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:43:00.539	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:44:27.741	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:44:27.757	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:44:27.773	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:44:27.788	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:44:27.819	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:44:27.835	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:44:39.730	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	11:44:50.630	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:44:58.957	Custom indicator HikenAverage EURUSD,H1: removed
+2	11:45:00.901	Custom indicator HikenAverage EURUSD,H1: removed
+0	12:31:52.828	Sources recompilation started
+2	12:31:53.750	Custom indicator HikenAverage EURUSD,H1: removed
+2	12:31:53.766	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	12:32:04.869	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:34:25.742	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:34:25.757	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:34:39.318	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:35:52.504	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:35:52.520	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:35:52.629	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:35:52.645	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:35:59.888	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:36:37.496	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:38:27.412	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:38:27.443	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:38:27.481	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:38:27.482	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:38:27.520	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:38:27.539	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:38:27.557	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:38:27.573	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:38:42.117	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:39:04.819	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:39:04.819	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:39:04.938	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:39:04.961	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:39:05.075	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:39:05.102	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:39:05.223	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:39:05.223	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:39:05.333	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:39:05.361	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:26.604	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:26.624	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:26.642	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:26.660	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:26.675	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:26.696	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:26.720	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:26.735	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:26.747	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:26.760	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:31.491	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:33.288	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:36.337	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:37.842	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:39.638	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:40:50.388	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:40:58.357	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:41:54.349	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:41:54.364	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:41:54.398	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:41:54.419	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:42:15.002	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+1	12:44:40.780	'66686155': ping failed
+1	12:44:40.780	'66686155': datacenter connecting failed [6]
+1	12:44:41.045	'66686155': connect failed [No connection]
+0	12:45:44.400	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	12:45:46.459	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	12:45:47.509	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:46:13.959	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 228.35 ms)
+0	12:46:14.879	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.35 ms)
+0	12:46:16.791	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.35 ms)
+0	12:46:18.199	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:47:21.084	Custom indicator HikenAverage EURUSD,H1: removed
+2	12:47:21.109	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:47:21.117	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:47:21.167	Custom indicator MACDOverlay EURUSD,H1: removed
+0	12:47:21.723	IC Markets (SC) MT4 build 1420 stopped
+0	12:48:33.722	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	12:48:33.722	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3202 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	12:48:33.722	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	12:48:35.724	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	12:48:35.786	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:48:35.802	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:48:35.864	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	12:48:36.534	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+0	12:48:37.624	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.35 ms)
+2	12:48:39.132	Custom indicator MACDOverlay EURUSD,H1: removed
+0	12:48:40.047	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.35 ms)
+0	12:48:41.007	'66686155': previous successful authorization performed from 103.213.202.61
+2	12:51:13.986	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:51:13.994	Custom indicator MACDOverlay EURUSD,H1: removed
+2	12:51:39.464	Custom indicator HikenAverage EURUSD,H1: removed
+2	12:51:39.479	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	12:51:58.546	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+0	13:11:51.794	Help: new version of the English Help is available (9305 kb)
+0	13:11:57.548	Help: 'terminal.chm' downloaded
+0	13:47:16.553	Sources recompilation started
+2	13:47:17.897	Custom indicator HikenAverage EURUSD,H1: removed
+2	13:47:17.928	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	13:47:17.944	Custom indicator HikenAverage EURUSD,H1: removed
+2	13:47:17.959	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	13:48:02.263	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	13:50:11.232	Custom indicator HikenAverage EURUSD,H1: removed
+2	13:50:13.184	Custom indicator MACDOverlay EURUSD,H1: removed
+2	13:50:15.028	Custom indicator HikenAverage EURUSD,H1: removed
+2	13:50:27.636	Custom indicator MACDOverlay EURUSD,H1: removed
+2	13:50:43.541	Custom indicator ABCIndicator GBPUSD,H1: loaded successfully
+2	13:51:17.344	Custom indicator ABCIndicator GBPUSD,H1: removed
+2	13:51:17.359	Custom indicator ABCIndicator GBPUSD,H1: loaded successfully
+2	13:51:28.843	Custom indicator ABCIndicator GBPUSD,H1: loaded successfully
+2	13:52:09.247	Custom indicator MACDOverlay USDCHF,H1: loaded successfully
+2	13:55:10.587	Custom indicator Heiken Ashi GBPUSD,H1: loaded successfully
+2	13:55:45.443	Custom indicator HikenAverage GBPUSD,H1: loaded successfully
+2	13:56:31.262	Custom indicator HikenAverage GBPUSD,H1: removed
+2	13:56:31.278	Custom indicator HikenAverage GBPUSD,H1: loaded successfully
+2	13:56:46.018	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	13:56:55.544	Custom indicator HikenAverage GBPUSD,H1: removed
+2	13:57:21.791	Custom indicator HikenAverage EURUSD,H1: removed
+2	13:57:24.991	Custom indicator HikenAverage GBPUSD,H1: loaded successfully
+2	14:09:44.289	Custom indicator Heiken Ashi GBPUSD,H1: removed
+2	14:09:47.024	Custom indicator MACDOverlay USDCHF,H1: removed
+2	14:09:49.430	Custom indicator ABCIndicator GBPUSD,H1: removed
+2	14:09:52.148	Custom indicator ABCIndicator GBPUSD,H1: removed
+2	14:30:20.060	Custom indicator syta EURUSD,H1: loaded successfully
+2	16:24:54.107	Custom indicator syta EURUSD,H1: removed
+2	16:37:26.558	Custom indicator MultiPGF EURUSD,H1: loaded successfully
+2	16:39:09.306	Custom indicator MultiPGF EURUSD,H1: removed
+2	16:39:09.321	Custom indicator MultiPGF EURUSD,H1: loaded successfully
+2	16:39:49.987	Custom indicator MultiPGF EURUSD,H1: loaded successfully
+2	17:18:19.363	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	17:18:36.311	Custom indicator MultiPGF EURUSD,H1: removed
+2	17:18:38.428	Custom indicator MultiPGF EURUSD,H1: removed
+2	17:18:44.543	Custom indicator HikenAverage GBPUSD,H1: removed
+2	17:18:52.905	Custom indicator MACDOverlay EURUSD,H1: removed
+2	17:18:54.454	Custom indicator MACDOverlay EURUSD,H1: loaded successfully
+2	17:20:23.104	Custom indicator MACDOverlay EURUSD,H1: removed
+2	18:14:55.235	Custom indicator MultiPGF EURUSD,H1: loaded successfully
+2	18:29:12.736	Custom indicator MultiPGF EURUSD,H1: removed
+0	18:29:13.204	IC Markets (SC) MT4 build 1420 stopped
+0	18:36:31.272	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	18:36:31.272	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3284 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	18:36:31.272	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	18:36:32.021	Help: 'C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\Help\terminal4.chm' updated
+2	18:36:33.146	Custom indicator MultiPGF EURUSD,H1: loaded successfully
+0	18:36:34.771	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.35 ms)
+0	18:36:36.834	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.35 ms)
+0	18:36:37.721	'66686155': previous successful authorization performed from 103.213.202.61
+0	18:36:52.398	'66686155': ping to current access point LD_DC_D06 is 221.12 ms
+2	18:36:53.211	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	18:56:09.616	Custom indicator MultiPGF EURUSD,H1: removed
+2	18:56:12.205	Custom indicator HikenAverage EURUSD,H1: removed
+2	18:56:18.060	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	18:57:14.639	Custom indicator Vinay EURUSD,H1: removed
+2	18:57:14.655	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	18:57:25.831	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:00:24.545	Custom indicator Vinay EURUSD,H1: removed
+2	19:00:24.561	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:00:24.577	Custom indicator Vinay EURUSD,H1: removed
+2	19:00:24.592	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:00:32.717	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:01:45.529	Custom indicator Vinay EURUSD,H1: removed
+2	19:01:45.545	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:01:45.561	Custom indicator Vinay EURUSD,H1: removed
+2	19:01:45.576	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:01:45.608	Custom indicator Vinay EURUSD,H1: removed
+2	19:01:45.608	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:01:52.837	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:02:06.081	Custom indicator Vinay EURUSD,H1: removed
+2	19:02:08.178	Custom indicator Vinay EURUSD,H1: removed
+2	19:02:09.723	Custom indicator Vinay EURUSD,H1: removed
+2	19:02:54.067	Custom indicator Vinay EURUSD,H1: removed
+2	19:02:54.088	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:02:54.143	Custom indicator Vinay EURUSD,H1: loaded successfully
+2	19:09:29.015	Custom indicator Vinay EURUSD,H1: removed
+2	19:09:29.242	Custom indicator Vinay EURUSD,H1: removed
+0	19:09:29.932	IC Markets (SC) MT4 build 1420 stopped
+0	20:43:43.735	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	20:43:43.735	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 4242 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	20:43:43.735	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	20:43:44.787	Sources recompilation started
+0	20:43:45.396	Sources recompilation finished (1 compiled in 719 msec)
+2	20:43:46.943	Custom indicator Vinay EURUSD,H1: loaded successfully
+0	20:44:21.490	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	20:44:21.490	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 4227 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	20:44:21.490	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	20:44:23.116	Custom indicator Vinay EURUSD,H1: loaded successfully
+0	20:44:24.803	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.12 ms)
+0	20:44:27.335	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 221.12 ms)
+0	20:44:28.354	'66686155': previous successful authorization performed from 27.6.17.68
+0	20:44:47.036	'66686155': ping to current access point LD_DC_D06 is 216.66 ms
+2	20:44:59.465	Custom indicator HikenAverage EURUSD,H1: loaded successfully
+2	20:51:24.675	Expert HikenAverageEA EURUSD,H1: loaded successfully
+2	20:55:43.861	Expert HikenAverageEA EURUSD,H1: removed
+2	20:55:54.847	Expert HikenAverageEA EURUSD,H1: loaded successfully
+0	21:05:47.407	System to be shutdown, request for close IC Markets (SC) MT4
+0	21:05:48.017	IC Markets (SC) MT4 build 1420 stopped because system shutdown

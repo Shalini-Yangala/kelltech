@@ -1,0 +1,86 @@
+0	10:52:50.515	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:52:50.515	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3350 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	10:52:50.515	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	10:52:53.856	Expert MAR AUDCHF,H1: loaded successfully
+2	10:52:53.997	Expert MAR AUDCHF,H1: loaded successfully
+0	10:52:56.418	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.09 ms)
+0	10:52:58.809	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.09 ms)
+0	10:52:59.889	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:53:04.816	Expert MAR AUDCHF,H1: removed
+0	10:53:26.722	'66686155': ping to current access point LD_DC_D06 is 218.17 ms
+2	11:03:40.801	Expert MAR AUDCHF,H1: removed
+2	11:03:51.364	Expert TrailV EURUSD,H1: loaded successfully
+2	11:13:59.980	Expert TrailV EURUSD,H1: removed
+2	11:14:37.158	Custom indicator TrailV_Ind EURUSD,H1: loaded successfully
+2	11:15:01.886	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:16:09.079	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:20:23.201	Expert  TrailV_EA EURUSD,H1: removed
+2	11:20:23.217	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:20:23.232	Expert  TrailV_EA EURUSD,H1: removed
+2	11:20:23.248	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:21:08.995	Expert  TrailV_EA EURUSD,H1: removed
+2	11:21:09.011	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:21:09.011	Expert  TrailV_EA EURUSD,H1: removed
+2	11:21:09.026	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:21:10.788	Expert  TrailV_EA EURUSD,H1: removed
+2	11:21:10.804	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:21:10.804	Expert  TrailV_EA EURUSD,H1: removed
+2	11:21:10.819	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:21:10.947	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:24:09.057	Expert  TrailV_EA EURUSD,H1: removed
+2	11:24:15.529	Expert  TrailV_EA EURUSD,H1: removed
+2	11:24:15.560	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:24:15.560	Expert  TrailV_EA EURUSD,H1: removed
+2	11:24:15.591	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	11:26:02.570	Custom indicator TrailV_Ind EURUSD,H1: removed
+2	11:26:02.585	Custom indicator TrailV_Ind EURUSD,H1: loaded successfully
+2	11:26:15.696	Custom indicator TrailV_Ind EURUSD,H1: loaded successfully
+2	12:38:09.511	Expert TrailV EURUSD,H1: loaded successfully
+2	12:43:00.936	Expert TrailV EURUSD,H1: removed
+2	12:43:07.748	Custom indicator TrailV_Ind EURUSD,H1: removed
+2	12:43:11.576	Expert  TrailV_EA EURUSD,H1: removed
+0	12:43:35.640	Sources recompilation started
+2	12:43:36.765	Expert  TrailV_EA EURUSD,H1: removed
+2	12:43:36.781	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	12:43:36.781	Custom indicator TrailV_Ind EURUSD,H1: removed
+2	12:43:36.796	Custom indicator TrailV_Ind EURUSD,H1: loaded successfully
+2	12:43:49.145	Expert  TrailV_EA EURUSD,H1: removed
+2	12:43:49.145	Custom indicator TrailV_Ind EURUSD,H1: removed
+2	12:43:54.269	Custom indicator TrailV_Ind EURUSD,H1: loaded successfully
+2	12:45:38.603	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	12:46:06.695	Expert  TrailV_EA EURUSD,H1: removed
+2	12:46:06.710	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	12:46:12.288	Expert  TrailV_EA EURUSD,H1: removed
+2	12:46:12.304	Expert  TrailV_EA EURUSD,H1: loaded successfully
+2	12:47:02.778	Custom indicator TrailV_Ind EURUSD,H1: removed
+2	12:47:04.793	Expert  TrailV_EA EURUSD,H1: removed
+2	12:47:39.756	Expert TrailV EURUSD,H1: loaded successfully
+1	13:43:53.978	'66686155': ping failed
+1	13:43:54.250	'66686155': connect failed [No connection]
+0	13:44:00.369	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	13:44:02.479	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	13:44:04.004	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:44:19.862	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 225.38 ms)
+0	13:44:20.802	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.38 ms)
+0	13:44:22.627	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.38 ms)
+0	13:44:23.510	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:30:09.272	Expert TrailV EURUSD,H1: removed
+2	14:30:09.288	Expert TrailV EURUSD,H1: loaded successfully
+2	14:30:10.872	Expert TrailV EURUSD,H1: removed
+2	14:30:10.888	Expert TrailV EURUSD,H1: loaded successfully
+2	14:30:11.127	Expert TrailV EURUSD,H1: loaded successfully
+2	14:33:27.153	Expert TrailV EURUSD,H1: removed
+2	14:33:28.671	Expert TrailV EURUSD,H1: removed
+2	14:33:28.686	Expert TrailV EURUSD,H1: loaded successfully
+2	14:34:08.751	Expert TrailV EURUSD,H1: removed
+2	14:34:08.751	Expert TrailV EURUSD,H1: loaded successfully
+2	14:39:52.009	Expert TrailV EURUSD,H1: removed
+2	16:24:14.090	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	16:25:31.449	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	16:28:15.666	Custom indicator DTemp GBPUSD,H1: removed
+2	16:28:15.681	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	16:28:15.713	Custom indicator DTemp GBPUSD,H1: removed
+2	16:28:15.728	Custom indicator DTemp GBPUSD,H1: loaded successfully
+2	17:49:27.441	Custom indicator DTemp GBPUSD,H1: removed
+2	17:49:27.456	Custom indicator DTemp GBPUSD,H1: removed
+0	17:49:28.425	IC Markets (SC) MT4 build 1420 stopped

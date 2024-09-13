@@ -1,0 +1,110 @@
+0	09:52:48.335	'66686155': ping to current access point HK_DC_D06 is n/a
+1	09:52:48.478	'66686155': datacenter connecting failed [6]
+1	09:52:52.808	MQL5.community: authorization failed
+0	09:52:57.177	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:52:59.437	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:53:01.030	'66686155': previous successful authorization performed from 103.213.202.61
+0	09:53:06.911	'66686155': ping to current access point HK_DC_D06 is 314.05 ms
+1	10:33:22.161	'66686155': ping failed
+1	10:33:22.286	'66686155': connect failed [No connection]
+0	10:34:30.568	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 314.05 ms)
+0	10:34:32.782	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 314.05 ms)
+0	10:34:34.262	'66686155': previous successful authorization performed from 103.213.202.61
+2	10:41:37.843	Expert Wedges EURUSD,H1: removed
+2	10:41:37.849	Expert Triangle Pattern EURUSD,H1: removed
+2	10:41:37.855	Expert Triple Top and Bottom EURUSD,H1: removed
+2	10:41:37.872	Expert Pennant EURUSD,H1: removed
+0	10:41:38.278	IC Markets (SC) MT4 build 1415 stopped
+0	14:29:30.786	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	14:29:30.786	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 1973 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	14:29:30.786	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	14:29:35.116	Expert Wedges EURUSD,H1: loaded successfully
+2	14:29:35.179	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	14:29:35.257	Expert Triple Top and Bottom EURUSD,H1: loaded successfully
+2	14:29:35.319	Expert Pennant EURUSD,H1: loaded successfully
+0	14:29:37.382	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	14:29:37.382	LiveUpdate: updater - start admin updater
+1	14:29:40.642	LiveUpdate: updater - elevated updater start failed [1223]
+0	14:29:40.642	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	14:29:37.851	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 314.05 ms)
+0	14:29:40.747	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 314.05 ms)
+0	14:29:41.897	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:29:48.637	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 228.84 ms)
+0	14:29:49.417	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.84 ms)
+0	14:29:51.170	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.84 ms)
+0	14:29:52.190	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:29:55.577	Expert Pennant EURUSD,H1: removed
+2	14:29:57.717	Expert Triple Top and Bottom EURUSD,H1: removed
+2	14:30:28.675	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:36:20.294	Custom indicator custom_channel EURUSD,H1: removed
+2	14:36:20.310	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:36:32.583	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:43:09.577	Custom indicator custom_channel EURUSD,H1: removed
+2	14:43:09.593	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:43:09.624	Custom indicator custom_channel EURUSD,H1: removed
+2	14:43:09.640	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:43:21.222	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:45:20.603	Custom indicator custom_channel EURUSD,H1: removed
+2	14:45:20.618	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:45:20.634	Custom indicator custom_channel EURUSD,H1: removed
+2	14:45:20.650	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:45:20.681	Custom indicator custom_channel EURUSD,H1: removed
+2	14:45:20.697	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:59:53.132	Custom indicator custom_channel EURUSD,H1: removed
+2	14:59:53.148	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:59:53.179	Custom indicator custom_channel EURUSD,H1: removed
+2	14:59:53.210	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	14:59:53.241	Custom indicator custom_channel EURUSD,H1: removed
+2	14:59:53.257	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:00:04.434	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:04:50.192	Custom indicator custom_channel EURUSD,H1: removed
+2	15:04:50.207	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:04:50.238	Custom indicator custom_channel EURUSD,H1: removed
+2	15:04:50.254	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:04:50.270	Custom indicator custom_channel EURUSD,H1: removed
+2	15:04:50.285	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:04:50.317	Custom indicator custom_channel EURUSD,H1: removed
+2	15:04:50.332	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:25:13.548	Expert Wedges EURUSD,H1: removed
+2	15:25:13.563	Expert Triangle Pattern EURUSD,H1: removed
+2	15:25:13.613	Custom indicator custom_channel EURUSD,H1: removed
+2	15:25:13.653	Custom indicator custom_channel EURUSD,H1: removed
+2	15:25:13.695	Custom indicator custom_channel EURUSD,H1: removed
+2	15:25:13.708	Custom indicator custom_channel EURUSD,H1: removed
+0	15:25:14.010	IC Markets (SC) MT4 build 1415 stopped
+0	15:50:03.829	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	15:50:03.829	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2956 / 8067 Mb, Disk: 4 / 53 Gb, GMT+5
+0	15:50:03.829	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:50:05.829	Expert Wedges EURUSD,H1: loaded successfully
+2	15:50:05.876	Expert Triangle Pattern EURUSD,H1: loaded successfully
+2	15:50:05.922	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:50:06.001	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:50:06.079	Custom indicator custom_channel EURUSD,H1: loaded successfully
+2	15:50:06.172	Custom indicator custom_channel EURUSD,H1: loaded successfully
+0	15:50:07.204	LiveUpdate: updater - started for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	15:50:07.204	LiveUpdate: updater - start admin updater
+1	15:50:09.883	LiveUpdate: updater - elevated updater start failed [1223]
+0	15:50:09.883	LiveUpdate: updater - finished for 'C:\Program Files (x86)\MetaTrader 4 IC Markets Global'
+0	15:50:07.933	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.84 ms)
+0	15:50:10.098	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 228.84 ms)
+0	15:50:11.066	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:50:15.612	Custom indicator custom_channel EURUSD,H1: removed
+2	15:50:17.690	Custom indicator custom_channel EURUSD,H1: removed
+0	15:50:17.893	'66686155': ping to current access point LD_DC_D06 is 225.69 ms
+2	15:50:21.284	Custom indicator custom_channel EURUSD,H1: removed
+2	15:50:23.705	Custom indicator custom_channel EURUSD,H1: removed
+2	15:50:36.105	Custom indicator custom_channel USDCAD,H1: loaded successfully
+1	21:41:15.640	'66686155': ping failed
+1	22:07:10.102	'66686155': connect failed [No connection]
+1	22:07:10.484	MQL5.community: authorization failed
+0	22:07:16.643	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	22:07:19.517	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	22:07:23.126	'66686155': previous successful authorization performed from 106.195.75.34
+0	22:07:27.554	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 227.33 ms)
+0	22:07:28.865	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.33 ms)
+0	22:07:30.721	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.33 ms)
+0	22:07:33.425	'66686155': previous successful authorization performed from 205.254.168.181
+2	22:10:21.389	Expert Wedges EURUSD,H1: removed
+2	22:10:21.401	Expert Triangle Pattern EURUSD,H1: removed
+2	22:10:21.420	Custom indicator custom_channel USDCAD,H1: removed
+0	22:10:21.805	IC Markets (SC) MT4 build 1415 stopped

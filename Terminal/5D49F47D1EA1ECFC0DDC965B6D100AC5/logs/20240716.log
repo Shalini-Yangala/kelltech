@@ -1,0 +1,25 @@
+0	11:36:57.855	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	11:36:57.855	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2801 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	11:36:57.855	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	11:37:01.252	Custom indicator Heiken Ashi AUDUSD,H1: loaded successfully
+0	11:37:03.675	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 233.42 ms)
+2	11:37:05.875	Custom indicator Heiken Ashi AUDUSD,H1: removed
+0	11:37:06.478	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 233.42 ms)
+0	11:37:07.586	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:37:14.054	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 227.83 ms)
+0	11:37:14.900	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.83 ms)
+0	11:37:16.710	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.83 ms)
+0	11:37:17.780	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:42:58.663	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.83 ms)
+0	11:43:00.708	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 227.83 ms)
+0	11:43:01.697	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:51:14.628	Sources recompilation started
+2	11:56:00.483	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+2	11:56:41.643	Custom indicator Alpha Trend EURUSD,H1: removed
+2	11:56:59.846	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+2	11:58:37.080	Custom indicator Alpha Trend EURUSD,H1: removed
+2	11:58:37.080	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+2	12:00:23.293	Custom indicator Alpha Trend EURUSD,H1: removed
+2	12:00:23.308	Custom indicator Alpha Trend EURUSD,H1: loaded successfully
+2	12:22:57.030	Custom indicator Alpha Trend EURUSD,H1: removed
+0	12:22:57.835	IC Markets (SC) MT4 build 1420 stopped

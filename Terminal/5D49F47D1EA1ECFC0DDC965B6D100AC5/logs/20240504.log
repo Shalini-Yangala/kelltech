@@ -1,0 +1,47 @@
+0	10:40:16.980	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	10:40:16.982	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 4314 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	10:40:16.982	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	10:40:19.503	Sources recompilation started
+0	10:40:20.639	Sources recompilation finished (1 compiled in 1141 msec)
+2	10:40:22.437	Custom indicator RVI_application EURUSD,H1: loaded successfully
+2	10:40:22.656	Custom indicator dashboard_leftside EURUSD,H1: loaded successfully
+2	10:40:22.749	Custom indicator movingavg_application EURUSD,H1: loaded successfully
+2	10:40:22.812	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	10:40:23.031	Expert button_application EURUSD,H1: loaded successfully
+2	10:40:23.077	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	10:40:23.109	Expert standard_deviation_indicator EURUSD,H1: loaded successfully
+2	10:40:23.202	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	10:40:23.234	Custom indicator ATR EURUSD,H1: loaded successfully
+2	10:40:23.343	Custom indicator task2 EURUSD,H1: loaded successfully
+2	10:40:23.437	Custom indicator task2 EURUSD,H1: loaded successfully
+2	10:40:23.530	Custom indicator task2 EURUSD,H1: loaded successfully
+2	10:40:23.687	Custom indicator task2 EURUSD,H1: loaded successfully
+2	10:40:23.765	Custom indicator task2 EURUSD,H1: loaded successfully
+2	10:40:23.859	Custom indicator Trend Market Sentiment EURUSD,H1: loaded successfully
+0	10:40:27.345	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.02 ms)
+0	10:40:29.859	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.02 ms)
+0	10:40:31.181	'66686155': previous successful authorization performed from 115.98.36.22
+0	10:40:38.573	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 255.52 ms)
+0	10:40:39.422	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 255.52 ms)
+0	10:40:41.391	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 255.52 ms)
+0	10:40:42.438	'66686155': previous successful authorization performed from 205.254.168.145
+2	10:42:42.125	Custom indicator Task11111 EURUSD,H1: loaded successfully
+2	10:42:47.171	Custom indicator Task11111 EURUSD,H1: removed
+2	10:42:53.179	Custom indicator Task11111 EURUSD,H1: loaded successfully
+2	10:45:08.761	Custom indicator RVI_application EURUSD,H1: removed
+2	10:45:08.777	Custom indicator dashboard_leftside EURUSD,H1: removed
+2	10:45:08.777	Custom indicator movingavg_application EURUSD,H1: removed
+2	10:45:08.792	Custom indicator Trend_Line EURUSD,H1: removed
+2	10:45:08.808	Expert button_application EURUSD,H1: removed
+2	10:45:08.808	Expert standard_deviation_indicator EURUSD,H1: removed
+2	10:45:08.824	Custom indicator Task1 EURUSD,H1: removed
+2	10:45:08.824	Custom indicator Task1 EURUSD,H1: removed
+2	10:45:08.839	Custom indicator ATR EURUSD,H1: removed
+2	10:45:08.855	Custom indicator task2 EURUSD,H1: removed
+2	10:45:08.855	Custom indicator task2 EURUSD,H1: removed
+2	10:45:08.870	Custom indicator task2 EURUSD,H1: removed
+2	10:45:08.886	Custom indicator task2 EURUSD,H1: removed
+2	10:45:08.902	Custom indicator task2 EURUSD,H1: removed
+2	10:45:08.902	Custom indicator Trend Market Sentiment EURUSD,H1: removed
+2	10:45:08.917	Custom indicator Task11111 EURUSD,H1: removed
+0	10:45:09.245	IC Markets (SC) MT4 build 1415 stopped

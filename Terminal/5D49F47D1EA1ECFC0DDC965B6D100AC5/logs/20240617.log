@@ -1,0 +1,37 @@
+0	10:28:09.813	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	10:28:09.814	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3076 / 8067 Mb, Disk: 8 / 53 Gb, GMT+5
+0	10:28:09.814	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	10:28:16.682	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.00 ms)
+0	10:28:19.048	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.00 ms)
+0	10:28:19.967	'66686155': previous successful authorization performed from 103.213.202.61
+0	10:28:27.051	'66686155': ping to current access point LD_DC_D06 is 221.90 ms
+3	10:44:52.094	'Ichimoku' is not expert and cannot be executed
+3	10:44:54.000	'Ichimoku' is not expert and cannot be executed
+3	10:44:55.153	'Ichimoku' is not expert and cannot be executed
+3	10:44:56.821	'Ichimoku' is not expert and cannot be executed
+3	10:51:00.141	'Ichimoku' is not expert and cannot be executed
+3	10:51:01.951	'Ichimoku' is not expert and cannot be executed
+3	10:51:02.887	'Ichimoku' is not expert and cannot be executed
+3	10:51:03.272	'Ichimoku' is not expert and cannot be executed
+3	10:51:09.636	'Ichimoku' is not expert and cannot be executed
+3	10:51:11.737	'Ichimoku' is not expert and cannot be executed
+3	10:54:28.380	'Ichimoku' is not expert and cannot be executed
+3	10:54:29.289	'Ichimoku' is not expert and cannot be executed
+3	10:54:29.625	'Ichimoku' is not expert and cannot be executed
+3	10:54:30.025	'Ichimoku' is not expert and cannot be executed
+3	10:54:30.358	'Ichimoku' is not expert and cannot be executed
+3	10:54:30.742	'Ichimoku' is not expert and cannot be executed
+3	10:54:34.153	'Ichimoku' is not expert and cannot be executed
+2	10:58:16.533	Custom indicator Ichimoku1 EURUSD,H1: loaded successfully
+2	11:11:40.978	Custom indicator Ichimoku1 EURUSD,H1: removed
+2	11:11:40.993	Custom indicator Ichimoku1 EURUSD,H1: loaded successfully
+1	14:01:18.593	'66686155': ping failed
+0	14:01:21.699	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 237.00 ms)
+0	14:01:24.160	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 237.00 ms)
+0	14:01:25.800	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:01:32.007	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 220.10 ms)
+0	14:01:32.747	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.10 ms)
+0	14:01:34.535	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.10 ms)
+0	14:01:35.386	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:56:22.901	Custom indicator Ichimoku1 EURUSD,H1: removed
+0	14:56:23.596	IC Markets (SC) MT4 build 1420 stopped

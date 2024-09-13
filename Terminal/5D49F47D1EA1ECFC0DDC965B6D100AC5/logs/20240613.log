@@ -1,0 +1,218 @@
+0	11:52:02.828	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	11:52:02.828	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3782 / 8067 Mb, Disk: 6 / 53 Gb, GMT+5
+0	11:52:02.828	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	11:52:03.609	Sources recompilation started
+0	11:52:05.031	Sources recompilation finished (1 compiled in 1438 msec)
+2	11:52:06.168	Expert HFX4 EURUSD,H1: loaded successfully
+0	11:52:07.778	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 258.98 ms)
+0	11:52:10.496	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 258.98 ms)
+0	11:52:11.527	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:52:19.271	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 230.58 ms)
+0	11:52:20.058	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.58 ms)
+0	11:52:22.031	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.58 ms)
+0	11:52:22.955	'66686155': previous successful authorization performed from 103.213.202.61
+2	11:54:23.169	Expert button_application EURUSD,H1: loaded successfully
+2	11:55:59.424	Expert button_application EURUSD,H1: removed
+2	11:55:59.439	Expert Button_code EURUSD,H1: loaded successfully
+2	11:56:16.791	Expert Button_code EURUSD,H1: loaded successfully
+2	11:56:42.996	Expert HFX4 EURUSD,H1: removed
+2	11:56:43.011	Expert Button_code EURUSD,H1: removed
+2	11:56:43.027	Expert Button_code EURUSD,H1: removed
+0	11:56:43.371	IC Markets (SC) MT4 build 1420 stopped
+0	11:57:19.923	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	11:57:19.923	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3280 / 8067 Mb, Disk: 6 / 53 Gb, GMT+5
+0	11:57:19.923	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	11:57:21.517	Expert HFX4 EURUSD,H1: loaded successfully
+2	11:57:21.548	Expert Button_code EURUSD,H1: loaded successfully
+2	11:57:21.580	Expert Button_code EURUSD,H1: loaded successfully
+0	11:57:23.111	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.58 ms)
+0	11:57:25.345	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.58 ms)
+0	11:57:26.314	'66686155': previous successful authorization performed from 103.213.202.61
+2	11:57:30.843	Expert Button_code EURUSD,H1: removed
+2	11:57:33.515	Expert HFX4 EURUSD,H1: removed
+2	11:57:39.577	Expert HFX4 EURUSD,H1: loaded successfully
+2	11:58:44.025	Expert HFX4 EURUSD,H1: removed
+2	11:58:44.040	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:02:03.053	Expert Buy and Sell Buttons Displaying EURUSD,H1: loaded successfully
+2	12:02:49.437	Expert Button_code EURUSD,H1: removed
+2	12:11:10.601	Expert HFX4 EURUSD,H1: removed
+2	12:11:10.616	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:11:18.083	Expert HFX4 EURUSD,H1: removed
+2	12:11:18.098	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:12:10.685	Expert HFX4 EURUSD,H1: removed
+2	12:12:10.701	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:13:33.486	Expert HFX4 EURUSD,H1: removed
+2	12:13:33.501	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:13:43.005	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:14:56.940	Expert HFX4 EURUSD,H1: removed
+2	12:14:56.971	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:14:56.971	Expert HFX4 EURUSD,H1: removed
+2	12:14:56.987	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:15:06.201	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:23:39.065	Expert HFX4 EURUSD,H1: removed
+2	12:23:39.080	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:23:39.096	Expert HFX4 EURUSD,H1: removed
+2	12:23:39.112	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:23:39.127	Expert HFX4 EURUSD,H1: removed
+2	12:23:39.145	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:23:46.988	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:10.296	Expert HFX4 EURUSD,H1: removed
+2	12:25:10.328	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:10.328	Expert HFX4 EURUSD,H1: removed
+2	12:25:10.359	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:10.359	Expert HFX4 EURUSD,H1: removed
+2	12:25:10.374	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:10.390	Expert HFX4 EURUSD,H1: removed
+2	12:25:10.406	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:20.811	Expert HFX4 EURUSD,H1: removed
+2	12:25:20.858	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:20.874	Expert HFX4 EURUSD,H1: removed
+2	12:25:20.889	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:20.889	Expert HFX4 EURUSD,H1: removed
+2	12:25:20.905	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:20.905	Expert HFX4 EURUSD,H1: removed
+2	12:25:20.936	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:54.365	Expert HFX4 EURUSD,H1: removed
+2	12:25:54.397	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:54.397	Expert HFX4 EURUSD,H1: removed
+2	12:25:54.412	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:54.412	Expert HFX4 EURUSD,H1: removed
+2	12:25:54.443	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:25:54.443	Expert HFX4 EURUSD,H1: removed
+2	12:25:54.475	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:26:00.814	Expert HFX4 EURUSD,H1: removed
+2	12:26:03.801	Expert Buy and Sell Buttons Displaying EURUSD,H1: removed
+2	12:26:05.997	Expert HFX4 EURUSD,H1: removed
+2	12:26:08.769	Expert HFX4 EURUSD,H1: removed
+2	12:26:15.115	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:26:20.318	Expert HFX4 EURUSD,H1: removed
+2	12:27:24.629	Expert Buy and Sell Buttons Displaying EURUSD,H1: loaded successfully
+2	12:28:10.303	Expert HFX4 EURUSD,H1: removed
+2	12:28:10.334	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:28:20.726	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:32:44.626	Expert HFX4 EURUSD,H1: removed
+2	12:32:44.657	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:32:44.657	Expert HFX4 EURUSD,H1: removed
+2	12:32:44.673	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:32:57.779	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:33:32.357	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:19.974	Expert HFX4 EURUSD,H1: removed
+2	12:37:20.006	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:20.006	Expert HFX4 EURUSD,H1: removed
+2	12:37:20.021	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:20.021	Expert HFX4 EURUSD,H1: removed
+2	12:37:20.052	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:20.052	Expert HFX4 EURUSD,H1: removed
+2	12:37:20.084	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:28.584	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:42.786	Expert HFX4 EURUSD,H1: removed
+2	12:37:42.802	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:42.802	Expert HFX4 EURUSD,H1: removed
+2	12:37:42.817	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:42.833	Expert HFX4 EURUSD,H1: removed
+2	12:37:42.849	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:42.849	Expert HFX4 EURUSD,H1: removed
+2	12:37:42.880	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:42.880	Expert HFX4 EURUSD,H1: removed
+2	12:37:42.911	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:37:50.849	Expert HFX4 EURUSD,H1: removed
+2	12:37:53.272	Expert Buy and Sell Buttons Displaying EURUSD,H1: removed
+2	12:37:56.280	Expert HFX4 EURUSD,H1: removed
+2	12:38:00.083	Expert HFX4 EURUSD,H1: removed
+2	12:38:03.361	Expert HFX4 EURUSD,H1: removed
+2	12:39:28.073	Expert HFX4 EURUSD,H1: removed
+2	12:39:52.553	Expert Buy and Sell Buttons Displaying EURUSD,H1: loaded successfully
+2	12:40:11.985	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:43:09.683	Expert HFX4 EURUSD,H1: removed
+2	12:43:09.699	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:43:17.738	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:04.348	Expert HFX4 EURUSD,H1: removed
+2	12:46:04.379	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:04.379	Expert HFX4 EURUSD,H1: removed
+2	12:46:04.395	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:30.696	Expert HFX4 EURUSD,H1: removed
+2	12:46:30.711	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:30.727	Expert HFX4 EURUSD,H1: removed
+2	12:46:30.743	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:43.435	Expert HFX4 EURUSD,H1: removed
+2	12:46:43.466	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:43.466	Expert HFX4 EURUSD,H1: removed
+2	12:46:43.482	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:46:51.680	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:11.044	Expert HFX4 EURUSD,H1: removed
+2	12:47:11.075	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:11.075	Expert HFX4 EURUSD,H1: removed
+2	12:47:11.091	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:11.106	Expert HFX4 EURUSD,H1: removed
+2	12:47:11.122	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:28.783	Expert HFX4 EURUSD,H1: removed
+2	12:47:28.814	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:28.814	Expert HFX4 EURUSD,H1: removed
+2	12:47:28.830	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:28.830	Expert HFX4 EURUSD,H1: removed
+2	12:47:28.846	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:39.565	Expert HFX4 EURUSD,H1: removed
+2	12:47:39.580	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:39.580	Expert HFX4 EURUSD,H1: removed
+2	12:47:39.596	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:47:39.612	Expert HFX4 EURUSD,H1: removed
+2	12:47:39.627	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:27.963	Expert HFX4 EURUSD,H1: removed
+2	12:48:27.994	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:27.994	Expert HFX4 EURUSD,H1: removed
+2	12:48:28.010	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:28.010	Expert HFX4 EURUSD,H1: removed
+2	12:48:28.041	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:46.035	Expert HFX4 EURUSD,H1: removed
+2	12:48:46.066	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:46.066	Expert HFX4 EURUSD,H1: removed
+2	12:48:46.098	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:46.098	Expert HFX4 EURUSD,H1: removed
+2	12:48:46.113	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:59.769	Expert HFX4 EURUSD,H1: removed
+2	12:48:59.801	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:59.801	Expert HFX4 EURUSD,H1: removed
+2	12:48:59.816	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:48:59.816	Expert HFX4 EURUSD,H1: removed
+2	12:48:59.848	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:12.720	Expert HFX4 EURUSD,H1: removed
+2	12:50:12.751	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:12.751	Expert HFX4 EURUSD,H1: removed
+2	12:50:12.767	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:12.767	Expert HFX4 EURUSD,H1: removed
+2	12:50:12.798	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:30.216	Expert HFX4 EURUSD,H1: removed
+2	12:50:30.231	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:30.247	Expert HFX4 EURUSD,H1: removed
+2	12:50:30.263	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:30.263	Expert HFX4 EURUSD,H1: removed
+2	12:50:30.278	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:50.537	Expert HFX4 EURUSD,H1: removed
+2	12:50:50.568	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:50.568	Expert HFX4 EURUSD,H1: removed
+2	12:50:50.584	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:50:50.584	Expert HFX4 EURUSD,H1: removed
+2	12:50:50.615	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:53:09.168	Expert HFX4 EURUSD,H1: removed
+2	12:53:09.199	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:53:09.199	Expert HFX4 EURUSD,H1: removed
+2	12:53:09.215	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:53:09.215	Expert HFX4 EURUSD,H1: removed
+2	12:53:09.246	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:53:19.717	Expert HFX4 EURUSD,H1: loaded successfully
+2	12:53:36.809	Expert HFX4 EURUSD,H1: removed
+2	12:53:39.347	Expert Buy and Sell Buttons Displaying EURUSD,H1: removed
+2	12:53:42.086	Expert HFX4 EURUSD,H1: removed
+2	12:53:48.668	Expert HFX4 EURUSD,H1: removed
+1	14:18:04.593	'66686155': ping failed
+0	14:18:07.862	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.75 ms)
+0	14:18:09.974	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.75 ms)
+0	14:18:11.161	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:18:18.317	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 238.32 ms)
+0	14:18:19.142	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 238.32 ms)
+0	14:18:21.166	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 238.32 ms)
+0	14:18:22.081	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:19:45.524	Expert HFX4 EURUSD,H1: loaded successfully
+1	18:55:03.140	'66686155': ping failed
+0	18:55:08.141	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 231.59 ms)
+0	18:55:10.394	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 231.59 ms)

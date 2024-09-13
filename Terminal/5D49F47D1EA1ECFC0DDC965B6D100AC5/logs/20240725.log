@@ -1,0 +1,30 @@
+0	12:17:19.373	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	12:17:19.388	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3311 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	12:17:19.388	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	12:17:24.791	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.71 ms)
+0	12:17:27.025	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.71 ms)
+0	12:17:28.030	'66686155': previous successful authorization performed from 103.213.202.61
+0	12:17:44.085	'66686155': ping to current access point LD_DC_D06 is 219.42 ms
+1	14:17:43.593	'66686155': ping failed
+0	14:17:47.197	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 251.54 ms)
+0	14:17:50.273	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 251.54 ms)
+0	14:17:51.337	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:18:06.934	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 224.05 ms)
+0	14:18:07.855	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.05 ms)
+0	14:18:09.757	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.05 ms)
+0	14:18:10.869	'66686155': previous successful authorization performed from 103.213.202.61
+2	17:03:12.979	Expert MAR AUDCHF,H1: loaded successfully
+2	18:43:42.159	Expert MAR AUDCHF,H1: removed
+0	18:43:43.121	IC Markets (SC) MT4 build 1420 stopped
+0	19:15:05.813	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	19:15:05.813	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2742 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	19:15:05.813	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	19:15:08.568	Expert MAR AUDCHF,H1: loaded successfully
+2	19:15:08.604	Expert MAR AUDCHF,H1: loaded successfully
+0	19:15:10.699	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.05 ms)
+0	19:15:12.785	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.05 ms)
+0	19:15:13.715	'66686155': previous successful authorization performed from 103.213.202.61
+0	19:15:29.505	'66686155': ping to current access point LD_DC_D06 is 223.09 ms
+2	19:24:43.218	Expert MAR AUDCHF,H1: removed
+2	19:24:43.240	Expert MAR AUDCHF,H1: removed
+0	19:24:43.838	IC Markets (SC) MT4 build 1420 stopped

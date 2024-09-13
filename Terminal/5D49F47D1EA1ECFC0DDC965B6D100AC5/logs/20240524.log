@@ -1,0 +1,343 @@
+1	06:31:12.709	MQL5.community: authorization failed
+0	06:31:24.090	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	06:31:26.213	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	06:31:28.511	'66686155': previous successful authorization performed from 49.43.218.175
+0	06:31:35.481	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 230.37 ms)
+0	06:31:36.467	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.37 ms)
+0	06:31:38.194	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.37 ms)
+0	06:31:39.131	'66686155': previous successful authorization performed from 205.254.168.204
+0	07:14:16.079	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.37 ms)
+0	07:14:18.016	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 230.37 ms)
+0	07:14:19.078	'66686155': previous successful authorization performed from 49.43.218.175
+2	07:15:51.291	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.416	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.416	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.447	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.447	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.479	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.479	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.510	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.510	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.541	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.541	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.557	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.557	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.588	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.588	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.604	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.619	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.635	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.635	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.651	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:15:51.666	Expert Elite Hedger EURUSD,H1: removed
+2	07:15:51.682	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:16:02.436	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:56.957	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:56.973	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:56.989	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.004	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.004	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.020	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.035	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.051	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.051	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.067	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.082	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.098	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.098	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.114	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.114	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.129	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.145	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.160	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.176	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.192	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.192	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.207	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:22:57.223	Expert Elite Hedger EURUSD,H1: removed
+2	07:22:57.238	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	07:23:05.195	Expert Elite Hedger EURUSD,H1: loaded successfully
+1	09:38:27.578	'66686155': ping failed
+1	09:38:28.365	'66686155': connect failed [No connection]
+0	09:38:35.906	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:38:37.838	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	09:38:40.553	'66686155': previous successful authorization performed from 103.213.202.61
+0	09:38:45.575	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 229.47 ms)
+0	09:38:46.622	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 229.47 ms)
+0	09:38:48.418	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 229.47 ms)
+0	09:38:49.975	'66686155': previous successful authorization performed from 103.213.202.61
+2	09:49:15.471	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.487	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.487	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.518	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.518	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.533	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.533	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.549	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.565	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.580	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.580	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.596	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.596	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.627	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.627	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.643	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.643	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.658	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.674	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.690	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.690	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.705	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.721	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.737	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:15.737	Expert Elite Hedger EURUSD,H1: removed
+2	09:49:15.752	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:49:40.236	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.009	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.040	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.040	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.056	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.072	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.087	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.103	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.118	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.118	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.134	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.150	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.165	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.165	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.181	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.181	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.212	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.212	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.228	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.228	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.243	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.259	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.275	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.275	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.290	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.290	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.322	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:53:34.322	Expert Elite Hedger EURUSD,H1: removed
+2	09:53:34.337	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.067	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.083	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.099	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.114	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.114	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.145	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.145	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.161	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.177	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.192	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.192	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.208	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.208	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.239	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.239	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.255	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.255	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.286	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.286	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.317	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.317	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.333	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.333	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.349	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.349	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.364	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:28.380	Expert Elite Hedger EURUSD,H1: removed
+2	09:57:28.395	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	09:57:47.902	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.372	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.387	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.387	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.418	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.418	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.450	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.450	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.465	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.465	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.481	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.497	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.512	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.512	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.528	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.528	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.559	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.559	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.575	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.575	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.606	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.606	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.622	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.622	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.653	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.653	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.668	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.684	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.700	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:13.700	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:13.715	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:20.319	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:03:41.001	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:43.197	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:45.894	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:48.198	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:50.707	Expert Elite Hedger EURUSD,H1: removed
+2	10:03:56.548	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:02.239	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:05.492	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:09.802	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:12.557	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:15.164	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:21.376	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:23.646	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:26.401	Expert SnipperX EURUSD,H1: removed
+2	10:04:28.936	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:30.950	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:35.426	Expert Elite Hedger EURUSD,H1: removed
+2	10:04:37.466	Expert SnipperX EURUSD,H4: removed
+2	10:04:39.315	Custom indicator sssssssssssssssssssssssss EURUSD,H1: removed
+2	10:04:41.756	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	10:04:43.777	Custom indicator lokesh134 EURUSD,H1: removed
+2	10:04:47.984	Custom indicator lokesh134 EURUSD,H1: removed
+2	10:10:59.221	Expert Elite Hedger EURUSD,H1: loaded successfully
+0	10:13:26.595	'66686155': pending order #247554408 buy limit 0.99 EURUSD at 1.07885 expired
+2	10:58:32.495	Expert Elite Hedger EURUSD,H1: removed
+2	10:58:32.526	Expert Elite Hedger EURUSD,H1: loaded successfully
+2	10:58:46.096	Expert Elite Hedger EURUSD,H1: loaded successfully
+0	11:55:48.226	'66686155': order #247571587 sell 1.00 EURUSD at 1.08109 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571593 sell 1.00 EURUSD at 1.08109 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571595 sell 1.00 EURUSD at 1.08109 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571609 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571612 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571613 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571616 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571618 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571620 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571622 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571623 sell 1.00 EURUSD at 1.08110 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571628 sell 1.00 EURUSD at 1.08110 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571630 sell 1.00 EURUSD at 1.08110 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571631 sell 1.00 EURUSD at 1.08110 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571633 sell 1.00 EURUSD at 1.08110 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571637 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571638 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571640 sell 1.00 EURUSD at 1.08111 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571647 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571648 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571649 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571650 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571652 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571653 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571654 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571655 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571657 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571658 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571663 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571667 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571669 sell 1.00 EURUSD at 1.08112 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571694 sell 1.00 EURUSD at 1.08108 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571698 sell 1.00 EURUSD at 1.08108 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571701 sell 1.00 EURUSD at 1.08108 closed due stop-loss at price 1.08124
+0	11:55:48.226	'66686155': order #247571704 sell 1.00 EURUSD at 1.08108 closed due stop-loss at price 1.08124
+1	13:42:35.312	'66686155': ping failed
+0	13:42:38.798	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 257.04 ms)
+0	13:42:40.943	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 257.04 ms)
+0	13:42:47.251	'66686155': previous successful authorization performed from 103.213.202.61
+0	13:42:48.923	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 224.75 ms)
+0	13:42:50.071	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.75 ms)
+0	13:42:52.032	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 224.75 ms)
+0	13:42:53.518	'66686155': previous successful authorization performed from 103.213.202.61
+0	14:04:02.895	Sources recompilation started
+2	14:04:19.799	Expert AutoChar EURUSD,H1: loaded successfully
+2	14:08:32.276	Expert AutoChar EURUSD,H1: removed
+2	14:08:32.292	Expert AutoChar EURUSD,H1: loaded successfully
+2	14:08:46.959	Expert AutoChar EURUSD,H1: loaded successfully
+2	14:11:46.901	Expert AutoChar EURUSD,H1: removed
+2	14:11:46.916	Expert AutoChar EURUSD,H1: loaded successfully
+2	14:11:46.916	Expert AutoChar EURUSD,H1: removed
+2	14:11:46.947	Expert AutoChar EURUSD,H1: loaded successfully
+2	14:11:55.086	Expert AutoChar EURUSD,H1: loaded successfully
+2	14:26:34.056	Expert Wedges EURUSD,H1: loaded successfully
+2	14:32:54.463	Expert Wedges EURUSD,H1: removed
+2	14:32:54.478	Expert Wedges EURUSD,H1: loaded successfully
+2	14:33:07.707	Expert Wedges EURUSD,H1: loaded successfully
+2	14:35:08.644	Expert Wedges EURUSD,H1: removed
+2	14:35:08.660	Expert Wedges EURUSD,H1: loaded successfully
+2	14:35:08.675	Expert Wedges EURUSD,H1: removed
+2	14:35:08.691	Expert Wedges EURUSD,H1: loaded successfully
+2	14:35:19.584	Expert Wedges EURUSD,H1: loaded successfully
+2	14:44:01.301	Expert Wedges EURUSD,H1: removed
+2	14:44:01.316	Expert Wedges EURUSD,H1: loaded successfully
+2	14:44:01.316	Expert Wedges EURUSD,H1: removed
+2	14:44:01.332	Expert Wedges EURUSD,H1: loaded successfully
+2	14:44:01.332	Expert Wedges EURUSD,H1: removed
+2	14:44:01.363	Expert Wedges EURUSD,H1: loaded successfully
+2	14:44:08.827	Expert Wedges EURUSD,H1: loaded successfully
+2	14:51:19.205	Expert Wedges EURUSD,H1: removed
+2	14:51:19.221	Expert Wedges EURUSD,H1: loaded successfully
+2	14:51:19.237	Expert Wedges EURUSD,H1: removed
+2	14:51:19.252	Expert Wedges EURUSD,H1: loaded successfully
+2	14:51:19.252	Expert Wedges EURUSD,H1: removed
+2	14:51:19.268	Expert Wedges EURUSD,H1: loaded successfully
+2	14:51:19.284	Expert Wedges EURUSD,H1: removed
+2	14:51:19.299	Expert Wedges EURUSD,H1: loaded successfully
+2	14:51:27.432	Expert Wedges EURUSD,H1: loaded successfully
+2	14:56:15.646	Expert Wedges EURUSD,H1: removed
+2	14:56:15.661	Expert Wedges EURUSD,H1: loaded successfully
+2	14:56:15.677	Expert Wedges EURUSD,H1: removed
+2	14:56:15.693	Expert Wedges EURUSD,H1: loaded successfully
+2	14:56:15.693	Expert Wedges EURUSD,H1: removed
+2	14:56:15.724	Expert Wedges EURUSD,H1: loaded successfully
+2	14:56:15.724	Expert Wedges EURUSD,H1: removed
+2	14:56:15.740	Expert Wedges EURUSD,H1: loaded successfully
+2	14:56:15.740	Expert Wedges EURUSD,H1: removed
+2	14:56:15.755	Expert Wedges EURUSD,H1: loaded successfully
+2	14:56:22.954	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:17.566	Expert Wedges EURUSD,H1: removed
+2	15:03:17.592	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:17.597	Expert Wedges EURUSD,H1: removed
+2	15:03:17.618	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:17.624	Expert Wedges EURUSD,H1: removed
+2	15:03:17.642	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:17.645	Expert Wedges EURUSD,H1: removed
+2	15:03:17.664	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:17.667	Expert Wedges EURUSD,H1: removed
+2	15:03:17.686	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:17.690	Expert Wedges EURUSD,H1: removed
+2	15:03:17.710	Expert Wedges EURUSD,H1: loaded successfully
+2	15:03:41.064	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	15:03:43.806	Expert Elite Hedger EURUSD,H1: removed
+2	15:03:46.117	Expert Elite Hedger EURUSD,H1: removed
+2	15:03:51.324	Expert AutoChar EURUSD,H1: removed
+2	15:03:53.726	Expert AutoChar EURUSD,H1: removed
+2	15:03:56.565	Expert AutoChar EURUSD,H1: removed
+2	15:03:59.691	Expert Wedges EURUSD,H1: removed
+2	15:04:02.095	Expert Wedges EURUSD,H1: removed
+2	15:04:04.303	Expert Wedges EURUSD,H1: removed
+2	15:04:07.054	Expert Wedges EURUSD,H1: removed
+2	15:04:11.057	Expert Wedges EURUSD,H1: removed
+2	15:21:06.270	Expert Wedges EURUSD,H1: removed
+2	15:21:06.302	Expert Wedges EURUSD,H1: loaded successfully
+2	15:30:07.002	Expert Wedges EURUSD,H1: removed
+2	15:30:07.029	Expert Wedges EURUSD,H1: loaded successfully
+2	15:31:59.866	Expert Wedges EURUSD,H1: removed
+2	15:31:59.896	Expert Wedges EURUSD,H1: loaded successfully
+2	15:32:16.871	Expert Wedges EURUSD,H1: loaded successfully
+2	15:33:47.066	Expert Wedges EURUSD,H1: removed
+2	15:33:47.091	Expert Wedges EURUSD,H1: loaded successfully
+2	15:33:47.096	Expert Wedges EURUSD,H1: removed
+2	15:33:47.122	Expert Wedges EURUSD,H1: loaded successfully
+2	15:33:57.441	Expert Wedges EURUSD,H1: loaded successfully
+2	16:01:15.701	Expert Wedges EURUSD,H1: removed
+2	16:01:15.727	Expert Wedges EURUSD,H1: loaded successfully
+2	16:01:15.732	Expert Wedges EURUSD,H1: removed
+2	16:01:15.752	Expert Wedges EURUSD,H1: loaded successfully
+2	16:01:15.756	Expert Wedges EURUSD,H1: removed
+2	16:01:15.774	Expert Wedges EURUSD,H1: loaded successfully
+2	16:01:28.809	Expert Wedges EURUSD,H1: loaded successfully
+1	21:50:09.597	'66686155': ping failed
+1	21:50:13.636	'66686155': connect failed [No connection]

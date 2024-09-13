@@ -1,0 +1,200 @@
+0	11:09:34.587	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	11:09:34.587	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2470 / 8067 Mb, Disk: 0 / 53 Gb, GMT+5
+0	11:09:34.587	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	11:09:36.938	Custom indicator Anusha_Code EURUSD,H1: loaded successfully
+2	11:09:37.869	Custom indicator syta EURUSD,H1: loaded successfully
+0	11:09:38.750	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.78 ms)
+2	11:09:40.401	Custom indicator syta EURUSD,H1: removed
+0	11:09:41.308	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.78 ms)
+0	11:09:42.465	'66686155': previous successful authorization performed from 103.213.202.61
+0	11:09:50.089	'66686155': ping to current access point LD_DC_D06 is 229.02 ms
+2	11:11:16.299	Custom indicator Dotted Lines EURUSD,H1: loaded successfully
+2	11:11:19.203	Custom indicator Dotted Lines EURUSD,H1: removed
+2	11:11:24.052	Custom indicator Dotted Lines EURUSD,H1: loaded successfully
+2	11:11:48.145	Custom indicator Dotted Lines EURUSD,H1: loaded successfully
+2	11:14:41.481	Custom indicator Dotted Lines EURUSD,H1: removed
+2	11:14:41.496	Custom indicator Dotted Lines EURUSD,H1: loaded successfully
+2	11:14:41.527	Custom indicator Dotted Lines EURUSD,H1: removed
+2	11:14:41.543	Custom indicator Dotted Lines EURUSD,H1: loaded successfully
+2	11:17:06.313	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:18:00.095	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:18:00.110	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:18:05.533	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:23:06.140	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:23:06.156	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:23:06.187	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:23:06.202	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:24:59.436	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:24:59.452	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:24:59.483	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:24:59.498	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:25:08.382	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:25:11.605	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:25:28.781	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:25:28.781	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:25:28.813	Custom indicator Dotted_lines EURUSD,H1: removed
+2	11:25:28.828	Custom indicator Dotted_lines EURUSD,H1: loaded successfully
+2	11:38:13.856	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:39:47.085	Custom indicator Dotted Lines EURUSD,H1: removed
+2	11:39:47.089	Custom indicator Dotted Lines EURUSD,H1: removed
+2	11:39:49.714	Custom indicator Anusha_Code EURUSD,H1: removed
+2	11:40:39.795	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:40:39.811	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:40:46.912	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:46:08.749	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:46:08.764	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:46:08.796	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:46:08.811	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:46:14.392	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:46:34.702	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:46:34.706	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:46:34.709	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:46:41.419	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	11:49:11.554	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	11:49:11.570	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:03:32.437	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	12:22:34.042	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:22:56.017	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	12:23:13.586	Custom indicator Dotted_lines EURUSD,H1: removed
+2	12:23:13.586	Custom indicator Dotted_lines EURUSD,H1: removed
+2	12:23:19.502	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:26:30.511	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	12:26:30.527	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:26:30.558	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	12:26:30.558	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:26:40.287	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:27:55.238	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	12:27:58.454	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	12:28:03.316	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	12:28:09.275	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:29:09.862	Custom indicator Adaptive Log Trend EURUSD,H1: loaded successfully
+2	12:31:41.049	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+1	12:56:46.554	'66686155': ping failed
+1	12:56:46.568	'66686155': datacenter connecting failed [6]
+1	13:40:35.531	'66686155': connect failed [No connection]
+0	13:40:41.604	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 328.53 ms)
+0	13:40:43.896	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 328.53 ms)
+0	13:40:44.845	'66686155': previous successful authorization performed from 223.196.193.82
+0	13:40:52.543	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 236.22 ms)
+0	13:40:53.808	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.22 ms)
+0	13:40:55.630	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 236.22 ms)
+0	13:40:58.530	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:34:17.532	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	14:34:17.547	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	14:34:21.507	Custom indicator Zillerman’s Gann EURUSD,H1: loaded successfully
+2	14:39:17.276	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	14:45:22.723	Custom indicator shallllll EURUSD,H1: removed
+2	14:45:22.737	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	14:45:31.547	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	14:46:35.597	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	14:47:01.917	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:47:14.872	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:47:25.399	Custom indicator Task11111 EURUSD,H1: loaded successfully
+2	14:47:43.045	Custom indicator dashboard_creation EURUSD,H1: loaded successfully
+2	14:49:09.441	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	14:49:09.445	Custom indicator Adaptive Log Trend EURUSD,H1: removed
+2	14:49:11.663	Custom indicator shallllll EURUSD,H1: removed
+2	14:49:15.845	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	14:49:15.849	Custom indicator Zillerman’s Gann EURUSD,H1: removed
+2	14:49:17.299	Custom indicator task2 EURUSD,H1: removed
+2	14:49:17.302	Custom indicator Task1 EURUSD,H1: removed
+2	14:49:20.894	Custom indicator task2 EURUSD,H1: removed
+2	14:49:22.249	Custom indicator Task11111 EURUSD,H1: removed
+2	14:49:22.253	Custom indicator dashboard_creation EURUSD,H1: removed
+2	14:49:23.341	Custom indicator shallllll EURUSD,H1: removed
+2	14:59:32.994	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+1	15:03:39.701	'66686155': ping failed
+1	15:03:39.703	'66686155': datacenter connecting failed [6]
+1	15:03:40.367	'66686155': connect failed [No connection]
+0	15:05:03.553	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:05:05.612	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:05:06.530	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:05:13.789	'66686155': auto connecting to a better access point FRK_DC_D06 (ping is 245.60 ms)
+0	15:05:14.639	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 245.60 ms)
+0	15:05:16.546	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 245.60 ms)
+0	15:05:17.494	'66686155': previous successful authorization performed from 103.213.202.61
+1	15:22:17.536	'66686155': ping failed
+1	15:22:17.537	'66686155': datacenter connecting failed [6]
+1	15:22:18.175	'66686155': connect failed [No connection]
+0	15:23:31.259	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:23:33.443	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:23:34.440	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:23:41.672	'66686155': ping to current access point HK_DC_D06 is 313.13 ms
+1	15:25:33.647	'66686155': ping failed
+1	15:25:33.650	'66686155': datacenter connecting failed [6]
+1	15:25:34.339	'66686155': connect failed [No connection]
+0	15:26:47.311	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:26:49.427	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	15:26:50.296	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:26:57.800	'66686155': ping to current access point HK_DC_D06 is 309.80 ms
+2	16:54:31.247	Custom indicator shallllll EURUSD,H1: loaded successfully
+3	16:54:31.247	Expert 'shallllll' is not custom indicator and will be removed
+2	16:54:31.253	Custom indicator shallllll EURUSD,H1: removed
+2	16:54:35.192	Custom indicator shallllll EURUSD,H1: loaded successfully
+3	16:54:35.192	Expert 'shallllll' is not custom indicator and will be removed
+2	16:54:35.197	Custom indicator shallllll EURUSD,H1: removed
+2	16:54:37.105	Custom indicator shallllll EURUSD,H1: loaded successfully
+3	16:54:37.105	Expert 'shallllll' is not custom indicator and will be removed
+2	16:54:37.108	Custom indicator shallllll EURUSD,H1: removed
+2	16:54:42.825	Custom indicator shallllll EURUSD,H1: loaded successfully
+3	16:54:42.825	Expert 'shallllll' is not custom indicator and will be removed
+2	16:54:42.828	Custom indicator shallllll EURUSD,H1: removed
+2	16:56:35.145	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	17:07:08.121	Custom indicator shallllll EURUSD,H1: removed
+2	17:07:08.136	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	17:17:02.681	Custom indicator shallllll EURUSD,H1: removed
+2	17:17:02.696	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	17:17:17.022	Custom indicator shallllll EURUSD,H1: removed
+2	17:17:26.144	Custom indicator Trend_Line EURUSD,H1: removed
+2	17:17:29.560	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	17:20:50.313	Custom indicator shallllll EURUSD,H1: removed
+2	17:20:50.327	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	17:21:11.331	Custom indicator shallllll EURUSD,H1: removed
+2	17:21:15.834	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	17:37:15.693	Custom indicator shallllll EURUSD,H1: removed
+2	17:37:15.709	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	18:04:45.898	Custom indicator shallllll EURUSD,H1: removed
+2	18:04:45.913	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	18:39:26.723	Custom indicator shallllll EURUSD,H1: removed
+0	18:39:27.652	IC Markets (SC) MT4 build 1415 stopped
+0	18:39:31.506	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	18:39:31.506	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3275 / 8067 Mb, Disk: 0 / 53 Gb, GMT+5
+0	18:39:31.506	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+0	18:39:32.196	Sources recompilation started
+0	18:39:32.648	Sources recompilation finished (2 compiled in 453 msec)
+1	18:39:34.054	MQL Base: failed write to base
+0	18:39:35.408	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 309.80 ms)
+0	18:39:38.056	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: 309.80 ms)
+0	18:39:39.029	'66686155': previous successful authorization performed from 103.213.202.61
+0	18:39:47.781	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 225.30 ms)
+0	18:39:48.632	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.30 ms)
+0	18:39:50.526	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.30 ms)
+0	18:39:51.674	'66686155': previous successful authorization performed from 103.213.202.61
+2	18:41:01.767	Custom indicator shallllll EURUSD,H1: loaded successfully
+2	18:53:55.334	Custom indicator shallllll EURUSD,H1: removed
+2	18:54:00.046	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	18:56:30.369	Custom indicator Shallu123 EURUSD,H1: removed
+2	18:56:30.386	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+1	21:56:37.571	'66686155': ping failed
+1	21:56:41.397	'66686155': connect failed [No connection]
+0	22:08:55.755	'66686155': login on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	22:08:57.763	'66686155': login datacenter on ICMarketsSC-Demo06 through HK_DC_D06 (ping: n/a)
+0	22:08:59.725	'66686155': previous successful authorization performed from 103.213.202.61
+0	22:09:06.271	'66686155': auto connecting to a better access point NVir_DC_D05 (ping is 232.68 ms)
+0	22:09:07.000	'66686155': login on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.68 ms)
+0	22:09:09.072	'66686155': login datacenter on ICMarketsSC-Demo06 through NVir_DC_D05 (ping: 232.68 ms)
+0	22:09:10.309	'66686155': previous successful authorization performed from 205.254.168.242
+2	22:09:46.191	Custom indicator Shallu123 EURUSD,H1: removed
+2	22:09:46.215	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:10:04.404	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:12:34.597	Custom indicator Shallu123 EURUSD,H1: removed
+2	22:12:34.613	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:12:34.681	Custom indicator Shallu123 EURUSD,H1: removed
+2	22:12:34.706	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:12:46.699	Custom indicator Shallu123 EURUSD,H1: removed
+2	22:12:53.846	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:37:16.813	Custom indicator Shallu123 EURUSD,H1: removed
+2	22:37:16.829	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:37:16.853	Custom indicator Shallu123 EURUSD,H1: removed
+2	22:37:16.870	Custom indicator Shallu123 EURUSD,H1: loaded successfully
+2	22:37:33.811	Custom indicator Shallu123 EURUSD,H1: loaded successfully

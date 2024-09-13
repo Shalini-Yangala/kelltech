@@ -1,0 +1,449 @@
+0	11:21:10.539	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	11:21:10.539	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3818 / 8067 Mb, Disk: 1 / 53 Gb, GMT+5
+0	11:21:10.539	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	11:21:13.133	Custom indicator RVI_application EURUSD,H1: loaded successfully
+2	11:21:13.242	Custom indicator dashboard_leftside EURUSD,H1: loaded successfully
+2	11:21:13.336	Custom indicator movingavg_application EURUSD,H1: loaded successfully
+2	11:21:13.414	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	11:21:13.508	Expert button_application EURUSD,H1: loaded successfully
+0	11:21:15.851	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.49 ms)
+0	11:21:17.711	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 223.49 ms)
+0	11:21:18.649	'66686155': previous successful authorization performed from 205.254.168.251
+0	11:21:25.515	'66686155': ping to current access point LD_DC_D06 is 220.76 ms
+2	11:29:28.494	Expert standard_deviation_indicator EURUSD,H1: loaded successfully
+0	12:34:12.843	Sources recompilation started
+2	12:35:08.663	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	12:36:34.332	Custom indicator ATR EURUSD,H1: loaded successfully
+2	13:19:05.838	Custom indicator Task1 EURUSD,H1: removed
+2	13:19:05.846	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:19:36.970	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:19:50.069	Custom indicator ATR EURUSD,H1: loaded successfully
+2	13:21:26.627	Custom indicator Task1 EURUSD,H1: removed
+2	13:21:26.627	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:21:26.658	Custom indicator Task1 EURUSD,H1: removed
+2	13:21:26.674	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:21:51.979	Custom indicator Task1 EURUSD,H1: removed
+2	13:21:51.995	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:21:52.011	Custom indicator Task1 EURUSD,H1: removed
+2	13:21:52.026	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:22:05.916	Custom indicator ATR EURUSD,H1: loaded successfully
+2	13:22:17.222	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:27:08.722	Custom indicator Task1 EURUSD,H1: removed
+2	13:27:08.738	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:27:08.753	Custom indicator Task1 EURUSD,H1: removed
+2	13:27:08.769	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:27:08.800	Custom indicator Task1 EURUSD,H1: removed
+2	13:27:08.816	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:27:18.319	Custom indicator ATR EURUSD,H1: removed
+2	13:27:18.319	Custom indicator Task1 EURUSD,H1: removed
+2	13:27:20.264	Custom indicator Task1 EURUSD,H1: removed
+2	13:27:20.264	Custom indicator ATR EURUSD,H1: removed
+2	13:34:26.168	Custom indicator Task1 EURUSD,H1: removed
+2	13:34:26.183	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:36:35.741	Custom indicator Task1 EURUSD,H1: removed
+2	13:36:35.756	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:40:36.960	Custom indicator Task1 EURUSD,H1: removed
+2	13:40:36.976	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:40:47.644	Custom indicator Task1 EURUSD,H1: removed
+2	13:40:47.659	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:41:19.218	Custom indicator Task1 EURUSD,H1: removed
+2	13:41:19.233	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:41:32.227	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:41:54.557	Custom indicator ATR EURUSD,H1: loaded successfully
+2	13:44:32.880	Custom indicator Task1 EURUSD,H1: removed
+2	13:44:32.896	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:44:32.911	Custom indicator Task1 EURUSD,H1: removed
+2	13:44:32.927	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:44:40.035	Custom indicator Task1 EURUSD,H1: removed
+2	13:44:40.035	Custom indicator ATR EURUSD,H1: removed
+2	13:44:42.563	Custom indicator Task1 EURUSD,H1: removed
+2	13:44:42.563	Custom indicator ATR EURUSD,H1: removed
+2	13:44:48.381	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:45:00.051	Custom indicator Task1 EURUSD,H1: removed
+2	13:45:09.196	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:45:17.658	Custom indicator ATR EURUSD,H1: loaded successfully
+2	13:49:58.520	Custom indicator task2 EURUSD,H1: loaded successfully
+2	13:50:40.931	Custom indicator task2 EURUSD,H1: removed
+2	13:50:40.939	Custom indicator Task1 EURUSD,H1: removed
+2	13:50:40.939	Custom indicator ATR EURUSD,H1: removed
+2	13:50:48.269	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:50:53.716	Custom indicator Task1 EURUSD,H1: removed
+2	13:50:58.712	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	13:51:08.034	Custom indicator ATR EURUSD,H1: loaded successfully
+0	14:44:58.346	IC Markets (SC) MT4 build 1415 started (Raw Trading Ltd)
+0	14:44:58.408	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 6091 / 8067 Mb, Disk: 2 / 53 Gb, GMT+5
+0	14:44:58.408	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	14:45:03.975	Custom indicator RVI_application EURUSD,H1: loaded successfully
+2	14:45:04.132	Custom indicator dashboard_leftside EURUSD,H1: loaded successfully
+2	14:45:04.210	Custom indicator movingavg_application EURUSD,H1: loaded successfully
+2	14:45:04.272	Custom indicator Trend_Line EURUSD,H1: loaded successfully
+2	14:45:04.350	Expert button_application EURUSD,H1: loaded successfully
+2	14:45:04.429	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	14:45:04.444	Expert standard_deviation_indicator EURUSD,H1: loaded successfully
+2	14:45:04.725	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	14:45:04.741	Custom indicator ATR EURUSD,H1: loaded successfully
+2	14:45:04.882	Custom indicator task2 EURUSD,H1: loaded successfully
+0	14:45:06.788	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.76 ms)
+0	14:45:09.147	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.76 ms)
+0	14:45:10.227	'66686155': previous successful authorization performed from 122.181.212.180
+0	14:45:17.283	'66686155': ping to current access point LD_DC_D06 is 218.25 ms
+2	14:46:44.533	Custom indicator task2 EURUSD,H1: removed
+2	14:46:44.555	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:47:08.778	Custom indicator task2 EURUSD,H1: removed
+2	14:47:08.794	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:47:21.964	Custom indicator task2 EURUSD,H1: removed
+2	14:47:21.996	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:48:40.398	Custom indicator task2 EURUSD,H1: removed
+2	14:48:40.414	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:49:10.553	Custom indicator task2 EURUSD,H1: removed
+2	14:49:10.568	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:49:35.603	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:49:45.899	Custom indicator task2 EURUSD,H1: removed
+2	14:51:35.282	Custom indicator task2 EURUSD,H1: removed
+2	14:51:35.297	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:52:00.133	Custom indicator task2 EURUSD,H1: removed
+2	14:52:00.148	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:52:35.865	Custom indicator task2 EURUSD,H1: removed
+2	14:52:35.880	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:52:54.363	Custom indicator task2 EURUSD,H1: removed
+2	14:52:54.379	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:53:08.706	Custom indicator task2 EURUSD,H1: removed
+2	14:53:08.722	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:53:44.751	Custom indicator task2 EURUSD,H1: removed
+2	14:53:44.766	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:53:59.000	Custom indicator task2 EURUSD,H1: removed
+2	14:53:59.015	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:54:23.685	Custom indicator task2 EURUSD,H1: removed
+2	14:54:23.701	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:54:34.310	Custom indicator task2 EURUSD,H1: removed
+2	14:54:34.325	Custom indicator task2 EURUSD,H1: loaded successfully
+2	14:56:58.125	Custom indicator Task1 EURUSD,H1: removed
+2	14:56:58.141	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	14:56:58.156	Custom indicator Task1 EURUSD,H1: removed
+2	14:56:58.172	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	15:00:10.474	Custom indicator task2 EURUSD,H1: removed
+2	15:00:10.506	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:00:30.301	Custom indicator task2 EURUSD,H1: removed
+2	15:00:30.317	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:00:48.023	Custom indicator task2 EURUSD,H1: removed
+2	15:00:48.039	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:01:05.522	Custom indicator task2 EURUSD,H1: removed
+2	15:01:05.537	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:01:28.020	Custom indicator task2 EURUSD,H1: removed
+2	15:01:28.036	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:01:42.847	Custom indicator task2 EURUSD,H1: removed
+2	15:01:42.863	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:04:53.654	Custom indicator task2 EURUSD,H1: removed
+2	15:04:53.670	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:05:44.221	Custom indicator task2 EURUSD,H1: removed
+2	15:05:44.236	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:05:58.924	Custom indicator task2 EURUSD,H1: removed
+2	15:05:58.940	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:06:22.749	Custom indicator task2 EURUSD,H1: removed
+2	15:06:22.765	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:06:55.905	Custom indicator task2 EURUSD,H1: removed
+2	15:06:55.920	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:07:17.842	Custom indicator task2 EURUSD,H1: removed
+2	15:07:17.858	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:07:29.718	Custom indicator task2 EURUSD,H1: removed
+2	15:07:29.733	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:08:10.234	Custom indicator task2 EURUSD,H1: removed
+2	15:08:10.250	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:08:22.865	Custom indicator task2 EURUSD,H1: removed
+2	15:08:22.881	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:08:42.213	Custom indicator task2 EURUSD,H1: removed
+2	15:08:42.228	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:08:52.666	Custom indicator task2 EURUSD,H1: removed
+2	15:08:52.682	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:11:18.983	Custom indicator task2 EURUSD,H1: removed
+2	15:11:18.999	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:12:45.607	Custom indicator task2 EURUSD,H1: removed
+2	15:12:45.623	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:13:15.242	Custom indicator task2 EURUSD,H1: removed
+2	15:13:15.258	Custom indicator task2 EURUSD,H1: loaded successfully
+0	15:17:29.029	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 218.25 ms)
+0	15:17:30.738	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 218.25 ms)
+0	15:17:32.140	'66686155': previous successful authorization performed from 122.181.212.180
+2	15:39:13.012	Custom indicator Task3 EURUSD,H1: loaded successfully
+2	15:39:37.285	Custom indicator Task3 EURUSD,H1: removed
+2	15:42:46.499	Custom indicator Task3 EURUSD,H1: loaded successfully
+2	15:42:59.748	Custom indicator ATR EURUSD,H1: loaded successfully
+2	15:43:29.791	Custom indicator Task3 EURUSD,H1: removed
+2	15:43:29.791	Custom indicator ATR EURUSD,H1: removed
+2	15:46:53.237	Custom indicator Task1 EURUSD,H1: removed
+2	15:46:53.244	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	15:46:53.275	Custom indicator Task1 EURUSD,H1: removed
+2	15:46:53.291	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	15:50:12.043	Custom indicator Task1 EURUSD,H1: removed
+2	15:50:12.058	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	15:50:12.096	Custom indicator Task1 EURUSD,H1: removed
+2	15:50:12.096	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	15:51:11.495	Custom indicator task2 EURUSD,H1: removed
+2	15:51:11.517	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:51:39.569	Custom indicator task2 EURUSD,H1: removed
+2	15:51:39.584	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:51:53.417	Custom indicator task2 EURUSD,H1: removed
+2	15:51:53.433	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:53:38.113	Custom indicator task2 EURUSD,H1: removed
+2	15:53:38.129	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:57:28.914	Custom indicator task2 EURUSD,H1: removed
+2	15:57:28.929	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:58:38.738	Custom indicator task2 EURUSD,H1: removed
+2	15:58:38.754	Custom indicator task2 EURUSD,H1: loaded successfully
+2	15:58:55.792	Custom indicator task2 EURUSD,H1: removed
+2	15:58:55.808	Custom indicator task2 EURUSD,H1: loaded successfully
+0	16:12:15.292	Sources recompilation started
+2	16:12:15.740	Custom indicator task2 EURUSD,H1: removed
+2	16:12:15.762	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:12:31.283	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:13:19.468	Custom indicator task2 EURUSD,H1: removed
+2	16:13:19.475	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:13:19.506	Custom indicator task2 EURUSD,H1: removed
+2	16:13:19.522	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:13:29.004	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:17:02.044	Custom indicator task2 EURUSD,H1: removed
+2	16:17:02.064	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:17:02.121	Custom indicator task2 EURUSD,H1: removed
+2	16:17:02.151	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:17:02.214	Custom indicator task2 EURUSD,H1: removed
+2	16:17:02.237	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:17:09.871	Custom indicator task4 EURUSD,H1: loaded successfully
+2	16:28:54.327	Custom indicator task2 EURUSD,H1: removed
+2	16:28:54.342	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:28:54.374	Custom indicator task2 EURUSD,H1: removed
+2	16:28:54.389	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:28:54.412	Custom indicator task2 EURUSD,H1: removed
+2	16:28:54.427	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:36:16.172	Custom indicator task2 EURUSD,H1: removed
+2	16:36:16.172	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:36:16.204	Custom indicator task2 EURUSD,H1: removed
+2	16:36:16.219	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:36:16.235	Custom indicator task2 EURUSD,H1: removed
+2	16:36:16.257	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:36:30.878	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:38:27.561	Custom indicator task2 EURUSD,H1: removed
+2	16:38:27.583	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:38:27.614	Custom indicator task2 EURUSD,H1: removed
+2	16:38:27.633	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:38:27.659	Custom indicator task2 EURUSD,H1: removed
+2	16:38:27.677	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:38:27.707	Custom indicator task2 EURUSD,H1: removed
+2	16:38:27.724	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:37.014	Custom indicator task2 EURUSD,H1: removed
+2	16:40:37.021	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:37.052	Custom indicator task2 EURUSD,H1: removed
+2	16:40:37.068	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:37.083	Custom indicator task2 EURUSD,H1: removed
+2	16:40:37.099	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:37.121	Custom indicator task2 EURUSD,H1: removed
+2	16:40:37.137	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:52.498	Custom indicator task2 EURUSD,H1: removed
+2	16:40:52.513	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:52.545	Custom indicator task2 EURUSD,H1: removed
+2	16:40:52.560	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:52.582	Custom indicator task2 EURUSD,H1: removed
+2	16:40:52.598	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:40:52.629	Custom indicator task2 EURUSD,H1: removed
+2	16:40:52.645	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:41:07.961	Custom indicator task2 EURUSD,H1: removed
+2	16:41:07.977	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:41:08.015	Custom indicator task2 EURUSD,H1: removed
+2	16:41:08.015	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:41:08.046	Custom indicator task2 EURUSD,H1: removed
+2	16:41:08.062	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:41:08.077	Custom indicator task2 EURUSD,H1: removed
+2	16:41:08.115	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:12.734	Custom indicator task2 EURUSD,H1: removed
+2	16:42:12.734	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:12.766	Custom indicator task2 EURUSD,H1: removed
+2	16:42:12.781	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:12.812	Custom indicator task2 EURUSD,H1: removed
+2	16:42:12.828	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:12.850	Custom indicator task2 EURUSD,H1: removed
+2	16:42:12.866	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:26.427	Custom indicator task2 EURUSD,H1: removed
+2	16:42:26.443	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:26.458	Custom indicator task2 EURUSD,H1: removed
+2	16:42:26.480	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:26.496	Custom indicator task2 EURUSD,H1: removed
+2	16:42:26.512	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:26.543	Custom indicator task2 EURUSD,H1: removed
+2	16:42:26.559	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:37.148	Custom indicator task2 EURUSD,H1: removed
+2	16:42:37.148	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:37.180	Custom indicator task2 EURUSD,H1: removed
+2	16:42:37.195	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:37.217	Custom indicator task2 EURUSD,H1: removed
+2	16:42:37.233	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:37.264	Custom indicator task2 EURUSD,H1: removed
+2	16:42:37.280	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:51.662	Custom indicator task2 EURUSD,H1: removed
+2	16:42:51.678	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:51.709	Custom indicator task2 EURUSD,H1: removed
+2	16:42:51.709	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:51.740	Custom indicator task2 EURUSD,H1: removed
+2	16:42:51.763	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:42:51.778	Custom indicator task2 EURUSD,H1: removed
+2	16:42:51.794	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:16.001	Custom indicator task2 EURUSD,H1: removed
+2	16:43:16.016	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:16.085	Custom indicator task2 EURUSD,H1: removed
+2	16:43:16.139	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:16.170	Custom indicator task2 EURUSD,H1: removed
+2	16:43:16.186	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:16.201	Custom indicator task2 EURUSD,H1: removed
+2	16:43:16.217	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:23.709	Custom indicator task2 EURUSD,H1: removed
+2	16:43:23.778	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:23.809	Custom indicator task2 EURUSD,H1: removed
+2	16:43:23.825	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:23.862	Custom indicator task2 EURUSD,H1: removed
+2	16:43:23.862	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:23.894	Custom indicator task2 EURUSD,H1: removed
+2	16:43:23.909	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:40.365	Custom indicator task2 EURUSD,H1: removed
+2	16:43:40.380	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:40.412	Custom indicator task2 EURUSD,H1: removed
+2	16:43:40.418	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:40.449	Custom indicator task2 EURUSD,H1: removed
+2	16:43:40.465	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:40.496	Custom indicator task2 EURUSD,H1: removed
+2	16:43:40.512	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:52.319	Custom indicator task2 EURUSD,H1: removed
+2	16:43:52.335	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:52.372	Custom indicator task2 EURUSD,H1: removed
+2	16:43:52.388	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:52.419	Custom indicator task2 EURUSD,H1: removed
+2	16:43:52.435	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:43:52.457	Custom indicator task2 EURUSD,H1: removed
+2	16:43:52.488	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:06.917	Custom indicator task2 EURUSD,H1: removed
+2	16:44:06.933	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:06.948	Custom indicator task2 EURUSD,H1: removed
+2	16:44:06.964	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:07.002	Custom indicator task2 EURUSD,H1: removed
+2	16:44:07.002	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:07.033	Custom indicator task2 EURUSD,H1: removed
+2	16:44:07.049	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:22.785	Custom indicator task2 EURUSD,H1: removed
+2	16:44:22.801	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:22.816	Custom indicator task2 EURUSD,H1: removed
+2	16:44:22.832	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:22.854	Custom indicator task2 EURUSD,H1: removed
+2	16:44:22.870	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:44:22.901	Custom indicator task2 EURUSD,H1: removed
+2	16:44:22.916	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:51:48.132	Custom indicator task2 EURUSD,H1: removed
+2	16:51:48.148	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:51:48.185	Custom indicator task2 EURUSD,H1: removed
+2	16:51:48.201	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:51:48.217	Custom indicator task2 EURUSD,H1: removed
+2	16:51:48.232	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:51:48.263	Custom indicator task2 EURUSD,H1: removed
+2	16:51:48.286	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:52:43.255	Custom indicator task2 EURUSD,H1: removed
+2	16:52:43.261	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:52:43.292	Custom indicator task2 EURUSD,H1: removed
+2	16:52:43.308	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:52:43.324	Custom indicator task2 EURUSD,H1: removed
+2	16:52:43.339	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:52:43.361	Custom indicator task2 EURUSD,H1: removed
+2	16:52:43.377	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:58:50.464	Custom indicator task2 EURUSD,H1: removed
+2	16:58:50.491	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:58:50.506	Custom indicator task2 EURUSD,H1: removed
+2	16:58:50.522	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:58:50.553	Custom indicator task2 EURUSD,H1: removed
+2	16:58:50.569	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:58:50.591	Custom indicator task2 EURUSD,H1: removed
+2	16:58:50.607	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:59:04.152	Custom indicator task2 EURUSD,H1: removed
+2	16:59:04.168	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:59:04.199	Custom indicator task2 EURUSD,H1: removed
+2	16:59:04.214	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:59:04.230	Custom indicator task2 EURUSD,H1: removed
+2	16:59:04.252	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:59:04.268	Custom indicator task2 EURUSD,H1: removed
+2	16:59:04.284	Custom indicator task2 EURUSD,H1: loaded successfully
+2	16:59:34.016	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:01:17.248	Custom indicator task2 EURUSD,H1: removed
+2	17:01:17.264	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:01:17.295	Custom indicator task2 EURUSD,H1: removed
+2	17:01:17.311	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:01:17.333	Custom indicator task2 EURUSD,H1: removed
+2	17:01:17.348	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:01:17.364	Custom indicator task2 EURUSD,H1: removed
+2	17:01:17.380	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:01:17.411	Custom indicator task2 EURUSD,H1: removed
+2	17:01:17.433	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:25.867	Custom indicator task2 EURUSD,H1: removed
+2	17:02:25.883	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:25.898	Custom indicator task2 EURUSD,H1: removed
+2	17:02:25.914	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:25.945	Custom indicator task2 EURUSD,H1: removed
+2	17:02:25.967	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:25.983	Custom indicator task2 EURUSD,H1: removed
+2	17:02:25.999	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:26.036	Custom indicator task2 EURUSD,H1: removed
+2	17:02:26.044	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:37.922	Custom indicator task2 EURUSD,H1: removed
+2	17:02:37.938	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:37.969	Custom indicator task2 EURUSD,H1: removed
+2	17:02:37.984	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:38.007	Custom indicator task2 EURUSD,H1: removed
+2	17:02:38.022	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:38.053	Custom indicator task2 EURUSD,H1: removed
+2	17:02:38.069	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:38.085	Custom indicator task2 EURUSD,H1: removed
+2	17:02:38.107	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:58.372	Custom indicator task2 EURUSD,H1: removed
+2	17:02:58.378	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:58.409	Custom indicator task2 EURUSD,H1: removed
+2	17:02:58.425	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:58.472	Custom indicator task2 EURUSD,H1: removed
+2	17:02:58.478	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:58.510	Custom indicator task2 EURUSD,H1: removed
+2	17:02:58.525	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:02:58.572	Custom indicator task2 EURUSD,H1: removed
+2	17:02:58.579	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:10:12.879	Custom indicator task2 EURUSD,H1: removed
+2	17:10:12.895	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:10:12.910	Custom indicator task2 EURUSD,H1: removed
+2	17:10:12.926	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:10:12.957	Custom indicator task2 EURUSD,H1: removed
+2	17:10:12.979	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:10:12.995	Custom indicator task2 EURUSD,H1: removed
+2	17:10:13.010	Custom indicator task2 EURUSD,H1: loaded successfully
+2	17:10:13.042	Custom indicator task2 EURUSD,H1: removed
+2	17:10:13.064	Custom indicator task2 EURUSD,H1: loaded successfully
+1	17:39:52.882	'66686155': datacenter connecting failed [6]
+1	17:39:53.411	'66686155': connect failed [No connection]
+0	17:39:59.179	'66686155': login on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 238.80 ms)
+0	17:40:12.179	'66686155': login datacenter on ICMarketsSC-Demo06 through FRK_DC_D06 (ping: 238.80 ms)
+0	17:40:16.849	'66686155': previous successful authorization performed from 122.181.212.180
+0	17:40:20.177	'66686155': auto connecting to a better access point LD_DC_D06 (ping is 226.02 ms)
+0	17:40:20.986	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.02 ms)
+0	17:40:24.094	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.02 ms)
+0	17:40:25.353	'66686155': previous successful authorization performed from 122.181.212.180
+2	18:19:43.611	Custom indicator Task1 EURUSD,H1: removed
+2	18:19:43.626	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	18:19:43.658	Custom indicator Task1 EURUSD,H1: removed
+2	18:19:43.673	Custom indicator Task1 EURUSD,H1: loaded successfully
+2	18:23:00.962	Custom indicator Trend Market Sentiment EURUSD,H1: loaded successfully
+2	18:40:56.050	Custom indicator RVI_application EURUSD,H1: removed
+2	18:40:56.065	Custom indicator dashboard_leftside EURUSD,H1: removed
+2	18:40:56.065	Custom indicator movingavg_application EURUSD,H1: removed
+2	18:40:56.081	Custom indicator Trend_Line EURUSD,H1: removed
+2	18:40:56.081	Expert button_application EURUSD,H1: removed
+2	18:40:56.097	Expert standard_deviation_indicator EURUSD,H1: removed
+2	18:40:56.097	Custom indicator Task1 EURUSD,H1: removed
+2	18:40:56.112	Custom indicator Task1 EURUSD,H1: removed
+2	18:40:56.112	Custom indicator ATR EURUSD,H1: removed
+2	18:40:56.112	Custom indicator task2 EURUSD,H1: removed
+2	18:40:56.128	Custom indicator task2 EURUSD,H1: removed
+2	18:40:56.128	Custom indicator task2 EURUSD,H1: removed
+2	18:40:56.143	Custom indicator task4 EURUSD,H1: removed
+2	18:40:56.143	Custom indicator task2 EURUSD,H1: removed
+2	18:40:56.159	Custom indicator task2 EURUSD,H1: removed
+2	18:40:56.159	Custom indicator Trend Market Sentiment EURUSD,H1: removed
+0	18:40:56.581	IC Markets (SC) MT4 build 1415 stopped

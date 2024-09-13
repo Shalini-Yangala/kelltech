@@ -1,0 +1,242 @@
+0	14:08:43.489	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	14:08:43.489	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3568 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	14:08:43.489	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	14:08:46.034	Custom indicator Ichimoku1 EURUSD,H1: loaded successfully
+0	14:08:50.613	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.10 ms)
+0	14:08:53.105	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 220.10 ms)
+0	14:08:54.099	'66686155': previous successful authorization performed from 103.213.202.61
+2	14:09:00.087	Custom indicator Ichimoku1 EURUSD,H1: removed
+0	14:09:00.784	'66686155': ping to current access point LD_DC_D06 is 225.05 ms
+2	14:15:39.773	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:16:13.603	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:19:53.046	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:19:56.829	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:20:04.951	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:20:13.051	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:23:59.158	Custom indicator Accelerator EURUSD,H1: loaded successfully
+2	14:24:32.356	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	14:24:41.005	Custom indicator Bears EURUSD,H1: loaded successfully
+2	14:25:11.773	Custom indicator Momentum EURUSD,H1: loaded successfully
+2	14:31:44.089	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:31:44.105	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:31:44.183	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:31:44.199	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:31:56.851	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:32:23.954	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:32:23.954	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:32:23.954	Custom indicator Accelerator EURUSD,H1: removed
+2	14:43:37.121	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:43:37.137	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:43:45.912	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:44:40.907	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:44:40.938	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:44:41.090	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:44:41.114	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:44:52.977	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:59:41.328	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:59:41.356	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:59:41.519	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:59:41.541	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:59:41.700	Custom indicator MobIndicator EURUSD,H1: removed
+2	14:59:41.724	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	14:59:53.859	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:08:44.340	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:08:44.356	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:08:44.472	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:08:44.488	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:08:44.588	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:08:44.603	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:08:44.719	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:08:44.742	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:09:29.296	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:10:30.488	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:10:33.176	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:10:40.233	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:10:42.235	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:10:48.416	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:11:01.141	Custom indicator Bulls EURUSD,H1: removed
+2	15:11:01.146	Custom indicator Bears EURUSD,H1: removed
+2	15:11:01.156	Custom indicator Momentum EURUSD,H1: removed
+0	15:11:01.766	IC Markets (SC) MT4 build 1420 stopped
+0	15:11:34.837	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	15:11:34.837	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3437 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	15:11:34.837	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:11:36.335	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	15:11:36.351	Custom indicator Bears EURUSD,H1: loaded successfully
+2	15:11:36.366	Custom indicator Momentum EURUSD,H1: loaded successfully
+0	15:11:37.754	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.05 ms)
+0	15:11:40.075	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 225.05 ms)
+0	15:11:41.010	'66686155': previous successful authorization performed from 103.213.202.61
+0	15:11:47.729	'66686155': ping to current access point LD_DC_D06 is 226.33 ms
+2	15:12:11.070	Custom indicator MobIndicator USDCAD,H1: loaded successfully
+2	15:13:16.743	Custom indicator MobIndicator USDCAD,H1: removed
+2	15:13:16.759	Custom indicator MobIndicator USDCAD,H1: loaded successfully
+2	15:16:14.599	Custom indicator MobIndicator USDCAD,H1: removed
+2	15:16:14.614	Custom indicator MobIndicator USDCAD,H1: loaded successfully
+2	15:16:21.484	Custom indicator MobIndicator USDCAD,H1: removed
+2	15:16:36.325	Custom indicator Bulls EURUSD,H1: removed
+2	15:16:36.340	Custom indicator Bears EURUSD,H1: removed
+2	15:16:36.340	Custom indicator Momentum EURUSD,H1: removed
+0	15:16:36.657	IC Markets (SC) MT4 build 1420 stopped
+0	15:17:04.321	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	15:17:04.321	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3483 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	15:17:04.321	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:17:05.830	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	15:17:05.846	Custom indicator Bears EURUSD,H1: loaded successfully
+2	15:17:05.862	Custom indicator Momentum EURUSD,H1: loaded successfully
+0	15:17:07.149	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	15:17:09.217	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	15:17:10.117	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:17:17.392	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:23:19.487	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:23:19.502	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:23:36.183	Custom indicator MobIndicator EURUSD,H1: removed
+0	15:24:53.524	Sources recompilation started
+2	15:25:40.415	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:28:36.495	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:28:36.499	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:29:42.794	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:29:42.809	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:29:54.502	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:30:54.998	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:30:55.014	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:30:55.098	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:30:55.114	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:35:35.119	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:35:35.134	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:35:35.250	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:35:35.266	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:35:42.260	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:36:02.544	Custom indicator MobIndicator AUDCHF,H1: loaded successfully
+2	15:38:02.102	Custom indicator MobIndicator AUDCHF,H1: removed
+2	15:38:02.118	Custom indicator MobIndicator AUDCHF,H1: loaded successfully
+2	15:38:02.202	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:38:02.218	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:38:02.318	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:38:02.318	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:38:02.419	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:38:02.434	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:40:31.625	Custom indicator MobIndicator AUDCHF,H1: removed
+2	15:40:31.625	Custom indicator MobIndicator AUDCHF,H1: loaded successfully
+2	15:40:31.741	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:40:31.756	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:40:31.856	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:40:31.872	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:40:31.988	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:40:32.004	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:40:46.650	Custom indicator MobIndicator AUDCHF,H1: removed
+2	15:40:49.932	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:40:49.939	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:41:18.519	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:41:18.539	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:41:48.304	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:41:48.319	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	15:41:59.879	Custom indicator MobIndicator GBPUSD,H1: removed
+2	15:42:05.824	Custom indicator Bulls EURUSD,H1: removed
+2	15:42:05.841	Custom indicator Bears EURUSD,H1: removed
+2	15:42:05.851	Custom indicator Momentum EURUSD,H1: removed
+0	15:42:06.469	IC Markets (SC) MT4 build 1420 stopped
+0	15:42:12.712	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	15:42:12.712	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3238 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	15:42:12.712	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:42:14.283	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	15:42:14.290	Custom indicator Bears EURUSD,H1: loaded successfully
+2	15:42:14.306	Custom indicator Momentum EURUSD,H1: loaded successfully
+0	15:42:15.609	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	15:42:17.899	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	15:42:18.969	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:43:55.836	Custom indicator MobIndicator_cool GBPUSD,H1: loaded successfully
+2	15:44:12.514	Custom indicator MobIndicator_cool GBPUSD,H1: removed
+2	15:46:10.250	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:47:04.967	Custom indicator Mob USDCAD,H1: removed
+2	15:47:04.983	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:47:09.065	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:49:57.563	Custom indicator Mob USDCAD,H1: removed
+2	15:49:57.579	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:49:57.695	Custom indicator Mob USDCAD,H1: removed
+2	15:49:57.710	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:50:10.333	Custom indicator Mob EURUSD,H1: loaded successfully
+2	15:54:50.459	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:55:03.065	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:55:10.405	Custom indicator Bulls EURUSD,H1: removed
+2	15:55:10.418	Custom indicator Bears EURUSD,H1: removed
+2	15:55:10.437	Custom indicator Momentum EURUSD,H1: removed
+2	15:55:10.448	Custom indicator Mob USDCAD,H1: removed
+2	15:55:10.454	Custom indicator Mob USDCAD,H1: removed
+2	15:55:10.478	Custom indicator Mob EURUSD,H1: removed
+0	15:55:11.281	IC Markets (SC) MT4 build 1420 stopped
+0	15:55:33.563	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	15:55:33.564	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 2753 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	15:55:33.564	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	15:55:36.269	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	15:55:36.286	Custom indicator Bears EURUSD,H1: loaded successfully
+2	15:55:36.304	Custom indicator Momentum EURUSD,H1: loaded successfully
+2	15:55:36.402	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:55:36.425	Custom indicator Mob USDCAD,H1: loaded successfully
+2	15:55:36.674	Custom indicator Mob EURUSD,H1: loaded successfully
+0	15:55:38.734	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	15:55:40.845	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	15:55:41.941	'66686155': previous successful authorization performed from 103.213.202.61
+2	15:55:52.517	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:55:59.202	Custom indicator Mob EURUSD,H1: removed
+2	15:56:01.075	Custom indicator Mob USDCAD,H1: removed
+2	15:56:01.078	Custom indicator Mob USDCAD,H1: removed
+2	15:57:15.680	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:57:15.700	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	15:59:10.053	Custom indicator MobIndicator EURUSD,H1: removed
+2	15:59:10.078	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	16:02:47.887	Custom indicator MobIndicator_cool EURUSD,H1: loaded successfully
+2	16:03:18.706	Custom indicator Bulls EURUSD,H1: removed
+2	16:03:18.714	Custom indicator Bears EURUSD,H1: removed
+2	16:03:18.720	Custom indicator Momentum EURUSD,H1: removed
+2	16:03:18.735	Custom indicator MobIndicator EURUSD,H1: removed
+2	16:03:18.764	Custom indicator MobIndicator_cool EURUSD,H1: removed
+0	16:03:19.548	IC Markets (SC) MT4 build 1420 stopped
+0	16:49:52.470	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	16:49:52.471	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3041 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	16:49:52.471	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	16:49:54.065	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	16:49:54.079	Custom indicator Bears EURUSD,H1: loaded successfully
+2	16:49:54.093	Custom indicator Momentum EURUSD,H1: loaded successfully
+2	16:49:54.177	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	16:49:54.240	Custom indicator MobIndicator_cool EURUSD,H1: loaded successfully
+0	16:49:55.689	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	16:49:57.872	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 226.33 ms)
+0	16:49:58.914	'66686155': previous successful authorization performed from 152.59.195.253
+0	16:50:05.761	'66686155': ping to current access point LD_DC_D06 is 242.24 ms
+2	16:51:13.841	Custom indicator MobIndicator_cool EURUSD,H1: removed
+2	16:51:16.204	Custom indicator MobIndicator EURUSD,H1: removed
+2	16:51:27.037	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	16:51:46.503	Custom indicator Bulls EURUSD,H1: removed
+2	16:51:46.508	Custom indicator Bears EURUSD,H1: removed
+2	16:51:46.515	Custom indicator Momentum EURUSD,H1: removed
+2	16:51:46.537	Custom indicator MobIndicator EURUSD,H1: removed
+0	16:51:46.991	IC Markets (SC) MT4 build 1420 stopped
+0	23:25:33.843	IC Markets (SC) MT4 build 1420 started (Raw Trading Ltd)
+0	23:25:33.843	Windows 10 Pro x64, UAC, 4 x Intel Core i5-5300U  @ 2.30GHz, Memory: 3284 / 8067 Mb, Disk: 3 / 53 Gb, GMT+5
+0	23:25:33.843	Data Folder: C:\Users\shall\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5
+2	23:25:36.244	Custom indicator Bulls EURUSD,H1: loaded successfully
+2	23:25:36.276	Custom indicator Bears EURUSD,H1: loaded successfully
+2	23:25:36.291	Custom indicator Momentum EURUSD,H1: loaded successfully
+2	23:25:36.416	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+0	23:25:38.260	'66686155': login on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 242.24 ms)
+0	23:25:41.275	'66686155': login datacenter on ICMarketsSC-Demo06 through LD_DC_D06 (ping: 242.24 ms)
+0	23:25:42.357	'66686155': previous successful authorization performed from 103.213.202.61
+0	23:25:52.981	'66686155': ping to current access point LD_DC_D06 is 258.64 ms
+2	23:27:27.928	Custom indicator MobIndicator EURUSD,H1: removed
+2	23:27:27.944	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+2	23:28:03.867	Custom indicator MobIndicator EURUSD,H1: removed
+2	23:28:25.620	Custom indicator MobIndicator GBPUSD,H1: loaded successfully
+2	23:35:07.170	Custom indicator MobIndicator GBPUSD,H1: removed
+2	23:35:25.789	Custom indicator Mob_loop AUDCHF,H1: loaded successfully
+0	23:37:39.257	Sources recompilation started
+2	23:37:46.390	Custom indicator Mob_loop AUDCHF,H1: removed
+2	23:37:46.406	Custom indicator Mob_loop AUDCHF,H1: loaded successfully
+2	23:38:12.570	Custom indicator Mob_loop AUDCHF,H1: removed
+2	23:38:34.487	Custom indicator Mob EURUSD,H1: loaded successfully
+2	23:39:10.518	Custom indicator Mob1_loop EURUSD,H1: loaded successfully
+2	23:39:55.978	Custom indicator Mob_loop EURUSD,H1: loaded successfully
+2	23:41:06.225	Custom indicator MobIndicator_cool EURUSD,H1: loaded successfully
+2	23:41:08.926	Custom indicator MobIndicator_cool EURUSD,H1: removed
+2	23:41:11.493	Custom indicator MobIndicator EURUSD,H1: loaded successfully
+1	23:41:45.262	'66686155': connect failed [No connection]
